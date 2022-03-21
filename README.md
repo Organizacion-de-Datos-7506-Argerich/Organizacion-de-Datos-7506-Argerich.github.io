@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Bienvenides!
 
-You can use the [editor on GitHub](https://github.com/Organizacion-de-Datos-7506-Argerich/Organizacion-de-Datos-7506-Argerich.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hola! Este es el sitio que vamos a estar usando durante la cursada 1c2022
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Cuerpo docente
 
-### Markdown
+* Damián Martinelli
+* Gianmarco Cafferata
+* Julian Crespo
+* Esteban Djeordjian
+* Tomás Nocetti
+* Julieta Ponti
+* Manuel Battan
+* Matias Rotondo
+* Hige
+* Ignacio Argel
+* Ignacio Brusatti
+* Lucas Waisten
+* Lucas Bilo
+* Matias Fusco
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Calendario
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Organizacion-de-Datos-7506-Argerich/Organizacion-de-Datos-7506-Argerich.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+| Día | Tema | Teórica |
+|-----|------|---------|
+|  21/3   |   Administrivia, Introducción a Data Science, Introducción a Big Data, Tipos de Datos.   |    [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYevnuxYBfrvQ32zJJE2--Y4)     |
+|  28/3   |   DataFrames. Análisis Exploratorio de Datos, Introducción a Pandas.   |    [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYevnuxYBfrvQ32zJJE2--Y4) (hasta "clase 2" inclusive)     |
