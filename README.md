@@ -1,6 +1,4 @@
-## Bienvenides!
-
-Hola! Este es el sitio que vamos a estar usando durante la cursada 1c2022
+Este es el sitio que vamos a estar usando durante la cursada 1c2022 de la materia Organización de Datos de la cátedra Argerich.
 
 ## Cuerpo docente
 
