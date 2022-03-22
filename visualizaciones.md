@@ -4,7 +4,7 @@ Como parte del desarrollo del TP1 pedimos una visualización original, aquí des
 
 ## 2do cuatrimestre 2021
 
-![](/assets/images/visus/basura.png "")
+![]({{site.url}}/visus/basura.png "")
 
 ![](visus/f1_top_win_ratio.png "")
 
