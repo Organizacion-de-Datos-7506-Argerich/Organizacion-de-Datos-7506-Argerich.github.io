@@ -4,24 +4,25 @@ Como parte del desarrollo del TP1 pedimos una visualización original, aquí des
 
 ## 2do cuatrimestre 2021
 
-![]({{site.url}}/visus/basura.png "")
 
-![](visus/f1_top_win_ratio.png "")
+<img src="visus/basura.png" />
 
-![](visus/velocidades.png "")
+<img src="visus/f1_top_win_ratio.png" />
 
-![](visus/videogames_tetris.png "")
+<img src="visus/velocidades.png" />
 
-![](visus/mario_kart.png "")
+<img src="visus/videogames_tetris.png" />
 
-![](visus/dota_2.png "")
+<img src="visus/mario_kart.png" />
 
-![](visus/messi.png "")
+<img src="visus/dota_2.png" />
 
-![](visus/record_messi.png "")
+<img src="visus/messi.png" />
 
-![](visus/river_boca.png "")
+<img src="visus/record_messi.png" />
 
-![](visus/titulos_1ra_division.png "")
+<img src="visus/river_boca.png" />
 
-![](visus/turismo.png "")
+<img src="visus/titulos_1ra_division.png" />
+
+<img src="visus/turismo.png" />
