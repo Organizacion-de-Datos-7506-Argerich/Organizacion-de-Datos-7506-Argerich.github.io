@@ -16,6 +16,7 @@ Este es el sitio que vamos a estar usando durante la cursada 1c2022 de la materi
 * Lucas Waisten
 * Lucas Bilo
 * Matias Fusco
+* Nahuel Spieguelman
 
 ## Links
 
