@@ -42,7 +42,3 @@ Como parte del desarrollo del TP1 pedimos una visualización original, aquí des
 <hr>
 
 <img src="visus/titulos_1ra_division.png" />
-
-<hr>
-
-<img src="visus/turismo.png" />
