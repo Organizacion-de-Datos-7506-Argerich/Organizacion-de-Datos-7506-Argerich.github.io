@@ -2,7 +2,7 @@
 
 ## Bibliografía oficial
 
-Como bibliografía oficial usamos el [apunte de la materia.](https://raw.githubusercontent.com/lrargerich/Apunte/master/apunte.pdf). Tiene más temas que los vistos en cada cuatrimestre.
+Como bibliografía oficial usamos el [apunte de la materia](https://raw.githubusercontent.com/lrargerich/Apunte/master/apunte.pdf). Tiene más temas que los vistos en cada cuatrimestre.
 Tambien tenemos una [introducción a redes neuronales](pdfs/intro_redes.pdf).
 
 ## Bibliografía sugerida
