@@ -28,4 +28,4 @@ Esta bibliografía es para complementar o seguir estudiando una vez terminada la
 
 ### Otros
 
-* [Mining of Massiva Datasets](http://www.mmds.org/)
+* [Mining of Massive Datasets](http://www.mmds.org/)
