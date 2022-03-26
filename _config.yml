@@ -5,3 +5,4 @@ description: 1er cuatrimestre 2022
 keep_files: ["visus"]
 include:
   - "visus"
+  - "pdfs"
