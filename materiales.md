@@ -53,3 +53,12 @@ Estos ejercicios son de cuando tomábamos parciales/parcialitos, pueden ser úti
 * [Spark](https://docs.google.com/document/d/1gZZcMluJfF0BPQ5Q8xW4v9qP63uiI1Zny3GkEoNWahs/edit?usp=sharing)
 * [Reducción de dimensiones](https://docs.google.com/document/d/1EzmOOThMRfGfqIKdOkWNmuqrC5WkkeHEBBE_TOK36i0/edit)
 * [Ejercicios machine learning](pdfs/ejercicios_ml.pdf): OJO algunos temas ya no se ven
+
+## Enunciados de TP viejos
+
+### Segundo cuatrimestre 2021
+
+* [TP1](pdfs/TP1_2C2021.pdf)
+* [TP2](pdfs/TP2_2C2021.pdf)
+* [TP3](pdfs/TP3_2C2021.pdf)
+* [TP4](pdfs/TP4_2C2021.pdf)
