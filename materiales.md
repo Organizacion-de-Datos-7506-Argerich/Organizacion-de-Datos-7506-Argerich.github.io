@@ -5,7 +5,7 @@
 Como bibliografía oficial usamos el [apunte de la materia](https://raw.githubusercontent.com/lrargerich/Apunte/master/apunte.pdf). Tiene más temas que los vistos en cada cuatrimestre.
 Tambien tenemos una [introducción a redes neuronales](pdfs/intro_redes.pdf).
 
-## Bibliografía sugerida
+## Bibliografía y material sugerido
 
 Esta bibliografía es para complementar o seguir estudiando una vez terminada la materia. Está siempre en construcción.
 
@@ -25,6 +25,19 @@ Esta bibliografía es para complementar o seguir estudiando una vez terminada la
 ### Para Spark
 
 * [Data-Intensive Text Processing with MapReduce](https://lintool.github.io/MapReduceAlgorithms/) de Jimmy Lin y Chris Dyer
+
+### Para visus
+
+Teoría de visus:
+
+* "The Visual Display of Quantitative Information", Edward R.Tufte
+* Video: [Everything we know about how human interpret graphics](https://www.youtube.com/watch?v=s0J6EDvlN30)
+
+Ejemplos de visus:
+
+* "The Visual Miscellaneum: A Colorful Guide to the World's Most Consequential Trivia", David McCandless
+* "Knowledge is Beautiful", David McCandless
+
 
 ### Otros
 
