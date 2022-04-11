@@ -189,7 +189,7 @@ Debe elegir tres de los siguientes datasets:
 ## Puntos extra (hasta tres <img src="imgs/1c2022/luisito.jpg" />)
 
 Utilizamos el promedio del puntaje normalizado de cada kahoot/parcialito para armar un podio.
-Quien esté primero recibira tres recibiran dos <img src="imgs/1c2022/luisito.jpg" />, quienes estén segundos o terceros recibiran dos <img src="imgs/1c2022/luisito.jpg" /> extra. Quienes estén en cuarto y quinto puesto un <img src="imgs/1c2022/luisito.jpg" /> extra.
+Quien esté primero recibira tres <img src="imgs/1c2022/luisito.jpg" />, quienes estén segundos o terceros recibiran dos <img src="imgs/1c2022/luisito.jpg" /> extra. Quienes estén en cuarto y quinto puesto un <img src="imgs/1c2022/luisito.jpg" /> extra.
 
 ## Criterio de aprobación
 
