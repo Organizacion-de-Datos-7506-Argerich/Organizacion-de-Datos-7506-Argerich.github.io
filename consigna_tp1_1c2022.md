@@ -56,7 +56,7 @@ Yelp es un sitio donde se pueden dejar reseñas y tips sobre negocios de todo ti
 
 ### Consignas a realizar
 
-Debajo están las consignas de el TP entero, deberá realizar las que le toquen según la siguiente tabla: **en construcción**
+Debajo están las consignas de el TP entero, deberá realizar las que le toquen según la tabla que se encuentra al final.
 
 Tienen asignados **1 ejercicio que vale un** <img src="imgs/1c2022/luisito.jpg" />, **4 que valen dos** <img src="imgs/1c2022/luisito.jpg" /> y **2 que valen tres** <img src="imgs/1c2022/luisito.jpg" />. Además tienen almenos un ejercicio de compresión, visualizaciones y NLP.
 
@@ -81,7 +81,7 @@ Tienen asignados **1 ejercicio que vale un** <img src="imgs/1c2022/luisito.jpg" 
   * Después de comer queremos ir a un bar a tomar tragos, ¿cuál es el mejor de la categoría “Bars”?
   * ¿Cuál es el mejor museo (categoría “Museums”)? ¿De qué trata?
 * **P14** (<img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />). Ginebra planea mudarse a la ciudad de Santa Bárbara. Con ella llevará a su perro "Gin". Es por esto, que quiere saber cuales son las reviews del local más cercano a la ubicación donde ha logrado alquilar un departamento de venta de artículos para mascotas, dado que es una compradora compulsiva de juguetes para él. También devolver la distancia euclídea. El departamento se encuentra en las coordenadas: 34.424137, -119.690012.
-* **P15** (<img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />). ¿Cuál es el usuario más exigente por localidad?
+* **P15** (<img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />). ¿Cuál es el usuario más quejumbroso por estado? Consideramos quejumbroso a un usuario que tiene más de 5 reviews y son todas de 1 estrella o menos.
 * **P16** (<img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />). La antigüedad promedio de los usuarios y el nombre del usuario más antiguo cuyas última review contenga la palabra 'pizza'
 * **P17** (<img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />). Queremos saber cuáles son los negocios más sexys, para esto vamos a ver cuáles son los 3 el negocios con más tips que contengan el texto "sexy"
 * **P18** (<img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />). Yelp tiene la teoría de que quienes hacen las reviews más útiles en la plataforma son aquellos usuarios con más antigüedad. Para probar está hipótesis para cada review consiga la suma total de sus votos (funny + cool + useful) y correlacionela con la antigüedad del usuario *al momento de hacer la review*.
@@ -226,3 +226,97 @@ Todos los ejercicios valen lo mismo que los <img src="imgs/1c2022/luisito.jpg" /
 2. Debe cumplir con el objetivo propuesto: Les recomendamos preguntar en clases de consultas o por slack, vamos a estar guiandolos en este punto. Dado que la elección de este dataset es personal pueden ir compartiendo sus ideas/bocetos o consultar lo que quiera sobre este punto de forma pública en #consultas-tp1 o si lo prefieren en privado con su ayudante.
 
 Valoramos que se ayuden entre ustedes, debatan y compartan ideas y tips en el canal de slack!
+
+## Asignaciones
+
+El equipo NIL (Nahuel Spieguelman, Ignacio Argel y Lucas Bilo) se fusiono en uno y van a responder consultas todos juntos, por lo que por favor si les tocaron escribanles a los 3 juntos.
+
+<img src="https://i.gifer.com/GAf7.gif" />
+
+|   Padron | Nombre                              | 1 - <img src="imgs/1c2022/luisito.jpg" />   | 2 - <img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />   | 3 - <img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />   | 4 - <img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />   | 5 - <img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />   | 6 - <img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />   | 7 - <img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />   | Ayudante asignado                                   |
+|---------:|:------------------------------------|:--------|:---------|:---------|:---------|:---------|:----------|:----------|:----------------------------------------------------|
+|   107143 | CALDERON, GONZALO MANUEL            | N1      | P21      | N5       | V3       | C2       | V10       | N7        | Ignacio Brusati                                     |
+|   101830 | DE SANTIS, FEDERICO EZEQUIEL        | P4      | V4       | V7       | N3       | C2       | V9        | P33       | Gianmarco Cafferata                                 |
+|   108183 | DIAZ, JUAN MANUEL                   | P1      | P8       | N6       | V6       | C2       | C6        | P31       | Lucas Waisten                                       |
+|   104424 | FERNANDEZ FOX, JOEL ISAAC           | V1      | V8       | P21      | N2       | C3       | P31       | P33       | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
+|   105027 | GOMEZ, THIAGO EZEQUIEL              | V1      | P15      | P10      | C2       | N4       | P32       | N7        | Matias Rotondo                                      |
+|   105906 | GRUSS, OLIVIER ANTOINE              | P4      | P10      | P23      | N6       | V8       | C5        | N8        | Ignacio Brusati                                     |
+|   101933 | KARAGOZ, FILYAN                     | P2      | P20      | V2       | N5       | C3       | P28       | P32       | Damian Martinelli                                   |
+|   106148 | METZ, MIGUEL GABRIEL                | P2      | C2       | V5       | N6       | P17      | C8        | C4        | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
+|   108221 | PAVON, MARIA DOLORES                | P2      | P17      | P14      | V2       | N5       | C4        | P29       | Damian Martinelli                                   |
+|   101946 | PUQUIO ROJAS, GIANCARLO JOSE        | P6      | C2       | P26      | N5       | V8       | N8        | P28       | Gianmarco Cafferata                                 |
+|   106016 | VAGÓ, NICOLÁS ESTEBAN               | C1      | P25      | P23      | V2       | N5       | C4        | N8        | Julieta Ponti                                       |
+|    97023 | YBARRA ESCALANTE, DIEGO EMANUEL     | P1      | P26      | P20      | C2       | V7       | N8        | V9        | Esteban Djeordijan                                  |
+|   105829 | AGAMA  AVILA, ANNALI ARELY          | P5      | P12      | P20      | V6       | N6       | C5        | P31       | Julieta Ponti                                       |
+|   104221 | AGUILAR, PEDRO                      | P6      | N6       | P16      | V6       | C3       | V9        | P32       | Damian Martinelli                                   |
+|   100199 | AGUIRRE, ARIEL LEANDRO              | P5      | N3       | P25      | V8       | C3       | P28       | C4        | Matias Fusco                                        |
+|    79558 | ALBORNOZ, ROMINA CARLA              | C1      | P21      | P19      | V7       | N2       | P31       | P28       | Lucas Waisten                                       |
+|   101589 | ALVAREZ, JUAN MANUEL                | P3      | V6       | N3       | C3       | P17      | C4        | P28       | Matias Fusco                                        |
+|   105081 | AVENDAÑO PADILLA, FRANZ JULIO       | P1      | P22      | C2       | V3       | N3       | N7        | V10       | Damian Martinelli                                   |
+|   104482 | AVILA CABRERA, GASTON               | P2      | V2       | P13      | N3       | C3       | P30       | P33       | Lucas Waisten                                       |
+|    98592 | BLOISE, JULIETA                     | P4      | N6       | P22      | V6       | C3       | C8        | P32       | Manuel Battan                                       |
+|   104733 | BRASBURG, AGUSTIN                   | P6      | P27      | P18      | V4       | N5       | C8        | C6        | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
+|   106211 | BULNES, MATEO                       | P6      | V5       | P19      | N2       | C3       | P29       | N7        | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
+|   102842 | CALIZ BLANCO, ALEJO MARTIN EZEQUIEL | P5      | P11      | P17      | V2       | N3       | C7        | P29       | Damian Martinelli                                   |
+|    99676 | CANTERO, ALAN EZEQUIEL              | P1      | P15      | V3       | N5       | C2       | P33       | P29       | Esteban Djeordijan                                  |
+|    99642 | CAPRA, FRANCO DANIEL                | P5      | P16      | N2       | V3       | C2       | P32       | C4        | Ignacio Brusati                                     |
+|   106551 | CASTRO, NAHUEL ELIAS                | C1      | N3       | N4       | P18      | V7       | P30       | V10       | Gianmarco Cafferata                                 |
+|    99879 | CLAROS CASTRO, ELVIS                | N1      | N2       | P8       | V7       | C3       | P28       | C8        | Damian Martinelli                                   |
+|   102104 | COSTA, LUCIANO                      | P3      | V2       | V5       | N4       | C2       | C7        | C5        | Damian Martinelli                                   |
+|   104098 | CUPPARI, FRANCO                     | P6      | V7       | P9       | N4       | C3       | V9        | C8        | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
+|   106855 | DAHAB, MOISES TOMAS                 | P7      | P16      | N2       | V6       | C2       | C7        | N8        | Gianmarco Cafferata                                 |
+|   106368 | DELLA VECCHIA, TOMAS                | P4      | P20      | P14      | V6       | N3       | C8        | C5        | Esteban Djeordijan                                  |
+|   104525 | DEMARCHI, LUCAS                     | P4      | P17      | P11      | V2       | N6       | C7        | P30       | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
+|   105122 | DIAZ CALIXTO, LUZ MILAGROS          | N1      | P11      | P24      | V4       | C3       | V10       | P32       | Ignacio Brusati                                     |
+|   104581 | DUZAC, JUAN MARTIN                  | P7      | P14      | N6       | V5       | C3       | P30       | P33       | Gianmarco Cafferata                                 |
+|   106295 | ENCINOZA VILELA, NATHALIA LUCIA     | P1      | V3       | V2       | N4       | C2       | C7        | V10       | Gianmarco Cafferata                                 |
+|   103992 | ESPERON, RAMIRO                     | P3      | P22      | P15      | C2       | V8       | N7        | V9        | Matias Rotondo                                      |
+|   103512 | FERNANDEZ BOCH, VALERIA ALEJANDRA   | P7      | P12      | P11      | V5       | N2       | C5        | V9        | Gianmarco Cafferata                                 |
+|    81006 | FERNANDEZ, OMAR ALFREDO             | N1      | N3       | V8       | P19      | C3       | P31       | N8        | Gianmarco Cafferata                                 |
+|    86125 | FONZALIDA, MIGUEL ANGEL             | V1      | V6       | P9       | C3       | N6       | P32       | P30       | Manuel Battan                                       |
+|   102396 | FRESIA, JUAN PABLO                  | N1      | N5       | P16      | V4       | C2       | P30       | C6        | Gianmarco Cafferata                                 |
+|   102184 | FUENTES, AZUL LUCILA                | P7      | P27      | P12      | N5       | V7       | C6        | P29       | Gianmarco Cafferata                                 |
+|    97490 | GALLO, ROCIO MARIANA                | P1      | P25      | P21      | V5       | N3       | C7        | C6        | Gianmarco Cafferata                                 |
+|   105552 | GENERAL, CAMILA                     | C1      | P19      | P17      | V8       | N5       | C6        | P32       | Damian Martinelli                                   |
+|   106514 | GOMEZ, NAHUEL NICOLAS               | P2      | P18      | C3       | V3       | N2       | P33       | C5        | Ignacio Brusati                                     |
+|    88060 | GORDILLO, LUIS ALEJANDRO            | C1      | P12      | N5       | V3       | P18      | P29       | V10       | Matias Rotondo                                      |
+|   104623 | GRAZIOSI, GERMAN                    | N1      | P24      | V7       | C3       | P21      | V10       | P29       | Gianmarco Cafferata                                 |
+|   105798 | GRÜNER, TOMÁS                       | N1      | P23      | P27      | V6       | C2       | P33       | C5        | Gianmarco Cafferata                                 |
+|   105553 | JALEH, FEDERICO EZEQUIEL            | P5      | N2       | C3       | V4       | P19      | P31       | V9        | Damian Martinelli                                   |
+|    99093 | JAMILIS, NETANEL DAVID              | P6      | P13      | N3       | V4       | C3       | P33       | P28       | Damian Martinelli                                   |
+|    94727 | JARMOLINSKI, ARIAN LUCAS            | P7      | C2       | V8       | N4       | P21      | P29       | C7        | Damian Martinelli                                   |
+|    87796 | LA TORRE, GABRIEL                   | P7      | P15      | P20      | V8       | N6       | C5        | P30       | Gianmarco Cafferata                                 |
+|   105931 | LAZZARO, MELINA                     | P3      | P25      | C3       | N4       | V7       | N8        | C8        | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
+|   100589 | LEGUIZAMON, VERONICA BEATRIZ        | P3      | P23      | P25      | V8       | N5       | C6        | C5        | Matias Rotondo                                      |
+|   106223 | LITTERI, IVAN                       | V1      | N4       | P13      | C2       | P19      | N7        | P29       | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
+|   104002 | LOSCOCCO, IGNACIO ARIEL             | P5      | P24      | N4       | V8       | C3       | P33       | P30       | Gianmarco Cafferata                                 |
+|   105771 | MANGIATERRA, FEDERICO CARLOS        | C1      | P8       | P19      | V8       | N5       | P28       | C6        | Gianmarco Cafferata                                 |
+|   105994 | MARCHESINI, SOFIA                   | N1      | P26      | V8       | C3       | P9       | P30       | C7        | Julieta Ponti                                       |
+|   105554 | ORQUERA LORDA, FRANCISCO            | V1      | V4       | P10      | C3       | N3       | C4        | C7        | Julieta Ponti                                       |
+|   102256 | OSCO CABRERA, ALEJANDRO ABRAHAM     | V1      | P9       | P27      | N6       | C2       | C4        | V10       | Esteban Djeordijan                                  |
+|   102649 | PAGURA, SEBASTIAN MARTIN            | P5      | V8       | C2       | N3       | P21      | P28       | P31       | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
+|   102679 | PALAZON, MARTIN                     | V1      | P21      | P13      | N3       | C2       | V9        | P31       | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
+|   100972 | PEREZ LEIRAS, AGUSTIN TOMAS         | P3      | P26      | N2       | V7       | C3       | P29       | C8        | Damian Martinelli                                   |
+|    98230 | PERRONE, PATRICIO NAHUEL            | P7      | P16      | P27      | V5       | N2       | C8        | C7        | Gianmarco Cafferata                                 |
+|   104229 | PONT TOVAR, MARIA FERNANDA          | C1      | P13      | P9       | V8       | N6       | C6        | P30       | Esteban Djeordijan                                  |
+|    91076 | PORRAS CARHUAMACA, SHERLY KATERIN   | P3      | V4       | P22      | N5       | C2       | V9        | P30       | Damian Martinelli                                   |
+|    91561 | PRIETO, PABLO ALEJANDRO             | P5      | N5       | V4       | C3       | P17      | P28       | N8        | Gianmarco Cafferata                                 |
+|   105703 | RONDAN, MARCELO ARIEL               | N1      | N5       | V7       | P21      | C2       | V10       | P28       | Matias Fusco                                        |
+|   106280 | RUEDA, NAZARENA                     | P1      | V6       | N6       | C2       | P17      | P33       | P28       | Lucas Waisten                                       |
+|   105558 | SALESE D'ASSARO, ARIANA MAGALÍ      | P2      | V3       | V2       | N2       | C3       | C7        | N7        | Matias Rotondo                                      |
+|   105637 | SANTANDER, VALENTIN                 | C1      | P9       | P15      | N5       | V8       | N8        | P31       | Damian Martinelli                                   |
+|    99131 | SECCHI, ANA MARIA                   | P7      | P19      | V4       | N3       | C2       | C6        | N8        | Manuel Battan                                       |
+|   106422 | SILVA, PATRICIO TOMAS               | V1      | P18      | P8       | N2       | C3       | C4        | C8        | Gianmarco Cafferata                                 |
+|    93735 | SOSA AQUINO, RICARDO ARIEL          | P6      | N4       | V5       | C2       | P19      | C6        | P31       | Esteban Djeordijan                                  |
+|    98741 | SOSA, CRISTIAN MARTIN               | P4      | C3       | P24      | V4       | N3       | C8        | C5        | Julieta Ponti                                       |
+|   104909 | TAIBO, NAZARENO GABRIEL             | P1      | C3       | P24      | V7       | N6       | P31       | V10       | Esteban Djeordijan                                  |
+|    97617 | YAVICOLI, TOMAS                     | P2      | P18      | P14      | C2       | V8       | N7        | C6        | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
+|    96995 | Matías Priano                       | P2      | V3       | V6       | N6       | C2       | V9        | C4        | Matias Fusco                                        |
+|    93751 | José Israel Ramírez                 | P4      | P8       | P12      | V5       | N4       | C5        | N7        | Damian Martinelli                                   |
+|    87039 | Zoraida Flores Sosa                 | P7      | P17      | P18      | V2       | N6       | C5        | C7        | Gianmarco Cafferata                                 |
+|   100488 | Carlos Martín Stefanelli D'elias    | P3      | P10      | P23      | N5       | V8       | C5        | C4        | Damian Martinelli                                   |
+|    97540 | Facundo Brondo                      | V1      | P14      | P10      | N3       | C3       | C4        | P32       | Gianmarco Cafferata                                 |
+|    98559 | Nicolas Allende                     | P4      | V5       | P22      | N4       | C2       | V9        | P33       | Gianmarco Cafferata                                 |
+|    96467 | José Eduardo Chávez Cabanillas      | P1      | P11      | V6       | N3       | C2       | P33       | P30       | Lucas Waisten                                       |
+|   101186 | Mauro Giampietri                    | C1      | N4       | P26      | V4       | P19      | C8        | V9        | Esteban Djeordijan                                  |
+|    97640 | Facundo Brondo                      | P6      | V7       | V3       | C3       | N6       | V10       | C7        | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
