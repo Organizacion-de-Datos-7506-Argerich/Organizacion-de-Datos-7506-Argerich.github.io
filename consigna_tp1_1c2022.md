@@ -191,10 +191,11 @@ Debe elegir tres de los siguientes datasets:
 Utilizamos el promedio del puntaje normalizado de cada kahoot/parcialito para armar un podio.
 Quien esté primero recibira tres <img src="imgs/1c2022/luisito.jpg" />, quienes estén segundos o terceros recibiran dos <img src="imgs/1c2022/luisito.jpg" /> extra. Quienes estén en cuarto y quinto puesto un <img src="imgs/1c2022/luisito.jpg" /> extra.
 
-### Podio (update: 11/04)
+### Podio actual (update: 11/04)
 
+El podio se modificara a medida participen en los Kahoots.
 
-|   padron | Alumno                       |   points | prize   |
+|   Padrón | Alumno                       |   Puntos | Premio   |
 |---------:|:-----------------------------|---------:|:--------|
 |   100972 | PEREZ LEIRAS, AGUSTIN TOMAS  | 0.952829 | <img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />       |
 |   105771 | MANGIATERRA, FEDERICO CARLOS | 0.882652 | <img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />       |
