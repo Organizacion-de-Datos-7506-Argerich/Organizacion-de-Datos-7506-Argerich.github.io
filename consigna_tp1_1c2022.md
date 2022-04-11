@@ -1,6 +1,6 @@
 # TP1 - Pandas y Visualización de datos
 
-## Primera parte - Pandas (15 argeriches <img src="imgs/1c2022/luisito.jpg" />)
+## Primera parte - Pandas (15 <img src="imgs/1c2022/luisito64.jpg" />)
 
 Vamos a utilizar como dataset los csvs de [esta carpeta](https://drive.google.com/drive/folders/1aluo8daHgFMn40ndeBkpRMzE4hN00cEj) correspondientes a un recorte de los datos de Yelp.
 
@@ -58,7 +58,7 @@ Yelp es un sitio donde se pueden dejar reseñas y tips sobre negocios de todo ti
 
 Debajo están las consignas de el TP entero, deberá realizar las que le toquen según la siguiente tabla: **en construcción**
 
-Cada une tiene asignado **1 ejercicio que vale un** <img src="imgs/1c2022/luisito.jpg" />, **4 que valen dos** <img src="imgs/1c2022/luisito.jpg" /> y **2 que valen tres** <img src="imgs/1c2022/luisito.jpg" />. Además tienen almenos un ejercicio de compresión, visualizaciones y NLP.
+Tienen asignados **1 ejercicio que vale un** <img src="imgs/1c2022/luisito.jpg" />, **4 que valen dos** <img src="imgs/1c2022/luisito.jpg" /> y **2 que valen tres** <img src="imgs/1c2022/luisito.jpg" />. Además tienen almenos un ejercicio de compresión, visualizaciones y NLP.
 
 #### Pandas y Python
 
@@ -163,7 +163,7 @@ Cada une tiene asignado **1 ejercicio que vale un** <img src="imgs/1c2022/luisit
 * **V10** (<img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />). Consiga **exactamente** esta visualización utilizando los datos:
 <img src="imgs/1c2022/4.png" />
 
-## Segunda parte - Visualización de datos (10 <img src="imgs/1c2022/luisito.jpg" />)
+## Segunda parte - Visualización de datos (10 <img src="imgs/1c2022/luisito64.jpg" />)
 
 1) (6 <img src="imgs/1c2022/luisito.jpg" />) Realizar dos visualizaciones para cada uno de los tres datasets que elija de los que le brindamos. Las visualizaciones deben incluir o ayudar a explicar la variable indicada encontrando alguna relación **interesante** con ella (esto es excluyente). Además se debe realizar almenos un plot de cada uno de los siguientes tipos:
   * Bar plot (o sus variaciones)
@@ -186,7 +186,7 @@ Debe elegir tres de los siguientes datasets:
 
 2) (<img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />) Utilice alguna herramienta para realizar diagramas (por ejemplo Google Draw, draw.io, Google Slides, HTML, Illustrator, Photoshop, alguna lib de Python novedosa, etc.) para crear una visualización **ORIGINAL** que no pueda realizarse de forma directa con las librerías más comunes de Python, puede utilizar las librerías de Python como paso intermedio. Puede realizar este punto sobre los datos de: cualquier dataset, estadística oficial, paper, estadística no oficial, encuesta, números sin ninguna fuente en un blog, etc. El objetivo es elegir un tema de su interés y comunicarlo de forma efectiva y agradable.
 
-## Puntos extra (hasta tres <img src="imgs/1c2022/luisito.jpg" />)
+## Puntos extra (hasta tres <img src="imgs/1c2022/luisito64.jpg" />)
 
 Utilizamos el promedio del puntaje normalizado de cada kahoot/parcialito para armar un podio.
 Quien esté primero recibira tres <img src="imgs/1c2022/luisito.jpg" />, quienes estén segundos o terceros recibiran dos <img src="imgs/1c2022/luisito.jpg" /> extra. Quienes estén en cuarto y quinto puesto un <img src="imgs/1c2022/luisito.jpg" /> extra.
@@ -203,6 +203,7 @@ Todos los ejercicios valen lo mismo que los <img src="imgs/1c2022/luisito.jpg" /
 
 * Cada ejercicio se considera 100% correcto si:
   * Resuelve lo pedido (¡cuidado con casos bordes! ¡revisen todo lo que pueda ser NULL!): Si el ejercicio no resuelve al 100% lo pedido, se considera que vale como máximo la mitad.
+    * Cada ejercicio deberá funcionar si los datos cambian, esto significa, por ejemplo, que no podemos buscar un valor en una tabla y copiar y pegar ese literal para buscar en otra. El código debe soportar que la respuesta cambie.
   * Lo hace de la forma más eficiente posible: Si el ejercicio no está resuelto de la forma más óptima, pierde la mitad de su valor.
 * La idea es que no lo hagan solos! Las consignas son complejas de entender en una sola lectura y necesitan pensarse lento, por esto es que es crucial consultar. Para esto hacemos lo siguiente según el tipo de duda:
   * Dudas de consigna:
