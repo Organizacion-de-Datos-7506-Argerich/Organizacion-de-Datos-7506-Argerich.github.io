@@ -56,7 +56,7 @@ Yelp es un sitio donde se pueden dejar reseñas y tips sobre negocios de todo ti
 
 ### Consignas a realizar
 
-Debajo están las consignas de el TP entero, deberá realizar las que le toquen según la tabla que se encuentra al final.
+Debajo están las consignas del TP entero, deberá realizar <h3>**las que le toquen según la tabla que se encuentra al final**</h3>.
 
 Tienen asignados **1 ejercicio que vale un** <img src="imgs/1c2022/luisito.jpg" />, **4 que valen dos** <img src="imgs/1c2022/luisito.jpg" /> y **2 que valen tres** <img src="imgs/1c2022/luisito.jpg" />. Además tienen almenos un ejercicio de compresión, visualizaciones y NLP.
 
