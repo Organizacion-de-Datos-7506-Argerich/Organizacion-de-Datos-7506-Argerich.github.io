@@ -163,14 +163,14 @@ Cada une tiene asignado **1 ejercicio que vale un** <img src="imgs/1c2022/luisit
 
 ## Segunda parte - Visualización de datos (10 <img src="imgs/1c2022/luisito.jpg" />)
 
-1. (6 <img src="imgs/1c2022/luisito.jpg" />) Realizar dos visualizaciones para cada uno de los tres datasets que elija de los que le brindamos. Las visualizaciones deben incluir o ayudar a explicar la variable indicada encontrando alguna relación **interesante** con ella (esto es excluyente). Además se debe realizar almenos un plot de cada uno de los siguientes tipos:
+1) (6 <img src="imgs/1c2022/luisito.jpg" />) Realizar dos visualizaciones para cada uno de los tres datasets que elija de los que le brindamos. Las visualizaciones deben incluir o ayudar a explicar la variable indicada encontrando alguna relación **interesante** con ella (esto es excluyente). Además se debe realizar almenos un plot de cada uno de los siguientes tipos:
   * Bar plot (o sus variaciones)
   * Histograma
   * Violin plot
   * Box plot
   * Heatmap
 
-  Debe elegir tres de los siguientes datasets:
+Debe elegir tres de los siguientes datasets:
   * [Flight delays dataset](https://www.kaggle.com/competitions/flight-delays-spring-2018/data) incluyendo la variable dep_delayed_15min.
   * [House prices](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data?select=train.csv) incluyendo la variable SalePrice.
   * [Sysarmy sueldos 2022.1](https://docs.google.com/spreadsheets/d/1h7VSFV2xkbgUi3kmJMVzCtX3RajwkzqdIyQkOsyathw/edit#gid=765652237) incluyendo la variable "Salario mensual o retiro BRUTO (en tu moneda local)".
@@ -181,7 +181,8 @@ Cada une tiene asignado **1 ejercicio que vale un** <img src="imgs/1c2022/luisit
   * [Warm Up: Predict Blood Donations](https://www.drivendata.org/competitions/2/warm-up-predict-blood-donations/page/7/) incluyendo la variable "Made Donation in March 2007".
   * [Rain in Australia](https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package) incluyendo la variable Rainfall.
   * [Disney Movies](https://www.kaggle.com/datasets/prateekmaj21/disney-movies?select=disney_movies.csv) incluyendo la variable inflation_adjusted_gross.
-2. (<img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />) Utilice alguna herramienta para realizar diagramas (por ejemplo Google Draw, draw.io, Google Slides, HTML, Illustrator, Photoshop, alguna lib de Python novedosa, etc.) para crear una visualización **ORIGINAL** que no pueda realizarse de forma directa con las librerías más comunes de Python, puede utilizar las librerías de Python como paso intermedio. Puede realizar este punto sobre los datos de: cualquier dataset, estadística oficial, paper, estadística no oficial, encuesta, números sin ninguna fuente en un blog, etc. El objetivo es elegir un tema de su interés y comunicarlo de forma efectiva y agradable.
+
+2) (<img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />) Utilice alguna herramienta para realizar diagramas (por ejemplo Google Draw, draw.io, Google Slides, HTML, Illustrator, Photoshop, alguna lib de Python novedosa, etc.) para crear una visualización **ORIGINAL** que no pueda realizarse de forma directa con las librerías más comunes de Python, puede utilizar las librerías de Python como paso intermedio. Puede realizar este punto sobre los datos de: cualquier dataset, estadística oficial, paper, estadística no oficial, encuesta, números sin ninguna fuente en un blog, etc. El objetivo es elegir un tema de su interés y comunicarlo de forma efectiva y agradable.
 
 ## Criterio de aprobación
 
