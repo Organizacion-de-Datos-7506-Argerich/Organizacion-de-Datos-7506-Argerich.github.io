@@ -1,6 +1,6 @@
 # TP1 - Pandas y Visualización de datos
 
-## Primera parte - Pandas (13 argeriches <img src="imgs/1c2022/luisito.jpg" />)
+## Primera parte - Pandas (15 argeriches <img src="imgs/1c2022/luisito.jpg" />)
 
 Vamos a utilizar como dataset los csvs de [esta carpeta](https://drive.google.com/drive/folders/1aluo8daHgFMn40ndeBkpRMzE4hN00cEj) correspondientes a un recorte de los datos de Yelp.
 
