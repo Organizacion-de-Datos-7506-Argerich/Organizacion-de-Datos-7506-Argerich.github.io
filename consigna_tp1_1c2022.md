@@ -186,9 +186,10 @@ Debe elegir tres de los siguientes datasets:
 
 2) (<img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />) Utilice alguna herramienta para realizar diagramas (por ejemplo Google Draw, draw.io, Google Slides, HTML, Illustrator, Photoshop, alguna lib de Python novedosa, etc.) para crear una visualización **ORIGINAL** que no pueda realizarse de forma directa con las librerías más comunes de Python, puede utilizar las librerías de Python como paso intermedio. Puede realizar este punto sobre los datos de: cualquier dataset, estadística oficial, paper, estadística no oficial, encuesta, números sin ninguna fuente en un blog, etc. El objetivo es elegir un tema de su interés y comunicarlo de forma efectiva y agradable.
 
-## Puntos extra (hasta <img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />)
+## Puntos extra (hasta tres <img src="imgs/1c2022/luisito.jpg" />)
 
-Quienes estén en las 3 primeras posiciones según el puntaje promedio de todos los Kahoots/parcialitos previos a las prácticas recibiran dos <img src="imgs/1c2022/luisito.jpg" /> extra. Quienes estén en cuarto y quinto puesto un <img src="imgs/1c2022/luisito.jpg" /> extra.
+Utilizamos el promedio del puntaje normalizado de cada kahoot/parcialito para armar un podio.
+Quien esté primero recibira tres recibiran dos <img src="imgs/1c2022/luisito.jpg" />, quienes estén segundos o terceros recibiran dos <img src="imgs/1c2022/luisito.jpg" /> extra. Quienes estén en cuarto y quinto puesto un <img src="imgs/1c2022/luisito.jpg" /> extra.
 
 ## Criterio de aprobación
 
