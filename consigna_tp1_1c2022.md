@@ -127,7 +127,7 @@ Cada une tiene asignado **1 ejercicio que vale un** <img src="imgs/1c2022/luisit
 * **C4** (<img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />). Si tomamos una muestra de negocios con más de 10 reviews (reviews que se sumen entre sí efectivamente), y todas sus reviews como un texto concatenado, en términos de distancia de compresión normalizada para esos textos, cuáles son los dos negocios más parecidos? Muestrelos sus textos y distancia.
 * **C5** (<img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />). Comprima todos los textos de las reviews obteniendo un ratio de compresión mejor que 2.
   * ¿De cuanto es el ratio de compresión?
-  * ¿Cuánto tarda en comprimir y descomprimir (por separado)? (use el magic timeit)
+  * ¿Cuánto tarda en comprimir y descomprimir (por separado)? (use el _magic_ %%timeit)
   * ¿Cuánto ocupa cada carácter en promedio una vez comprimido?
   * Si tomamos la entropía base dos para los caracteres ¿cuánto da? ¿cuantos bytes por caracter son esos?
   * Si utilizaramos un árbol de huffman por caracter, aproximadamente ¿cuál sería el ratio de compresión en el caso más optimista?
