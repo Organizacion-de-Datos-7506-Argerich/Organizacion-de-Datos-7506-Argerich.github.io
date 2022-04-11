@@ -58,7 +58,7 @@ Yelp es un sitio donde se pueden dejar reseñas y tips sobre negocios de todo ti
 
 Debajo están las consignas de el TP entero, deberá realizar las que le toquen según la siguiente tabla: **en construcción**
 
-Cada une tiene asignado **1 ejercicio que vale un** <img src="imgs/1c2022/luisito.jpg" />, **4 que valen dos** <img src="imgs/1c2022/luisito.jpg" /> y **2 que valen tres** <img src="imgs/1c2022/luisito.jpg" />. Además todos tienen almenos un ejercicio de compresión, visualizaciones y
+Cada une tiene asignado **1 ejercicio que vale un** <img src="imgs/1c2022/luisito.jpg" />, **4 que valen dos** <img src="imgs/1c2022/luisito.jpg" /> y **2 que valen tres** <img src="imgs/1c2022/luisito.jpg" />. Además todos tienen almenos un ejercicio de compresión, visualizaciones y NLP.
 
 #### Pandas y Python
 
@@ -181,7 +181,6 @@ Cada une tiene asignado **1 ejercicio que vale un** <img src="imgs/1c2022/luisit
   * [Warm Up: Predict Blood Donations](https://www.drivendata.org/competitions/2/warm-up-predict-blood-donations/page/7/) incluyendo la variable "Made Donation in March 2007".
   * [Rain in Australia](https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package) incluyendo la variable Rainfall.
   * [Disney Movies](https://www.kaggle.com/datasets/prateekmaj21/disney-movies?select=disney_movies.csv) incluyendo la variable inflation_adjusted_gross.
-
 2. (<img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />) Utilice alguna herramienta para realizar diagramas (por ejemplo Google Draw, draw.io, Google Slides, HTML, Illustrator, Photoshop, alguna lib de Python novedosa, etc.) para crear una visualización **ORIGINAL** que no pueda realizarse de forma directa con las librerías más comunes de Python, puede utilizar las librerías de Python como paso intermedio. Puede realizar este punto sobre los datos de: cualquier dataset, estadística oficial, paper, estadística no oficial, encuesta, números sin ninguna fuente en un blog, etc. El objetivo es elegir un tema de su interés y comunicarlo de forma efectiva y agradable.
 
 ## Criterio de aprobación
