@@ -257,7 +257,7 @@ El equipo NIL (Nahuel Spieguelman, Ignacio Argel y Lucas Bilo) se fusiono en uno
 |   106148 | METZ, MIGUEL GABRIEL                | P2      | C2       | V5       | N6       | P17      | C8        | C4        | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
 |   108221 | PAVON, MARIA DOLORES                | P2      | P17      | P14      | V2       | N5       | C4        | P29       | Damian Martinelli                                   |
 |   101946 | PUQUIO ROJAS, GIANCARLO JOSE        | P6      | C2       | P26      | N5       | V8       | N8        | P28       | Gianmarco Cafferata                                 |
-|   106016 | VAGÓ, NICOLÁS ESTEBAN               | C1      | P25      | P23      | V2       | N5       | C4        | N8        | Julieta Ponti                                       |
+|   106016 | VAGÓ, NICOLÁS ESTEBAN               | C1      | P25      | P23      | V2       | N5       | C4        | N8        | Manuel Battan                                       |
 |    97023 | YBARRA ESCALANTE, DIEGO EMANUEL     | P1      | P26      | P20      | C2       | V7       | N8        | V9        | Esteban Djeordijan                                  |
 |   105829 | AGAMA  AVILA, ANNALI ARELY          | P5      | P12      | P20      | V6       | N6       | C5        | P31       | Julieta Ponti                                       |
 |   104221 | AGUILAR, PEDRO                      | P6      | N6       | P16      | V6       | C3       | V9        | P32       | Damian Martinelli                                   |
@@ -317,7 +317,7 @@ El equipo NIL (Nahuel Spieguelman, Ignacio Argel y Lucas Bilo) se fusiono en uno
 |   106280 | RUEDA, NAZARENA                     | P1      | V6       | N6       | C2       | P17      | P33       | P28       | Lucas Waisten                                       |
 |   105558 | SALESE D'ASSARO, ARIANA MAGALÍ      | P2      | V3       | V2       | N2       | C3       | C7        | N7        | Matias Rotondo                                      |
 |   105637 | SANTANDER, VALENTIN                 | C1      | P9       | P15      | N5       | V8       | N8        | P31       | Damian Martinelli                                   |
-|    99131 | SECCHI, ANA MARIA                   | P7      | P19      | V4       | N3       | C2       | C6        | N8        | Manuel Battan                                       |
+|    99131 | SECCHI, ANA MARIA                   | P7      | P19      | V4       | N3       | C2       | C6        | N8        | Julieta Ponti                                       |
 |   106422 | SILVA, PATRICIO TOMAS               | V1      | P18      | P8       | N2       | C3       | C4        | C8        | Gianmarco Cafferata                                 |
 |    93735 | SOSA AQUINO, RICARDO ARIEL          | P6      | N4       | V5       | C2       | P19      | C6        | P31       | Esteban Djeordijan                                  |
 |    98741 | SOSA, CRISTIAN MARTIN               | P4      | C3       | P24      | V4       | N3       | C8        | C5        | Julieta Ponti                                       |
