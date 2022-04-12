@@ -331,7 +331,3 @@ El equipo NIL (Nahuel Spiguelman, Ignacio Argel y Lucas Bilo) se fusiono en uno 
 |    98559 | Nicolas Allende                     | P4      | V5       | P22      | N4       | C2       | V9        | P33       | Gianmarco Cafferata                                 |
 |    96467 | José Eduardo Chávez Cabanillas      | P1      | P11      | V6       | N3       | C2       | P33       | P30       | Lucas Waisten                                       |
 |   101186 | Mauro Giampietri                    | C1      | N4       | P26      | V4       | P19      | C8        | V9        | Esteban Djeordjian                                  |
-<<<<<<< HEAD
-=======
-|    97640 | Facundo Brondo                      | P6      | V7       | V3       | C3       | N6       | V10       | C7        | NIL: Nahuel Spiguelman, Ignacio Argel y Lucas Bilo |
->>>>>>> 84d700ab939212bd9209a984e9102aea7cfd6d5f
