@@ -241,7 +241,7 @@ Valoramos que se ayuden entre ustedes, debatan y compartan ideas y tips en el ca
 
 ## Asignaciones
 
-El equipo NIL (Nahuel Spieguelman, Ignacio Argel y Lucas Bilo) se fusiono en uno y van a responder consultas todos juntos, por lo que por favor si les tocaron escribanles a los 3 juntos.
+El equipo NIL (Nahuel Spiguelman, Ignacio Argel y Lucas Bilo) se fusiono en uno y van a responder consultas todos juntos, por lo que por favor si les tocaron escribanles a los 3 juntos.
 
 <img src="https://i.gifer.com/GAf7.gif" />
 
@@ -250,11 +250,11 @@ El equipo NIL (Nahuel Spieguelman, Ignacio Argel y Lucas Bilo) se fusiono en uno
 |   107143 | CALDERON, GONZALO MANUEL            | N1      | P21      | N5       | V3       | C2       | V10       | N7        | Ignacio Brusati                                     |
 |   101830 | DE SANTIS, FEDERICO EZEQUIEL        | P4      | V4       | V7       | N3       | C2       | V9        | P33       | Gianmarco Cafferata                                 |
 |   108183 | DIAZ, JUAN MANUEL                   | P1      | P8       | N6       | V6       | C2       | C6        | P31       | Lucas Waisten                                       |
-|   104424 | FERNANDEZ FOX, JOEL ISAAC           | V1      | V8       | P21      | N2       | C3       | P31       | P33       | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
+|   104424 | FERNANDEZ FOX, JOEL ISAAC           | V1      | V8       | P21      | N2       | C3       | P31       | P33       | NIL: Nahuel Spiguelman, Ignacio Argel y Lucas Bilo |
 |   105027 | GOMEZ, THIAGO EZEQUIEL              | V1      | P15      | P10      | C2       | N4       | P32       | N7        | Matias Rotondo                                      |
 |   105906 | GRUSS, OLIVIER ANTOINE              | P4      | P10      | P23      | N6       | V8       | C5        | N8        | Ignacio Brusati                                     |
 |   101933 | KARAGOZ, FILYAN                     | P2      | P20      | V2       | N5       | C3       | P28       | P32       | Damian Martinelli                                   |
-|   106148 | METZ, MIGUEL GABRIEL                | P2      | C2       | V5       | N6       | P17      | C8        | C4        | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
+|   106148 | METZ, MIGUEL GABRIEL                | P2      | C2       | V5       | N6       | P17      | C8        | C4        | NIL: Nahuel Spiguelman, Ignacio Argel y Lucas Bilo |
 |   108221 | PAVON, MARIA DOLORES                | P2      | P17      | P14      | V2       | N5       | C4        | P29       | Damian Martinelli                                   |
 |   101946 | PUQUIO ROJAS, GIANCARLO JOSE        | P6      | C2       | P26      | N5       | V8       | N8        | P28       | Gianmarco Cafferata                                 |
 |   106016 | VAGÓ, NICOLÁS ESTEBAN               | C1      | P25      | P23      | V2       | N5       | C4        | N8        | Manuel Battan                                       |
@@ -268,17 +268,17 @@ El equipo NIL (Nahuel Spieguelman, Ignacio Argel y Lucas Bilo) se fusiono en uno
 |   104482 | AVILA CABRERA, GASTON               | P2      | V2       | P13      | N3       | C3       | P30       | P33       | Lucas Waisten                                       |
 |    98592 | BLOISE, JULIETA                     | P4      | N6       | P22      | V6       | C3       | C8        | P32       | Manuel Battan                                       |
 |   104733 | BRASBURG, AGUSTIN                   | P6      | P27      | P18      | V4       | N5       | C8        | C6        | Gianmarco Cafferata |
-|   106211 | BULNES, MATEO                       | P6      | V5       | P19      | N2       | C3       | P29       | N7        | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
+|   106211 | BULNES, MATEO                       | P6      | V5       | P19      | N2       | C3       | P29       | N7        | NIL: Nahuel Spiguelman, Ignacio Argel y Lucas Bilo |
 |   102842 | CALIZ BLANCO, ALEJO MARTIN EZEQUIEL | P5      | P11      | P17      | V2       | N3       | C7        | P29       | Damian Martinelli                                   |
 |    99676 | CANTERO, ALAN EZEQUIEL              | P1      | P15      | V3       | N5       | C2       | P33       | P29       | Esteban Djeordjian                                  |
 |    99642 | CAPRA, FRANCO DANIEL                | P5      | P16      | N2       | V3       | C2       | P32       | C4        | Ignacio Brusati                                     |
 |   106551 | CASTRO, NAHUEL ELIAS                | C1      | N3       | N4       | P18      | V7       | P30       | V10       | Gianmarco Cafferata                                 |
 |    99879 | CLAROS CASTRO, ELVIS                | N1      | N2       | P8       | V7       | C3       | P28       | C8        | Damian Martinelli                                   |
 |   102104 | COSTA, LUCIANO                      | P3      | V2       | V5       | N4       | C2       | C7        | C5        | Damian Martinelli                                   |
-|   104098 | CUPPARI, FRANCO                     | P6      | V7       | P9       | N4       | C3       | V9        | C8        | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
+|   104098 | CUPPARI, FRANCO                     | P6      | V7       | P9       | N4       | C3       | V9        | C8        | NIL: Nahuel Spiguelman, Ignacio Argel y Lucas Bilo |
 |   106855 | DAHAB, MOISES TOMAS                 | P7      | P16      | N2       | V6       | C2       | C7        | N8        | Gianmarco Cafferata                                 |
 |   106368 | DELLA VECCHIA, TOMAS                | P4      | P20      | P14      | V6       | N3       | C8        | C5        | Esteban Djeordjian                                  |
-|   104525 | DEMARCHI, LUCAS                     | P4      | P17      | P11      | V2       | N6       | C7        | P30       | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
+|   104525 | DEMARCHI, LUCAS                     | P4      | P17      | P11      | V2       | N6       | C7        | P30       | NIL: Nahuel Spiguelman, Ignacio Argel y Lucas Bilo |
 |   105122 | DIAZ CALIXTO, LUZ MILAGROS          | N1      | P11      | P24      | V4       | C3       | V10       | P32       | Ignacio Brusati                                     |
 |   104581 | DUZAC, JUAN MARTIN                  | P7      | P14      | N6       | V5       | C3       | P30       | P33       | Gianmarco Cafferata                                 |
 |   106295 | ENCINOZA VILELA, NATHALIA LUCIA     | P1      | V3       | V2       | N4       | C2       | C7        | V10       | Gianmarco Cafferata                                 |
@@ -287,7 +287,7 @@ El equipo NIL (Nahuel Spieguelman, Ignacio Argel y Lucas Bilo) se fusiono en uno
 |    81006 | FERNANDEZ, OMAR ALFREDO             | N1      | N3       | V8       | P19      | C3       | P31       | N8        | Gianmarco Cafferata                                 |
 |    86125 | FONZALIDA, MIGUEL ANGEL             | V1      | V6       | P9       | C3       | N6       | P32       | P30       | Manuel Battan                                       |
 |   102396 | FRESIA, JUAN PABLO                  | N1      | N5       | P16      | V4       | C2       | P30       | C6        | Gianmarco Cafferata                                 |
-|   102184 | FUENTES, AZUL LUCILA                | P7      | P27      | P12      | N5       | V7       | C6        | P29       | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo                                 |
+|   102184 | FUENTES, AZUL LUCILA                | P7      | P27      | P12      | N5       | V7       | C6        | P29       | NIL: Nahuel Spiguelman, Ignacio Argel y Lucas Bilo                                 |
 |    97490 | GALLO, ROCIO MARIANA                | P1      | P25      | P21      | V5       | N3       | C7        | C6        | Gianmarco Cafferata                                 |
 |   105552 | GENERAL, CAMILA                     | C1      | P19      | P17      | V8       | N5       | C6        | P32       | Damian Martinelli                                   |
 |   106514 | GOMEZ, NAHUEL NICOLAS               | P2      | P18      | C3       | V3       | N2       | P33       | C5        | Ignacio Brusati                                     |
@@ -298,16 +298,16 @@ El equipo NIL (Nahuel Spieguelman, Ignacio Argel y Lucas Bilo) se fusiono en uno
 |    99093 | JAMILIS, NETANEL DAVID              | P6      | P13      | N3       | V4       | C3       | P33       | P28       | Damian Martinelli                                   |
 |    94727 | JARMOLINSKI, ARIAN LUCAS            | P7      | C2       | V8       | N4       | P21      | P29       | C7        | Damian Martinelli                                   |
 |    87796 | LA TORRE, GABRIEL                   | P7      | P15      | P20      | V8       | N6       | C5        | P30       | Gianmarco Cafferata                                 |
-|   105931 | LAZZARO, MELINA                     | P3      | P25      | C3       | N4       | V7       | N8        | C8        | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
+|   105931 | LAZZARO, MELINA                     | P3      | P25      | C3       | N4       | V7       | N8        | C8        | NIL: Nahuel Spiguelman, Ignacio Argel y Lucas Bilo |
 |   100589 | LEGUIZAMON, VERONICA BEATRIZ        | P3      | P23      | P25      | V8       | N5       | C6        | C5        | Matias Rotondo                                      |
-|   106223 | LITTERI, IVAN                       | V1      | N4       | P13      | C2       | P19      | N7        | P29       | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
+|   106223 | LITTERI, IVAN                       | V1      | N4       | P13      | C2       | P19      | N7        | P29       | NIL: Nahuel Spiguelman, Ignacio Argel y Lucas Bilo |
 |   104002 | LOSCOCCO, IGNACIO ARIEL             | P5      | P24      | N4       | V8       | C3       | P33       | P30       | Gianmarco Cafferata                                 |
 |   105771 | MANGIATERRA, FEDERICO CARLOS        | C1      | P8       | P19      | V8       | N5       | P28       | C6        | Gianmarco Cafferata                                 |
 |   105994 | MARCHESINI, SOFIA                   | N1      | P26      | V8       | C3       | P9       | P30       | C7        | Julieta Ponti                                       |
 |   105554 | ORQUERA LORDA, FRANCISCO            | V1      | V4       | P10      | C3       | N3       | C4        | C7        | Julieta Ponti                                       |
 |   102256 | OSCO CABRERA, ALEJANDRO ABRAHAM     | V1      | P9       | P27      | N6       | C2       | C4        | V10       | Esteban Djeordjian                                  |
-|   102649 | PAGURA, SEBASTIAN MARTIN            | P5      | V8       | C2       | N3       | P21      | P28       | P31       | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
-|   102679 | PALAZON, MARTIN                     | V1      | P21      | P13      | N3       | C2       | V9        | P31       | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
+|   102649 | PAGURA, SEBASTIAN MARTIN            | P5      | V8       | C2       | N3       | P21      | P28       | P31       | NIL: Nahuel Spiguelman, Ignacio Argel y Lucas Bilo |
+|   102679 | PALAZON, MARTIN                     | V1      | P21      | P13      | N3       | C2       | V9        | P31       | NIL: Nahuel Spiguelman, Ignacio Argel y Lucas Bilo |
 |   100972 | PEREZ LEIRAS, AGUSTIN TOMAS         | P3      | P26      | N2       | V7       | C3       | P29       | C8        | Damian Martinelli                                   |
 |    98230 | PERRONE, PATRICIO NAHUEL            | P7      | P16      | P27      | V5       | N2       | C8        | C7        | Gianmarco Cafferata                                 |
 |   104229 | PONT TOVAR, MARIA FERNANDA          | C1      | P13      | P9       | V8       | N6       | C6        | P30       | Esteban Djeordjian                                  |
@@ -322,7 +322,7 @@ El equipo NIL (Nahuel Spieguelman, Ignacio Argel y Lucas Bilo) se fusiono en uno
 |    93735 | SOSA AQUINO, RICARDO ARIEL          | P6      | N4       | V5       | C2       | P19      | C6        | P31       | Esteban Djeordjian                                  |
 |    98741 | SOSA, CRISTIAN MARTIN               | P4      | C3       | P24      | V4       | N3       | C8        | C5        | Julieta Ponti                                       |
 |   104909 | TAIBO, NAZARENO GABRIEL             | P1      | C3       | P24      | V7       | N6       | P31       | V10       | Esteban Djeordjian                                  |
-|    97617 | YAVICOLI, TOMAS                     | P2      | P18      | P14      | C2       | V8       | N7        | C6        | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
+|    97617 | YAVICOLI, TOMAS                     | P2      | P18      | P14      | C2       | V8       | N7        | C6        | NIL: Nahuel Spiguelman, Ignacio Argel y Lucas Bilo |
 |    96995 | Matías Priano                       | P2      | V3       | V6       | N6       | C2       | V9        | C4        | Matias Fusco                                        |
 |    93751 | José Israel Ramírez                 | P4      | P8       | P12      | V5       | N4       | C5        | N7        | Damian Martinelli                                   |
 |    87039 | Zoraida Flores Sosa                 | P7      | P17      | P18      | V2       | N6       | C5        | C7        | Gianmarco Cafferata                                 |
@@ -331,4 +331,4 @@ El equipo NIL (Nahuel Spieguelman, Ignacio Argel y Lucas Bilo) se fusiono en uno
 |    98559 | Nicolas Allende                     | P4      | V5       | P22      | N4       | C2       | V9        | P33       | Gianmarco Cafferata                                 |
 |    96467 | José Eduardo Chávez Cabanillas      | P1      | P11      | V6       | N3       | C2       | P33       | P30       | Lucas Waisten                                       |
 |   101186 | Mauro Giampietri                    | C1      | N4       | P26      | V4       | P19      | C8        | V9        | Esteban Djeordjian                                  |
-|    97640 | Facundo Brondo                      | P6      | V7       | V3       | C3       | N6       | V10       | C7        | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
+|    97640 | Facundo Brondo                      | P6      | V7       | V3       | C3       | N6       | V10       | C7        | NIL: Nahuel Spiguelman, Ignacio Argel y Lucas Bilo |
