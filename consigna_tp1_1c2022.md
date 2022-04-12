@@ -327,8 +327,7 @@ El equipo NIL (Nahuel Spieguelman, Ignacio Argel y Lucas Bilo) se fusiono en uno
 |    93751 | José Israel Ramírez                 | P4      | P8       | P12      | V5       | N4       | C5        | N7        | Damian Martinelli                                   |
 |    87039 | Zoraida Flores Sosa                 | P7      | P17      | P18      | V2       | N6       | C5        | C7        | Gianmarco Cafferata                                 |
 |   100488 | Carlos Martín Stefanelli D'elias    | P3      | P10      | P23      | N5       | V8       | C5        | C4        | Damian Martinelli                                   |
-|    97540 | Facundo Brondo                      | V1      | P14      | P10      | N3       | C3       | C4        | P32       | Gianmarco Cafferata                                 |
+|    97640 | Facundo Brondo                      | V1      | P14      | P10      | N3       | C3       | C4        | P32       | Gianmarco Cafferata                                 |
 |    98559 | Nicolas Allende                     | P4      | V5       | P22      | N4       | C2       | V9        | P33       | Gianmarco Cafferata                                 |
 |    96467 | José Eduardo Chávez Cabanillas      | P1      | P11      | V6       | N3       | C2       | P33       | P30       | Lucas Waisten                                       |
 |   101186 | Mauro Giampietri                    | C1      | N4       | P26      | V4       | P19      | C8        | V9        | Esteban Djeordjian                                  |
-|    97640 | Facundo Brondo                      | P6      | V7       | V3       | C3       | N6       | V10       | C7        | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
