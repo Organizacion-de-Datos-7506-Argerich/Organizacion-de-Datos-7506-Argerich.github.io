@@ -239,6 +239,14 @@ Todos los ejercicios valen lo mismo que los <img src="imgs/1c2022/luisito.jpg" /
 
 Valoramos que se ayuden entre ustedes, debatan y compartan ideas y tips en el canal de slack!
 
+## Formato de Entrega
+ 
+La entrega es en Gradescope en formato PDF. 
+
+En el PDF deben indicar cada uno de los puntos de la primer parte que les tocó, colocando el enunciado de la consulta a resolver y el link al notebook donde está resuelta.
+
+Para la segunda parte, incluír las visualizaciones en el PDF, con el link al notebook que genera cada una de ellas.
+ 
 ## Asignaciones
 
 El equipo NIL (Nahuel Spiguelman, Ignacio Argel y Lucas Bilo) se fusiono en uno y van a responder consultas todos juntos, por lo que por favor si les tocaron escribanles a los 3 juntos.
