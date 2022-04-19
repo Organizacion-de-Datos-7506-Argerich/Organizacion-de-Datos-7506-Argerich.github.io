@@ -203,7 +203,7 @@ El podio se modificara a medida participen en los Kahoots.
 |    99642 | CAPRA        |      0.87 |      0.87 |      0.89 |   0.51 | 0.784766 | <img src="imgs/1c2022/luisito.jpg" />|
 |    86125 | FONZALIDA    |      0.88 |      0.66 |      0.88 |   0.61 | 0.757389 | <img src="imgs/1c2022/luisito.jpg" />|
 |    98741 | SOSA         |      0.83 |      0.52 |      0.88 |   0.78 | 0.753277 |-|
-|   100972 | PEREZ LEIRAS |      0.99 |      0.91 |      0.09 |   1    | 0.747679 |-|
+|   105637 | SANTANDER    |      0.56 |      0.62 |      0.7  |   0.87 | 0.690229 |-|
 
 ## Criterio de aprobación
 
