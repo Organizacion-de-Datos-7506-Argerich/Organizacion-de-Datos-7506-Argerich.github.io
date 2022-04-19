@@ -195,7 +195,7 @@ Quien esté primero recibira tres <img src="imgs/1c2022/luisito.jpg" />, quienes
 
 El podio se modificara a medida participen en los Kahoots.
 
-|   padron | Alumno       |   Pandas 1 |   Pandas 2 |   Pandas 3 |   NLP I |   Promedio | Premio |
+|   Padrón | Alumno       |   Pandas 1 |   Pandas 2 |   Pandas 3 |   NLP I |   Promedio | Premio |
 |---------:|:-------------|----------:|----------:|----------:|-------:|---------:|---------:|
 |   105798 | GRÜNER       |      1    |      0.67 |      0.96 |   0.98 | 0.903115 | <img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />       |
 |   100972 | PEREZ LEIRAS |      0.99 |      0.91 |      0.63 |   1    | 0.883783 | <img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />|
