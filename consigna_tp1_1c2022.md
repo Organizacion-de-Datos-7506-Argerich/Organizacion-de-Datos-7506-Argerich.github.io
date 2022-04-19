@@ -191,17 +191,19 @@ Debe elegir tres de los siguientes datasets:
 Utilizamos el promedio del puntaje normalizado de cada kahoot/parcialito para armar un podio.
 Quien esté primero recibira tres <img src="imgs/1c2022/luisito.jpg" />, quienes estén segundos o terceros recibiran dos <img src="imgs/1c2022/luisito.jpg" /> extra. Quienes estén en cuarto y quinto puesto un <img src="imgs/1c2022/luisito.jpg" /> extra.
 
-### Podio actual (update: 11/04)
+### Podio actual (update: 18/04)
 
 El podio se modificara a medida participen en los Kahoots.
 
-|   Padrón | Alumno                       |   Puntos | Premio   |
-|---------:|:-----------------------------|---------:|:--------|
-|   100972 | PEREZ LEIRAS, AGUSTIN TOMAS  | 0.952829 | <img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />       |
-|   105771 | MANGIATERRA, FEDERICO CARLOS | 0.882652 | <img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />       |
-|    99642 | CAPRA, FRANCO DANIEL         | 0.868644 | <img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />       |
-|   105798 | GRÜNER, TOMÁS                | 0.836209 | <img src="imgs/1c2022/luisito.jpg" />       |
-|   102649 | PAGURA, SEBASTIAN MARTIN     | 0.823364 | <img src="imgs/1c2022/luisito.jpg" />       |
+|   padron | Alumno       |   Pandas 1 |   Pandas 2 |   Pandas 3 |   NLP I |   Promedio | Premio |
+|---------:|:-------------|----------:|----------:|----------:|-------:|---------:|---------:|
+|   105798 | GRÜNER       |      1    |      0.67 |      0.96 |   0.98 | 0.903115 | <img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />       |
+|   100972 | PEREZ LEIRAS |      0.99 |      0.91 |      0.63 |   1    | 0.883783 | <img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />|
+|   105771 | MANGIATERRA  |      0.9  |      0.87 |      0.51 |   1    | 0.817488 | <img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />|
+|    99642 | CAPRA        |      0.87 |      0.87 |      0.89 |   0.51 | 0.784766 | <img src="imgs/1c2022/luisito.jpg" />|
+|    86125 | FONZALIDA    |      0.88 |      0.66 |      0.88 |   0.61 | 0.757389 | <img src="imgs/1c2022/luisito.jpg" />|
+|    98741 | SOSA         |      0.83 |      0.52 |      0.88 |   0.78 | 0.753277 |-|
+|   100972 | PEREZ LEIRAS |      0.99 |      0.91 |      0.09 |   1    | 0.747679 |-|
 
 ## Criterio de aprobación
 
@@ -240,13 +242,13 @@ Todos los ejercicios valen lo mismo que los <img src="imgs/1c2022/luisito.jpg" /
 Valoramos que se ayuden entre ustedes, debatan y compartan ideas y tips en el canal de slack!
 
 ## Formato de Entrega
- 
-La entrega es en Gradescope en formato PDF. 
+
+La entrega es en Gradescope en formato PDF.
 
 En el PDF deben indicar cada uno de los puntos de la primer parte que les tocó, colocando el enunciado de la consulta a resolver y el link al notebook donde está resuelta.
 
 Para la segunda parte, incluír las visualizaciones en el PDF, con el link al notebook que genera cada una de ellas.
- 
+
 ## Asignaciones
 
 El equipo NIL (Nahuel Spiguelman, Ignacio Argel y Lucas Bilo) se fusiono en uno y van a responder consultas todos juntos, por lo que por favor si les tocaron escribanles a los 3 juntos.
