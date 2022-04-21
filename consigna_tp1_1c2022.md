@@ -188,22 +188,20 @@ Debe elegir tres de los siguientes datasets:
 
 ## Puntos extra (hasta tres <img src="imgs/1c2022/luisito64.jpg" />)
 
-Utilizamos el promedio del puntaje normalizado de cada kahoot/parcialito para armar un podio.
+Utilizamos el promedio del puntaje normalizado de cada kahoot/parcialito para armar un podio. El podio se modificara a medida participen en los Kahoots.
 Quien esté primero recibira tres <img src="imgs/1c2022/luisito.jpg" />, quienes estén segundos o terceros recibiran dos <img src="imgs/1c2022/luisito.jpg" /> extra. Quienes estén en cuarto y quinto puesto un <img src="imgs/1c2022/luisito.jpg" /> extra.
 
-### Podio actual (update: 18/04)
+### Podio final
 
-El podio se modificara a medida participen en los Kahoots.
-
-|   Padrón | Alumno       |   Pandas 1 |   Pandas 2 |   Pandas 3 |   NLP I |   Promedio | Premio |
-|---------:|:-------------|----------:|----------:|----------:|-------:|---------:|---------:|
-|   105798 | GRÜNER       |      1    |      0.67 |      0.96 |   0.98 | 0.903115 | <img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />       |
-|   100972 | PEREZ LEIRAS |      0.99 |      0.91 |      0.63 |   1    | 0.883783 | <img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />|
-|   105771 | MANGIATERRA  |      0.9  |      0.87 |      0.51 |   1    | 0.817488 | <img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />|
-|    99642 | CAPRA        |      0.87 |      0.87 |      0.89 |   0.51 | 0.784766 | <img src="imgs/1c2022/luisito.jpg" />|
-|    86125 | FONZALIDA    |      0.88 |      0.66 |      0.88 |   0.61 | 0.757389 | <img src="imgs/1c2022/luisito.jpg" />|
-|    98741 | SOSA         |      0.83 |      0.52 |      0.88 |   0.78 | 0.753277 |-|
-|   105637 | SANTANDER    |      0.56 |      0.62 |      0.7  |   0.87 | 0.690229 |-|
+|   Padrón | Alumno       |   Pandas 1 |   Pandas 2 |   Pandas 3 |   NLP I | Compresión |   Promedio | Premio |
+|---------:|:-------------|----------:|----------:|----------:|-------:|---------:|---------:|---------:|
+|   105798 | GRÜNER       |      1    |      0.67 |      0.96 |   0.98 |     0.712657 | 0.865023 | <img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />       |
+|   100972 | PEREZ LEIRAS |      0.99 |      0.91 |      0.63 |   1    |     0.738722 | 0.854771 | <img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />|
+|    99642 | CAPRA        |      0.87 |      0.87 |      0.89 |   0.51 |     1        | 0.827812 | <img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />|
+|   105771 | MANGIATERRA  |      0.9  |      0.87 |      0.51 |   1    |     0.705846 | 0.79516  | <img src="imgs/1c2022/luisito.jpg" />|
+|    86125 | FONZALIDA    |      0.88 |      0.66 |      0.88 |   0.61 |     0.669354 | 0.739782 | <img src="imgs/1c2022/luisito.jpg" />|
+|   105637 | SANTANDER    |      0.56 |      0.62 |      0.7  |   0.87 |     0.660805 | 0.684344 |-|
+|   102649 | PAGURA       |      0.65 |      1    |      0.55 |   0.43 |     0.594356 | 0.644391 |-|
 
 ## Criterio de aprobación
 
