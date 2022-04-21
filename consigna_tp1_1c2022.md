@@ -130,8 +130,8 @@ Tienen asignados **1 ejercicio que vale un** <img src="imgs/1c2022/luisito.jpg" 
   * ¿Cuánto tarda en comprimir y descomprimir (por separado)? (use el _magic_ %%timeit)
   * ¿Cuánto ocupa cada carácter en promedio una vez comprimido?
   * Si tomamos la entropía base dos para los caracteres ¿cuánto da? ¿cuantos bytes por caracter son esos?
-  * Si utilizaramos un árbol de huffman por caracter, aproximadamente ¿cuál sería el ratio de compresión en el caso más optimista?
-  * ¿Cúal algoritmo de compresión sería mejor?
+  * Si utilizaramos un compresor aritmético por caracter, aproximadamente ¿cuál sería el ratio de compresión en el caso más optimista?
+  * ¿Cúal algoritmo de compresión de los tres sería mejor?
 * **C6** (<img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />). Para las reviews que superaron el cuantil 0.95 en votos funny, calcular la probabilidad de aparición de una de estas reviews para cada día de la semana. Hacer lo mismo con votos cool. Calcular la entropía de ambas y la divergencia de kullback leibler entre ellas. Interpretando estos resultados responder:
   * ¿Cuál de los dos eventos es más difícil de predecir?
   * ¿Cuál de estas distribuciones de probabilidades aproxima peor a la otra?
