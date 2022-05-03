@@ -17,6 +17,7 @@ El calendario se irá llenando a medida avance el cuatrimestre.
 |  25/4   |   Clase especial de análisis de datos   |  -   |
 |  28/4   |   Clase de consulta TP1  |  -   |
 |  2/5   |   Entrega TP1  |  -   |
+|  5/5   |   Spark I. Hadoop. HDFS. Teoría de Map Reduce. Introducción a Spark. RDDs, modelo de ejecución, transformaciones y acciones en pyspark. **Enunciado TP2**   |    [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYck1nRMGJFeWIN2W5IrxoLO)     |
 
 
 ## Clases prácticas grabadas
