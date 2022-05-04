@@ -1,6 +1,6 @@
 # TP2 - Spark
 
-## Consignas (8 <img src="imgs/1c2022/luisito64.jpg" />)
+## Spark sobre Yelp (8 <img src="imgs/1c2022/luisito64.jpg" />)
 
 Vamos a utilizar como dataset los csvs de [esta carpeta](https://drive.google.com/drive/folders/1aluo8daHgFMn40ndeBkpRMzE4hN00cEj) correspondientes a un recorte de los datos de Yelp.
 
