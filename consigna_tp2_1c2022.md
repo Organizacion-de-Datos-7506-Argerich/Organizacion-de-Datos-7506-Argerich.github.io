@@ -139,7 +139,7 @@ Todos los ejercicios valen lo mismo que los <img src="imgs/1c2022/luisito.jpg" /
   * Dudas para saber si se puede usar alguna librería:
     * Se hacen en el mismo formato que las dudas de consigna.
   * Dudas de código y optimización:
-    * Si son dudas generales de "cómo se hace <algo> en spark" se puede consultar en el canal de consultas o en las clases de consulta.
+    * Si son dudas generales de "cómo se hace algo en spark" se puede consultar en el canal de consultas o en las clases de consulta.
     * El resto de las dudas deben consultarse con su ayudante asignado.
 
 ## Formato de Entrega
