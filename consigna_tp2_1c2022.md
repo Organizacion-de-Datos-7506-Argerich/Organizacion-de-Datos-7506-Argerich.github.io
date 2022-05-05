@@ -153,4 +153,57 @@ El equipo NIL (Nahuel Spiguelman, Ignacio Argel y Lucas Bilo) se fusiono en uno 
 
 <img src="https://i.gifer.com/GAf7.gif" />
 
-en construcción.
+|   Padron | Nombre                              | 1 - <img src="imgs/1c2022/luisito.jpg" />   | 2 - <img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />   | 3 - <img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />   | 4 - <img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />   | Ayudante asignado   |
+|---------:|:------------------------------------|:--------|:---------|:---------|:----------|:--------------------|
+|   108183 | DIAZ, JUAN MANUEL                   | S7      | S27      | S21      | S32       | -                   |
+|   104424 | FERNANDEZ FOX, JOEL ISAAC           | S6      | S26      | S15      | S38       | -                   |
+|   105027 | GOMEZ, THIAGO EZEQUIEL              | S5      | S16      | S24      | S37       | -                   |
+|   105906 | GRUSS, OLIVIER ANTOINE              | S9      | S27      | S14      | S35       | -                   |
+|   101946 | PUQUIO ROJAS, GIANCARLO JOSE        | S4      | S30      | S21      | S39       | -                   |
+|   100199 | AGUIRRE, ARIEL LEANDRO              | S4      | S14      | S29      | S39       | -                   |
+|   101589 | ALVAREZ, JUAN MANUEL                | S5      | S24      | S16      | S31       | -                   |
+|   105081 | AVENDAÑO PADILLA, FRANZ JULIO       | S2      | S25      | S23      | S41       | -                   |
+|   104733 | BRASBURG, AGUSTIN                   | S10     | S30      | S25      | S37       | -                   |
+|   102842 | CALIZ BLANCO, ALEJO MARTIN EZEQUIEL | S10     | S21      | S24      | S40       | -                   |
+|    99676 | CANTERO, ALAN EZEQUIEL              | S8      | S20      | S17      | S32       | -                   |
+|    99642 | CAPRA, FRANCO DANIEL                | S12     | S23      | S15      | S33       | -                   |
+|   106551 | CASTRO, NAHUEL ELIAS                | S8      | S22      | S18      | S32       | -                   |
+|    99879 | CLAROS CASTRO, ELVIS                | S12     | S22      | S20      | S38       | -                   |
+|   106855 | DAHAB, MOISES TOMAS                 | S12     | S28      | S19      | S37       | -                   |
+|   104525 | DEMARCHI, LUCAS                     | S13     | S18      | S16      | S40       | -                   |
+|   106295 | ENCINOZA VILELA, NATHALIA LUCIA     | S11     | S19      | S22      | S34       | -                   |
+|   103992 | ESPERON, RAMIRO                     | S1      | S29      | S23      | S34       | -                   |
+|    86125 | FONZALIDA, MIGUEL ANGEL             | S6      | S20      | S27      | S32       | -                   |
+|   102396 | FRESIA, JUAN PABLO                  | S11     | S25      | S21      | S36       | -                   |
+|   102184 | FUENTES, AZUL LUCILA                | S3      | S26      | S30      | S34       | -                   |
+|    97490 | GALLO, ROCIO MARIANA                | S2      | S19      | S22      | S36       | -                   |
+|   105552 | GENERAL, CAMILA                     | S3      | S15      | S28      | S37       | -                   |
+|   106514 | GOMEZ, NAHUEL NICOLAS               | S5      | S26      | S27      | S38       | -                   |
+|   104623 | GRAZIOSI, GERMAN                    | S1      | S24      | S18      | S33       | -                   |
+|   105798 | GRÜNER, TOMÁS                       | S9      | S20      | S15      | S39       | -                   |
+|   105553 | JALEH, FEDERICO EZEQUIEL            | S4      | S29      | S26      | S35       | -                   |
+|    87796 | LA TORRE, GABRIEL                   | S11     | S18      | S30      | S40       | -                   |
+|   105931 | LAZZARO, MELINA                     | S10     | S23      | S20      | S40       | -                   |
+|   106223 | LITTERI, IVAN                       | S13     | S20      | S17      | S36       | -                   |
+|   104002 | LOSCOCCO, IGNACIO ARIEL             | S6      | S23      | S14      | S32       | -                   |
+|   105771 | MANGIATERRA, FEDERICO CARLOS        | S7      | S30      | S24      | S38       | -                   |
+|   105994 | MARCHESINI, SOFIA                   | S11     | S21      | S28      | S31       | -                   |
+|   105554 | ORQUERA LORDA, FRANCISCO            | S5      | S17      | S18      | S31       | -                   |
+|   102256 | OSCO CABRERA, ALEJANDRO ABRAHAM     | S7      | S29      | S26      | S36       | -                   |
+|   102649 | PAGURA, SEBASTIAN MARTIN            | S3      | S15      | S27      | S34       | -                   |
+|   102679 | PALAZON, MARTIN                     | S13     | S28      | S19      | S33       | -                   |
+|   100972 | PEREZ LEIRAS, AGUSTIN TOMAS         | S8      | S27      | S23      | S33       | -                   |
+|    98230 | PERRONE, PATRICIO NAHUEL            | S6      | S22      | S16      | S41       | -                   |
+|   104229 | PONT TOVAR, MARIA FERNANDA          | S3      | S25      | S20      | S41       | -                   |
+|    91561 | PRIETO, PABLO ALEJANDRO             | S9      | S16      | S29      | S37       | -                   |
+|   105703 | RONDAN, MARCELO ARIEL               | S2      | S16      | S17      | S41       | -                   |
+|   105558 | SALESE D'ASSARO, ARIANA MAGALÍ      | S1      | S14      | S29      | S36       | -                   |
+|   106422 | SILVA, PATRICIO TOMAS               | S8      | S17      | S14      | S40       | -                   |
+|    98741 | SOSA, CRISTIAN MARTIN               | S10     | S14      | S22      | S35       | -                   |
+|   104909 | TAIBO, NAZARENO GABRIEL             | S13     | S18      | S30      | S35       | -                   |
+|    96995 | Matías Priano                       | S2      | S21      | S28      | S34       | -                   |
+|    87039 | Zoraida Flores Sosa                 | S4      | S24      | S17      | S33       | -                   |
+|   100488 | Carlos Martín Stefanelli D'elias    | S1      | S19      | S27      | S41       | -                   |
+|    98559 | Nicolas Allende                     | S7      | S15      | S25      | S39       | -                   |
+|   101186 | Mauro Giampietri                    | S12     | S17      | S25      | S31       | -                   |
+|    97640 | Facundo Brondo                      | S9      | S28      | S19      | S38       | -                   |
