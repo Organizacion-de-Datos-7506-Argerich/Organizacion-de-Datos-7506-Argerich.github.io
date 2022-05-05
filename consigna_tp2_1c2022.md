@@ -157,7 +157,7 @@ El equipo NIL (Nahuel Spiguelman, Ignacio Argel y Lucas Bilo) se fusiono en uno 
 |---------:|:------------------------------------|:--------|:---------|:---------|:----------|:----------------------------------------------------|
 |   108183 | DIAZ, JUAN MANUEL                   | S7      | S27      | S21      | S32       | Damian Martinelli                                   |
 |   104424 | FERNANDEZ FOX, JOEL ISAAC           | S6      | S26      | S15      | S38       | Julieta Ponti                                       |
-|   105027 | GOMEZ, THIAGO EZEQUIEL              | S5      | S16      | S24      | S37       | Esteban Djeordijan                                  |
+|   105027 | GOMEZ, THIAGO EZEQUIEL              | S5      | S16      | S24      | S37       | Esteban Djeordjian                                  |
 |   105906 | GRUSS, OLIVIER ANTOINE              | S9      | S27      | S14      | S35       | Manuel Battan                                       |
 |   101946 | PUQUIO ROJAS, GIANCARLO JOSE        | S4      | S30      | S21      | S39       | Damian Martinelli                                   |
 |   100199 | AGUIRRE, ARIEL LEANDRO              | S4      | S14      | S29      | S39       | Gianmarco Cafferata                                 |
@@ -169,14 +169,14 @@ El equipo NIL (Nahuel Spiguelman, Ignacio Argel y Lucas Bilo) se fusiono en uno 
 |    99642 | CAPRA, FRANCO DANIEL                | S12     | S23      | S15      | S33       | Gianmarco Cafferata                                 |
 |   106551 | CASTRO, NAHUEL ELIAS                | S8      | S22      | S18      | S32       | Matias Rotondo                                      |
 |    99879 | CLAROS CASTRO, ELVIS                | S12     | S22      | S20      | S38       | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
-|   106855 | DAHAB, MOISES TOMAS                 | S12     | S28      | S19      | S37       | Esteban Djeordijan                                  |
+|   106855 | DAHAB, MOISES TOMAS                 | S12     | S28      | S19      | S37       | Esteban Djeordjian                                  |
 |   104525 | DEMARCHI, LUCAS                     | S13     | S18      | S16      | S40       | Manuel Battan                                       |
 |   106295 | ENCINOZA VILELA, NATHALIA LUCIA     | S11     | S19      | S22      | S34       | Damian Martinelli                                   |
 |   103992 | ESPERON, RAMIRO                     | S1      | S29      | S23      | S34       | Damian Martinelli                                   |
 |    86125 | FONZALIDA, MIGUEL ANGEL             | S6      | S20      | S27      | S32       | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
 |   102396 | FRESIA, JUAN PABLO                  | S11     | S25      | S21      | S36       | Julieta Ponti                                       |
 |   102184 | FUENTES, AZUL LUCILA                | S3      | S26      | S30      | S34       | Damian Martinelli                                   |
-|    97490 | GALLO, ROCIO MARIANA                | S2      | S19      | S22      | S36       | Esteban Djeordijan                                  |
+|    97490 | GALLO, ROCIO MARIANA                | S2      | S19      | S22      | S36       | Esteban Djeordjian                                  |
 |   105552 | GENERAL, CAMILA                     | S3      | S15      | S28      | S37       | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
 |   106514 | GOMEZ, NAHUEL NICOLAS               | S5      | S26      | S27      | S38       | Matias Rotondo                                      |
 |   104623 | GRAZIOSI, GERMAN                    | S1      | S24      | S18      | S33       | Damian Martinelli                                   |
@@ -186,7 +186,7 @@ El equipo NIL (Nahuel Spiguelman, Ignacio Argel y Lucas Bilo) se fusiono en uno 
 |   105931 | LAZZARO, MELINA                     | S10     | S23      | S20      | S40       | Lucas Waisten                                       |
 |   106223 | LITTERI, IVAN                       | S13     | S20      | S17      | S36       | Lucas Waisten                                       |
 |   104002 | LOSCOCCO, IGNACIO ARIEL             | S6      | S23      | S14      | S32       | Ignacio Brusati                                     |
-|   105771 | MANGIATERRA, FEDERICO CARLOS        | S7      | S30      | S24      | S38       | Esteban Djeordijan                                  |
+|   105771 | MANGIATERRA, FEDERICO CARLOS        | S7      | S30      | S24      | S38       | Esteban Djeordjian                                  |
 |   105994 | MARCHESINI, SOFIA                   | S11     | S21      | S28      | S31       | Matias Fusco                                        |
 |   105554 | ORQUERA LORDA, FRANCISCO            | S5      | S17      | S18      | S31       | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
 |   102256 | OSCO CABRERA, ALEJANDRO ABRAHAM     | S7      | S29      | S26      | S36       | Damian Martinelli                                   |
@@ -203,7 +203,7 @@ El equipo NIL (Nahuel Spiguelman, Ignacio Argel y Lucas Bilo) se fusiono en uno 
 |   104909 | TAIBO, NAZARENO GABRIEL             | S13     | S18      | S30      | S35       | Gianmarco Cafferata                                 |
 |    96995 | Matías Priano                       | S2      | S21      | S28      | S34       | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
 |    87039 | Zoraida Flores Sosa                 | S4      | S24      | S17      | S33       | Damian Martinelli                                   |
-|   100488 | Carlos Martín Stefanelli D'elias    | S1      | S19      | S27      | S41       | Esteban Djeordijan                                  |
+|   100488 | Carlos Martín Stefanelli D'elias    | S1      | S19      | S27      | S41       | Esteban Djeordjian                                  |
 |    98559 | Nicolas Allende                     | S7      | S15      | S25      | S39       | Manuel Battan                                       |
 |   101186 | Mauro Giampietri                    | S12     | S17      | S25      | S31       | Gianmarco Cafferata                                 |
 |    97640 | Facundo Brondo                      | S9      | S28      | S19      | S38       | Gianmarco Cafferata                                 |
