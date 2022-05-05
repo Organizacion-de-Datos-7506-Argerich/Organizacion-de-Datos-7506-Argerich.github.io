@@ -25,6 +25,7 @@ Esta bibliografía es para complementar o seguir estudiando una vez terminada la
 ### Para Spark
 
 * [Data-Intensive Text Processing with MapReduce](https://lintool.github.io/MapReduceAlgorithms/) de Jimmy Lin y Chris Dyer
+* [Ejercicios resueltos en Spark por la cátedra](https://www.youtube.com/playlist?list=PLeo_qKwGPZYclVwx9CG3rsWLOb61GER5J)
 
 ### Para visus
 
