@@ -20,8 +20,8 @@ El calendario se irá llenando a medida avance el cuatrimestre.
 |  5/5   |   Spark I. Hadoop. HDFS. Teoría de Map Reduce. Introducción a Spark. RDDs, modelo de ejecución, transformaciones y acciones en pyspark. **Enunciado TP2**   |    [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYck1nRMGJFeWIN2W5IrxoLO)     |
 |  9/5   |   Spark II. Transformaciones y Acciones II. Ejemplos con pyspark. Joins. Broadcast join.   |    [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYeu_JRN8eQgzJUfaXUrhsk2)     |
 |  12/5   |   Spark III. Estructuras de alto nivel.   |    [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYfTqNkt7zS8fAqf3-_IQlkd)     |
-|  16/5   |   Clase especial de Spark   |    -     |
-|  19/5   |   Consulta TP2  |    -     |
+|  16/5   |  Consulta TP2   |    -     |
+|  19/5   |   Clase especial de Spark  |    -     |
 |  23/5   |   **Entrega TP2**  |    -     |
 
 

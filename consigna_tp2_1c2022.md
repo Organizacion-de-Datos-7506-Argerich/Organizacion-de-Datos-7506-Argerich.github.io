@@ -117,6 +117,16 @@ Tienen asignados **1 ejercicio que vale un** <img src="imgs/1c2022/luisito.jpg" 
 
 Utilizamos el promedio del puntaje normalizado de cada kahoot/parcialito para armar un podio. El podio se modificara a medida participen en los Kahoots. Los 5 primeros recibiran un <img src="imgs/1c2022/luisito.jpg" /> extra.
 
+|  Padrón  | Alumno        |  Spark I |  Spark II| Promedio | Premio |
+|---------:|:--------------|---------:|---------:|---------:|-------:|
+|    99642 | CAPRA         |     1    |     0.98 | 0.989983 | <img src="imgs/1c2022/luisito.jpg" />|
+|   106551 | CASTRO        |     0.89 |     1    | 0.94536  | <img src="imgs/1c2022/luisito.jpg" />|
+|   100972 | PEREZ LEIRAS  |     0.86 |     0.82 | 0.840587 | <img src="imgs/1c2022/luisito.jpg" />|
+|   101946 | PUQUIO ROJAS  |     0.89 |     0.78 | 0.833732 | <img src="imgs/1c2022/luisito.jpg" />|
+|    96995 | Matías Priano |     0.85 |     0.79 | 0.820297 | <img src="imgs/1c2022/luisito.jpg" />|
+|   102842 | CALIZ BLANCO  |     0.78 |     0.82 | 0.799045 |-|
+|   105703 | RONDAN        |     0.81 |     0.79 | 0.798404 |-|
+
 ## Criterio de aprobación
 
 El criterio general es que la totalidad del tp tiene que sumar 4.8 puntos de los 8, es un 60%. Además todas las consignas deben estar desarrolladas, entregando algo en cada una.
