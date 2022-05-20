@@ -23,6 +23,7 @@ El calendario se irá llenando a medida avance el cuatrimestre.
 |  16/5   |  Consulta TP2   |    -     |
 |  19/5   |   Clase especial de Spark  |    -     |
 |  23/5   |   **Entrega TP2**  |    -     |
+|  23/5   |   Machine Learning I. Teoría de Machine Learning. Clasificación y Regresión. Linear y Logistic Regression. KNN.  |    [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYesnp_BG0RejQCfHnlthj-5)     |
 
 
 ## Clases prácticas grabadas
