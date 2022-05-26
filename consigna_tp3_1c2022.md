@@ -51,7 +51,7 @@ Estas consignas suman puntos extra por fuera de los necesarios para aprobar el T
 
 * Entrenar una red neuronal con Keras que sea reproducible, usando al menos 40 features y un score en validación superior a 0,6. Debe ser un modelo por separado a los propuestos, no necesita búsqueda de hiper parámetros ni cumplir otra condición. ¿Cúal es su score en validación y en test? (1 puntos)
 * Graficar la importancia de features para algún modelo de la parte III. ¿Qué tanto se parece a los features importantes de la parte II? (1 punto)
-* Agregar una técnica de feature selection para algún modelo de la parte III (1 punto)
+* Ensamble ambos modelos de la parte III en uno solo. ¿Cúal es su score en validación y en test? (1 punto)
 * Entrenar una regresión sobre el campo `shares`. ¿Cúal es su MSE en test y train? ¿Qué tanta accuracy tiene sobre `popular` un sistema de regresión que luego pasa a binario por medio del percentil 80 de `shares`? (1 punto)
 
 ## Premio kahoot (un <img src="imgs/1c2022/luisito64.jpg" />)
