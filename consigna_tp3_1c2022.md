@@ -104,3 +104,53 @@ Por sobre el puntaje total del ejercicio (ambos modelos) se restan 3 puntos si c
 * El TP **no pide ni evalúa más que lo que dice**, si bien ser original y tener un buen score suma en términos de trabajo y aprendizaje para ustedes, sean inteligentes respecto a los modelos y features que eligen para trabajar para garantizar que pueden terminar. Ya van a tener tiempo de ser originales en el TP4…
 * Particularmente **este TP es muy difícil empezarlo al final**, en cuotas se vuelve mucho más sencillo, les recomendamos empezar por las visus que no necesitan teoría nueva. Sabemos que muchos de ustedes vienen haciendo algunos tps la última semana, pero la experiencia del cuatrimestre pasado nos dice que **con este no se puede hacer eso**, son demasiados conceptos a entender y muchas formas de hacerlo mal, no es solo una consigna a cumplir. Sigan las teóricas.
 * Todos los puntos deben estar desarrollados (exceptuando por supuesto los extra).
+
+## Asingación de correctores
+
+|   Padrón | Alumno                              | Ayudante asignado                                   |
+|---------:|:------------------------------------|:----------------------------------------------------|
+|   108183 | DIAZ, JUAN MANUEL                   | Matias Rotondo                                      |
+|   104424 | FERNANDEZ FOX, JOEL ISAAC           | Lucas Waisten                                       |
+|   105027 | GOMEZ, THIAGO EZEQUIEL              | Gianmarco Cafferata                                 |
+|   105906 | GRUSS, OLIVIER ANTOINE              | Damian Martinelli                                   |
+|   101946 | PUQUIO ROJAS, GIANCARLO JOSE        | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
+|   100199 | AGUIRRE, ARIEL LEANDRO              | Lucas Waisten                                       |
+|   101589 | ALVAREZ, JUAN MANUEL                | Ignacio Brusati                                     |
+|   105081 | AVENDAÑO PADILLA, FRANZ JULIO       | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
+|   104733 | BRASBURG, AGUSTIN                   | Esteban Djeordjian                                  |
+|   102842 | CALIZ BLANCO, ALEJO MARTIN EZEQUIEL | Gianmarco Cafferata                                 |
+|    99676 | CANTERO, ALAN EZEQUIEL              | Matias Fusco                                        |
+|    99642 | CAPRA, FRANCO DANIEL                | Gianmarco Cafferata                                 |
+|   106551 | CASTRO, NAHUEL ELIAS                | Damian Martinelli                                   |
+|    99879 | CLAROS CASTRO, ELVIS                | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
+|   106855 | DAHAB, MOISES TOMAS                 | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
+|   104525 | DEMARCHI, LUCAS                     | Damian Martinelli                                   |
+|   103992 | ESPERON, RAMIRO                     | Gianmarco Cafferata                                 |
+|    86125 | FONZALIDA, MIGUEL ANGEL             | Gianmarco Cafferata                                 |
+|   102396 | FRESIA, JUAN PABLO                  | Damian Martinelli                                   |
+|   102184 | FUENTES, AZUL LUCILA                | Damian Martinelli                                   |
+|   106514 | GOMEZ, NAHUEL NICOLAS               | Gianmarco Cafferata                                 |
+|   104623 | GRAZIOSI, GERMAN                    | Matias Fusco                                        |
+|   105798 | GRÜNER, TOMÁS                       | Ignacio Brusati                                     |
+|   105553 | JALEH, FEDERICO EZEQUIEL            | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
+|    87796 | LA TORRE, GABRIEL                   | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
+|   105931 | LAZZARO, MELINA                     | Julieta Ponti                                       |
+|   106223 | LITTERI, IVAN                       | Matias Rotondo                                      |
+|   104002 | LOSCOCCO, IGNACIO ARIEL             | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
+|   105771 | MANGIATERRA, FEDERICO CARLOS        | Manuel Battan                                       |
+|   105994 | MARCHESINI, SOFIA                   | Esteban Djeordjian                                  |
+|   105554 | ORQUERA LORDA, FRANCISCO            | Lucas Waisten                                       |
+|   102256 | OSCO CABRERA, ALEJANDRO ABRAHAM     | Gianmarco Cafferata                                 |
+|   102649 | PAGURA, SEBASTIAN MARTIN            | Matias Fusco                                        |
+|   102679 | PALAZON, MARTIN                     | Gianmarco Cafferata                                 |
+|   100972 | PEREZ LEIRAS, AGUSTIN TOMAS         | Manuel Battan                                       |
+|    98230 | PERRONE, PATRICIO NAHUEL            | Ignacio Brusati                                     |
+|   104229 | PONT TOVAR, MARIA FERNANDA          | Manuel Battan                                       |
+|    91561 | PRIETO, PABLO ALEJANDRO             | Damian Martinelli                                   |
+|   105703 | RONDAN, MARCELO ARIEL               | Damian Martinelli                                   |
+|   105558 | SALESE D'ASSARO, ARIANA MAGALÍ      | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
+|   106422 | SILVA, PATRICIO TOMAS               | Esteban Djeordjian                                  |
+|   104909 | TAIBO, NAZARENO GABRIEL             | Matias Rotondo                                      |
+|    96995 | Matías Priano                       | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
+|   100488 | Carlos Martín Stefanelli D'elias    | Julieta Ponti                                       |
+|    98559 | Nicolas Allende                     | Julieta Ponti                                       |
