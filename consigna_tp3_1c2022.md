@@ -45,11 +45,11 @@ Los modelos deben cumplir las siguientes condiciones:
 * Deben utilizar CountVectorizer o TfIdfVectorizer para algunos features.
 * Deberán contestar la siguiente pregunta: Para **el mejor modelo de ambos**, ¿cuál es el score en test? (guardar el csv con predicciones para entregarlo después)
 
-## Puntos extra (hasta 5 <img src="imgs/1c2022/luisito64.jpg" />)
+## Puntos extra (hasta 4 <img src="imgs/1c2022/luisito64.jpg" />)
 
 Estas consignas suman puntos extra por fuera de los necesarios para aprobar el TP, mientras más consignas extra realicen más puntos consiguen y menos va a depender su aprobación de que los puntos de arriba estén bien:
 
-* Entrenar una red neuronal con Keras que sea reproducible, usando al menos 40 features y un score en validación superior a 0,6. Debe ser un modelo por separado a los propuestos, no necesita búsqueda de hiper parámetros ni cumplir otra condición. ¿Cúal es su score en validación y en test? (2 puntos)
+* Entrenar una red neuronal con Keras que sea reproducible, usando al menos 40 features y un score en validación superior a 0,6. Debe ser un modelo por separado a los propuestos, no necesita búsqueda de hiper parámetros ni cumplir otra condición. ¿Cúal es su score en validación y en test? (1 puntos)
 * Graficar la importancia de features para algún modelo de la parte III. ¿Qué tanto se parece a los features importantes de la parte II? (1 punto)
 * Agregar una técnica de feature selection para algún modelo de la parte III (1 punto)
 * Entrenar una regresión sobre el campo `shares`. ¿Cúal es su MSE en test y train? ¿Qué tanta accuracy tiene sobre `popular` un sistema de regresión que luego pasa a binario por medio del percentil 80 de `shares`? (1 punto)
@@ -60,7 +60,7 @@ Utilizamos el promedio del puntaje normalizado de cada kahoot/parcialito para ar
 
 ## Criterio de corrección
 
-Se necesita un 60% (12/20) de los puntos para aprobar. Los puntos extra permiten sumar por dentro de los 20 (uno se puede sacar hasta 26 pero se sigue aprobando con 12 y el 20 representa un 10).
+Se necesita un 60% (12/20) de los puntos para aprobar. Los puntos extra permiten sumar por dentro de los 20 (uno se puede sacar hasta 25 pero se sigue aprobando con 12 y el 20 representa un 10).
 
 ### Parte I
 
