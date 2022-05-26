@@ -24,6 +24,7 @@ Este es el sitio que vamos a estar usando durante la cursada 1c2022 de la materi
 * [Calendario](calendario.md)
 * [Enunciado TP1](consigna_tp1_1c2022.md)
 * [Enunciado TP2](consigna_tp2_1c2022.md)
+* [Enunciado TP3](consigna_tp3_1c2022.md)
 * [Material y bibliografía](materiales.md)
 * Algunos trabajos anteriores
   * [Visualizaciones destacadas](visualizaciones.md)
