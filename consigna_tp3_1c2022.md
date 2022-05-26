@@ -5,7 +5,7 @@
 El dataset a usar es el extraído de los experimentos realizados en [este paper](https://repositorium.sdum.uminho.pt/bitstream/1822/39169/1/main.pdf) sobre la predicción de popularidad de artículos en el sitio [Mashable](https://mashable.com/).
 El dataset fue preprocesado por la catedra para agregar el texto de la nota y crear el target binario `popular` en base al percentil 80% del campo `shares` (`shares` está solo para entender como usar el dataset, logicamente no puede usarse para predecir).
 En el paper citado está explicado que es y como se construyo cada feature.
-El objetivo del TP es explicar y predecir la variable `popular` que value `True` si la noticia es popular y `False` si no lo es.
+El objetivo del TP es explicar y predecir la variable `popular` que vale `True` si la noticia es popular y `False` si no lo es.
 Pueden descargarlo con los links: [train](https://drive.google.com/file/d/1MWuzLdvsM3sNklWE-4VKsdhDCzUR-yca/view?usp=sharing), [test](https://drive.google.com/file/d/1ycXSAi-U1WwVXd1XPJPy6WvKt0Mla9Li/view?usp=sharing).
 
 ## Parte I - Análisis Exploratorio (6 <img src="imgs/1c2022/luisito64.jpg" />)
@@ -102,5 +102,5 @@ Por sobre el puntaje total del ejercicio (ambos modelos) se restan 3 puntos si c
 * Recomendamos trabajar durante todo el TP en solo 4 notebooks: Uno de visualizaciones, otro para la regresión logística y uno para cada modelo de la parte III. Les recomendamos desarrollarlos de forma prolija y mostrar de forma ordenada cada uno de los resultados y pasos, con títulos y comentarios donde corresponda.
 * El TP pide solo 6 visus y 3 modelos con condiciones muy claras, tengan esa consideración a medida avanzan para chequear que cumplen todo.
 * El TP **no pide ni evalúa más que lo que dice**, si bien ser original y tener un buen score suma en términos de trabajo y aprendizaje para ustedes, sean inteligentes respecto a los modelos y features que eligen para trabajar para garantizar que pueden terminar. Ya van a tener tiempo de ser originales en el TP4…
-* Particularmente **este TP es muy difícil empezarlo al final**, en cuotas se vuelve mucho más sencillo, les recomendamos empezar por las visus que no necesitan teoría nueva. Sabemos que muchos de ustedes vienen haciendo algunos tps la última semana, pero la experiencia del cuatrimestre pasado nos dice que **con este no se puede hacer eso**, son demasiados conceptos a entender y muchas formas de hacerlo mal, no es solo una consigna a cumplir, sigan las teóricas.
+* Particularmente **este TP es muy difícil empezarlo al final**, en cuotas se vuelve mucho más sencillo, les recomendamos empezar por las visus que no necesitan teoría nueva. Sabemos que muchos de ustedes vienen haciendo algunos tps la última semana, pero la experiencia del cuatrimestre pasado nos dice que **con este no se puede hacer eso**, son demasiados conceptos a entender y muchas formas de hacerlo mal, no es solo una consigna a cumplir. Sigan las teóricas.
 * Todos los puntos deben estar desarrollados (exceptuando por supuesto los extra).
