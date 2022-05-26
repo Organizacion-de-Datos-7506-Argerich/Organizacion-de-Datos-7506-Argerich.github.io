@@ -2,7 +2,7 @@
 
 ## Dataset a usar
 
-El dataset a usar es el extraído de los experimentos realizados en [este paper](https://repositorium.sdum.uminho.pt/bitstream/1822/39169/1/main.pdf) sobre la predicción de popularidad de artículos en el sitio Mashable.
+El dataset a usar es el extraído de los experimentos realizados en [este paper](https://repositorium.sdum.uminho.pt/bitstream/1822/39169/1/main.pdf) sobre la predicción de popularidad de artículos en el sitio [Mashable](https://mashable.com/).
 El dataset fue preprocesado por la catedra para agregar el texto de la nota y crear el target binario `popular` en base al percentil 80% del campo `shares` (`shares` está solo para entender como usar el dataset, logicamente no puede usarse para predecir).
 En el paper citado está explicado que es y como se construyo cada feature.
 El objetivo del TP es explicar y predecir la variable `popular` que value `True` si la noticia es popular y `False` si no lo es.
@@ -54,9 +54,13 @@ Estas consignas suman puntos extra por fuera de los necesarios para aprobar el T
 * Agregar una técnica de feature selection para algún modelo de la parte III (1 punto)
 * Entrenar una regresión sobre el campo `shares`. ¿Cúal es su MSE en test y train? ¿Qué tanta accuracy tiene sobre `popular` un sistema de regresión que luego pasa a binario por medio del percentil 80 de `shares`? (1 punto)
 
+## Premio kahoot (un <img src="imgs/1c2022/luisito64.jpg" />)
+
+Utilizamos el promedio del puntaje normalizado de cada kahoot/parcialito para armar un podio. El podio se modificara a medida participen en los Kahoots. Los 5 primeros reciben un <img src="imgs/1c2022/luisito.jpg" /> extra.
+
 ## Criterio de corrección
 
-Se necesita un 60% (12/20) de los puntos para aprobar. Los puntos extra permiten sumar por dentro de los 20 (uno se puede sacar hasta 25 pero se sigue aprobando con 12).
+Se necesita un 60% (12/20) de los puntos para aprobar. Los puntos extra permiten sumar por dentro de los 20 (uno se puede sacar hasta 26 pero se sigue aprobando con 12 y el 20 representa un 10).
 
 ### Parte I
 
