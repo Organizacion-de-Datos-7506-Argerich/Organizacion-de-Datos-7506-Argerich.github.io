@@ -105,7 +105,7 @@ Por sobre el puntaje total del ejercicio (ambos modelos) se restan 3 puntos si c
 * Particularmente **este TP es muy difícil empezarlo al final**, en cuotas se vuelve mucho más sencillo, les recomendamos empezar por las visus que no necesitan teoría nueva. Sabemos que muchos de ustedes vienen haciendo algunos tps la última semana, pero la experiencia del cuatrimestre pasado nos dice que **con este no se puede hacer eso**, son demasiados conceptos a entender y muchas formas de hacerlo mal, no es solo una consigna a cumplir. Sigan las teóricas.
 * Todos los puntos deben estar desarrollados (exceptuando por supuesto los extra).
 
-## Asingación de correctores
+## Asignación de correctores
 
 |   Padrón | Alumno                              | Ayudante asignado                                   |
 |---------:|:------------------------------------|:----------------------------------------------------|
