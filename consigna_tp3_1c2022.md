@@ -26,7 +26,7 @@ Vamos a construir un modelo muy sencillo para saber qué es lo peor que podemos 
 * Nos sirve para rápidamente saber que tan complejo es un problema.
 * Los modelos simples son fáciles de entender.
 
-Utilice **todas las columnas del dataset** (exceptuando columnas que no deban ser usadas para predecir) con algún encoding donde sea necesario para entrenar una regresión logística, utilizando búsqueda de hiperparametros y garantizando la reproducibilidad de los resultados cuando el notebook corriera varias veces. Conteste las preguntas:
+Utilice **todas las columnas del dataset** (exceptuando columnas que no tenga sentido usar para predecir) con algún encoding donde sea necesario para entrenar una regresión logística, utilizando búsqueda de hiperparametros y garantizando la reproducibilidad de los resultados cuando el notebook corriera varias veces. Conteste las preguntas:
 
 * ¿Cuál es el mejor score de validación obtenido? (¿Cómo conviene obtener el dataset para validar?)
 * Al predecir con este modelo para test, ¿Cúal es el score obtenido? (guardar el csv con predicciones para entregarlo después)
