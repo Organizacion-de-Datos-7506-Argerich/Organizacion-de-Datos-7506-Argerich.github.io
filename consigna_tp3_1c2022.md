@@ -120,7 +120,7 @@ Por sobre el puntaje total del ejercicio (ambos modelos) se restan 3 puntos si c
 |   104733 | BRASBURG, AGUSTIN                   | Esteban Djeordjian                                  |
 |   102842 | CALIZ BLANCO, ALEJO MARTIN EZEQUIEL | Gianmarco Cafferata                                 |
 |    99676 | CANTERO, ALAN EZEQUIEL              | Matias Fusco                                        |
-|    99642 | CAPRA, FRANCO DANIEL                | Gianmarco Cafferata                                 |
+|    99642 | CAPRA, FRANCO DANIEL                | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
 |   106551 | CASTRO, NAHUEL ELIAS                | Damian Martinelli                                   |
 |    99879 | CLAROS CASTRO, ELVIS                | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
 |   106855 | DAHAB, MOISES TOMAS                 | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
@@ -148,7 +148,7 @@ Por sobre el puntaje total del ejercicio (ambos modelos) se restan 3 puntos si c
 |   104229 | PONT TOVAR, MARIA FERNANDA          | Manuel Battan                                       |
 |    91561 | PRIETO, PABLO ALEJANDRO             | Damian Martinelli                                   |
 |   105703 | RONDAN, MARCELO ARIEL               | Damian Martinelli                                   |
-|   105558 | SALESE D'ASSARO, ARIANA MAGALÍ      | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
+|   105558 | SALESE D'ASSARO, ARIANA MAGALÍ      | Gianmarco Cafferata                                 |
 |   106422 | SILVA, PATRICIO TOMAS               | Esteban Djeordjian                                  |
 |   104909 | TAIBO, NAZARENO GABRIEL             | Matias Rotondo                                      |
 |    96995 | Matías Priano                       | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
