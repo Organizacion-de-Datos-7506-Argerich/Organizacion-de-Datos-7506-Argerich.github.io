@@ -3,7 +3,7 @@
 ## Dataset a usar
 
 El dataset a usar es el extraído de los experimentos realizados en [este paper](https://repositorium.sdum.uminho.pt/bitstream/1822/39169/1/main.pdf) sobre la predicción de popularidad de artículos en el sitio [Mashable](https://mashable.com/).
-El dataset fue preprocesado por la catedra para agregar el texto de la nota y crear el target binario `popular` en base al percentil 80% del campo `shares` (`shares` está solo para entender el dataset, logicamente no puede usarse para predecir, pero si para análisis exploratorio).
+El dataset fue preprocesado por la catedra para agregar el texto de la nota y crear los features `surprise1` y `surprise2` y el target binario `popular` en base al percentil 80% del campo `shares` (`shares` está solo para entender el dataset, logicamente no puede usarse para predecir, pero si para análisis exploratorio).
 En el paper citado está explicado que es y como se construyo cada feature.
 El objetivo del TP es explicar y predecir la variable `popular` que vale `True` si la noticia es popular y `False` si no lo es.
 Pueden descargarlo en formato parquet con los links: [train](https://drive.google.com/file/d/1MWuzLdvsM3sNklWE-4VKsdhDCzUR-yca/view?usp=sharing), [test](https://drive.google.com/file/d/1ycXSAi-U1WwVXd1XPJPy6WvKt0Mla9Li/view?usp=sharing).
