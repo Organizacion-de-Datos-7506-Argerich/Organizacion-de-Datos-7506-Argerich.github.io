@@ -135,7 +135,7 @@ Por sobre el puntaje total del ejercicio (ambos modelos) se restan 3 puntos si c
 |   105553 | JALEH, FEDERICO EZEQUIEL            | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
 |    87796 | LA TORRE, GABRIEL                   | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
 |   105931 | LAZZARO, MELINA                     | Julieta Ponti                                       |
-|   106223 | LITTERI, IVAN                       | Matias Rotondo                                      |
+|   106223 | LITTERI, IVAN                       | Julieta Ponti                                       |
 |   104002 | LOSCOCCO, IGNACIO ARIEL             | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
 |   105771 | MANGIATERRA, FEDERICO CARLOS        | Manuel Battan                                       |
 |   105994 | MARCHESINI, SOFIA                   | Esteban Djeordjian                                  |
@@ -152,5 +152,5 @@ Por sobre el puntaje total del ejercicio (ambos modelos) se restan 3 puntos si c
 |   106422 | SILVA, PATRICIO TOMAS               | Esteban Djeordjian                                  |
 |   104909 | TAIBO, NAZARENO GABRIEL             | Matias Rotondo                                      |
 |    96995 | Matías Priano                       | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
-|   100488 | Carlos Martín Stefanelli D'elias    | Julieta Ponti                                       |
+|   100488 | Carlos Martín Stefanelli D'elias    | Matias Rotondo                                      |
 |    98559 | Nicolas Allende                     | Julieta Ponti                                       |
