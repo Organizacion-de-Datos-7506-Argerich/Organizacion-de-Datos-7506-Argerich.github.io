@@ -29,6 +29,13 @@ El calendario se irá llenando a medida avance el cuatrimestre.
 |  6/6   |   Machine Learning. Redes neuronales. Deep learning.  |    [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYeMhP2KGFWFHNDesRCyRB5j)    |
 |  9/6   |   Consulta TP3  |   -    |
 |  13/6   |   **Entrega TP3**  |   -    |
+|  16/6   |   NLP II: RNNs, Convs 1D, Word embeddings, Fasttext, Char embeddings  **Enunciado TP4**|   [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYc3ZKiKx5GJVHc1Qwsejgmx)    |
+|  20/6   |   FERIADO  |   -    |
+|  23/6   |   Reducción de Dimensiones. PCA/SVD - LSI - Autoencoders - TSNE - UMAP.  |   [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYeTvoYdNOR9alvMUMfwq-1Z)    |
+|  27/6   |   Clustering. Clustering jerárquico. K-Means, K-Means online, K-Means++, Clustering espectral. DBScan y HDBScan.  |   [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYd6IYbQsMwPSIbDNGsuqByW)    |
+|  30/6   |   Consulta TP4  |   -    |
+|  4/7   |   Clase Especial de ML sincrónica (Fairness) |   -    |
+|  7/7   |   **Entrega TP4** |   -    |
 
 
 ## Clases prácticas grabadas
