@@ -58,6 +58,16 @@ Estas consignas suman puntos extra por fuera de los necesarios para aprobar el T
 
 Utilizamos el promedio del puntaje normalizado de cada kahoot/parcialito para armar un podio. El podio se modificara a medida participen en los Kahoots. Los 5 primeros reciben un <img src="imgs/1c2022/luisito.jpg" /> extra.
 
+|   padron | Alumno       |   ML I |   Árboles |   Feature engineering |   Redes |   Promedio | Premio |
+|---------:|:-------------|------:|----------:|--------:|--------:|---------:|---------:|
+|   105798 | GRÜNER       |  0.97 |      1    |    1    |    0.85 | 0.955549 |<img src="imgs/1c2022/luisito.jpg" />|
+|   105771 | MANGIATERRA  |  0.64 |      0.65 |    0.87 |    0.83 | 0.748192 |<img src="imgs/1c2022/luisito.jpg" />|
+|   101589 | ALVAREZ      |  0.8  |      0.58 |    0.85 |    0.71 | 0.735223 |<img src="imgs/1c2022/luisito.jpg" />|
+|   102396 | FRESIA       |  0.9  |      0.66 |    0.64 |    0.63 | 0.703499 |<img src="imgs/1c2022/luisito.jpg" />|
+|   104002 | LOSCOCCO     |  0.84 |      0.7  |    0.65 |    0.47 | 0.66324  |<img src="imgs/1c2022/luisito.jpg" />|
+|   100972 | PEREZ LEIRAS |  0.78 |      0    |    0.8  |    1    | 0.64509  |-|
+|   105906 | GRUSS        |  0.88 |      0    |    0.97 |    0.7  | 0.636773 |-|
+
 ## Criterio de corrección
 
 Se necesita un 60% (12/20) de los puntos para aprobar. Los puntos extra permiten sumar por dentro de los 20 (uno se puede sacar hasta 25 pero se sigue aprobando con 12 y el 20 representa un 10).
