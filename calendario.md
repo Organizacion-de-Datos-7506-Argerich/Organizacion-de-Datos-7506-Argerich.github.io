@@ -34,7 +34,7 @@ El calendario se irá llenando a medida avance el cuatrimestre.
 |  23/6   |   Reducción de Dimensiones. PCA/SVD - LSI - Autoencoders - TSNE - UMAP.  |   [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYeTvoYdNOR9alvMUMfwq-1Z)    |
 |  27/6   |   Clustering. Clustering jerárquico. K-Means, K-Means online, K-Means++, Clustering espectral. DBScan y HDBScan.  |   [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYd6IYbQsMwPSIbDNGsuqByW)    |
 |  30/6   |   Consulta TP4  |   -    |
-|  4/7   |   Clase Especial de ML sincrónica (Fairness) |   -    |
+|  4/7   |   Clase Especial de ML sincrónica (Fairness) |   PRESENCIAL EN FIUBA    |
 |  7/7   |   **Entrega TP4** |   -    |
 
 
