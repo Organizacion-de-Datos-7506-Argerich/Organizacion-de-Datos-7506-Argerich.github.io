@@ -9,7 +9,7 @@ Deberán elegir **una tarea de las presentadas** para alguno de los datasets y d
  * Redes neuronales
  * Reducción de dimensiones
  * Clustering
- 
+
 Por sobre eso se valora el uso de cualquier técnica de machine learning novedosa y potencialmente útil.
 
 ## Formato de entrega
@@ -74,7 +74,7 @@ Tenemos dos conjuntos de datos de [_alphavantage_](https://www.alphavantage.co/)
 
 Generalmente las acciones de predicción en trading están ligadas a predecir el precio de una acción específica. En este caso se plantea no predecir el precio, sino que dada una cartera (dinero + acciones), se sugieren los movimientos a realizar durante un dia (en _tiempo real_<small>*</small>) para maximizar la ganancia. Los movimientos se definen en términos de: se debe comprar / vender / holdear; cuanto se debe comprar o vender; a qué precio se debe comprar o vender.
 
-<small style="font-size: 10px">**\*Tiempo real**: en un contexto de microtrading, el tiempo que tardamos en realizar los movimientos importa en el resultado. Para el TP, asuman que en T1 se puede sensar (tomar un input de cualquier tiempo menor o igual a T1), en T2 toma una acción una acción y en T3 se ve el resultado. </small>
+<small style="font-size: 10px">**\*Tiempo real**: en un contexto de microtrading, el tiempo que tardamos en realizar los movimientos importa en el resultado. Para el TP, asuman que en T1 se puede sensar (tomar un input de cualquier tiempo menor o igual a T1), en T2 toma una acción y en T3 se ve el resultado. </small>
 
 Para las operaciones considerar:
 * Compra
