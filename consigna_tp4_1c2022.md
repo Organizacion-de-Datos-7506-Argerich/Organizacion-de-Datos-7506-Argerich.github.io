@@ -30,8 +30,8 @@ Lo más normal es que no tengan idea de qué hacer en su tarea y es la idea que 
 
 ## Resonancias magnéticas para la detección de tumores
 
-<img src="imgs/1c2022/tp4/tumor_no.jpeg" width="40%"/>
-<img src="imgs/1c2022/tp4/tumor_si.jpg" width="40%"/>
+<center><img src="imgs/1c2022/tp4/tumor_no.jpeg" width="40%"/>
+<img src="imgs/1c2022/tp4/tumor_si.jpg" width="40%"/></center>
 
 ### Tarea 1: Reducción de dimensiones sobre resonancias magnéticas para la detección de tumores
 
@@ -39,7 +39,7 @@ El dataset consiste de tan solo 250 imágenes por lo que resulta difícil aplica
 
 ## Detección de typos en código
 
-<img src="https://github.com/mhagiwara/github-typo-corpus/raw/master/overview.png"/>
+<center><img src="https://github.com/mhagiwara/github-typo-corpus/raw/master/overview.png"/></center>
 
 Tomando [este dataset](https://github.com/mhagiwara/github-typo-corpus) de typos en commits de github se extrajeron textos de código (no documentación) corregidos por usuarios en commits de github. El [dataset reducido](https://gianmarco.com.ar/downloads/github_typo/typos.parquet) tiene más de 69mil textos con las posiciones de los caracteres que fueron modificados.
 
@@ -92,7 +92,7 @@ Una variante de inversión más conservadora es diversificar la cartera en más 
 
 ## Stackoverflow
 
-<img src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" />
+<center><img src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" /></center>
 
 Tomamos una muestra de posts de stack overflow y sus respuestas del dataset utilizado [en este paper](https://data.ncl.ac.uk/articles/dataset/Machine_learning-based_detection_of_FLOSS_version_release_events_from_Stack_Overflow_message_data/12472859). Por un lado tenemos un parquet para [los posts en sí mismos](https://gianmarco.com.ar/downloads/floss_github/post_sample.parquet) y otro para [las respuestas de esos posts](https://gianmarco.com.ar/downloads/floss_github/answer_sample.parquet).
 
@@ -119,7 +119,7 @@ Utilice algún algoritmo de clasificación no supervisada sobre alguna reducció
 
 ## Tweets políticos y discriminatorios
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/768px-Twitter-logo.svg.png" />
+<center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/768px-Twitter-logo.svg.png" width="50%"/></center>
 
 Tenemos [tres datasets](https://data.mendeley.com/datasets/c2b8mj2hsf/1) de tweets, según si son políticos o no, o discriminatorios o no:
 * Dataset_1.zip: Contiene tweets en inglés políticos y no políticos
