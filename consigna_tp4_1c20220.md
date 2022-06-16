@@ -137,3 +137,15 @@ Utilizando un método de clasificación semi-supervisada corrija los datasets d�
 
 
 ## Espectrogramas de masa
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/WidmoMS.gif?20051111122935"/>](https://commons.wikimedia.org/wiki/File:WidmoMS.gif)
+
+Tenemos [un dataset](https://drive.google.com/file/d/17fVzfCrSgcQi62IUjFOnlmePH54W2nHO/view?usp=sharing) con los espectrogramas de masa para distintos compuestos orgánicos.
+
+### Tarea 15: Predecir la cantidad de átomos de cada elemento
+
+Queremos predecir la cantidad de átomos de cada elemento que tiene el compuesto utilizado. ¿Qué tan bien funciona en los compuestos con los que no entreno?
+
+### Tarea 16: Clasificación supervisada
+
+Para los compuestos que tienen almenos una categoría asignada en alguno de sus niveles. ¿Qué tan facil es predecirla según el espectrograma?
