@@ -6,11 +6,12 @@ Deberán elegir **una tarea de las presentadas** para alguno de los datasets y d
 * Un baseline
 * Un dataset de validation/test para todos los experimentos
 * Al Menos una implementación de alguna de las siguientes:
- * Redes neuronales
- * Reducción de dimensiones
- * Clustering
+    * Redes neuronales
+    * Reducción de dimensiones
+    * Clustering
 
-Por sobre eso se valora el uso de cualquier técnica de machine learning novedosa y potencialmente útil.
+Por sobre eso se valora el uso de cualquier técnica de machine learning novedosa y potencialmente útil. La idea es hacer una **POC: Proof of concept**.
+
 
 ## Formato de entrega
 
