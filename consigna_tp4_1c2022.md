@@ -37,7 +37,7 @@ Lo más normal es que no tengan idea de qué hacer en su tarea y es la idea que 
 
 ### Tarea 1: Reducción de dimensiones sobre resonancias magnéticas para la detección de tumores
 
-El dataset consiste de tan solo 250 imágenes por lo que resulta difícil aplicar redes neuronales. La mayoría de las implementaciones utiliza _transfer learning_ sobre otra red pre entrenada. El objetivo de la tarea es intentar algo distinto: Entrenar un KNN con distancia y representación a elegir para las imágenes. ¿Qué distancias, reducciones de dimensiones y Ks consiguen mejor accuracy en el set de test?
+El dataset consiste de tan solo [250 imágenes](https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection?resource=download) por lo que resulta difícil aplicar redes neuronales. La mayoría de las implementaciones utiliza _transfer learning_ sobre otra red pre entrenada. El objetivo de la tarea es intentar algo distinto: Entrenar un KNN con distancia y representación a elegir para las imágenes. ¿Qué distancias, reducciones de dimensiones y Ks consiguen mejor accuracy en el set de test?
 
 ## Detección de typos en código
 
