@@ -38,6 +38,16 @@ El calendario se irá llenando a medida avance el cuatrimestre.
 |  7/7   |   **Entrega TP4** |   -    |
 
 
+## Fechas de final
+
+Las fechas de final presencial son:
+
+* Lunes 11/7 a las 19hs
+* Jueves 4/8 a las 19hs
+* Jueves 11/8 a las 19hs
+* Jueves 18/8 a las 19hs
+* Jueves 25/8 a las 19hs
+
 ## Clases prácticas grabadas
 
 Puede accederse en [está lista](https://www.youtube.com/playlist?list=PLeo_qKwGPZYeB9qae9WrNIfwD-0cPTeoq). En la descripción de cada video hay un link a los notebooks.
