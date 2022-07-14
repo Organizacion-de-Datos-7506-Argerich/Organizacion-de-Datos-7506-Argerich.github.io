@@ -21,11 +21,7 @@ Este es el sitio que vamos a estar usando durante la cursada 1c2022 de la materi
 ## Links
 
 * [Diapositiva administrativa](https://docs.google.com/presentation/d/1Zecd_CLclRwU56nGYej3VH06OAaK959JnelpHwDYDq4/edit?usp=sharing)
-* [Calendario](calendario.md)
-* [Enunciado TP1](consigna_tp1_1c2022.md)
-* [Enunciado TP2](consigna_tp2_1c2022.md)
-* [Enunciado TP3](consigna_tp3_1c2022.md)
-* [Enunciado TP4](consigna_tp4_1c2022.md)
+* [Calendario (primer cuatrimestre 2022)](calendario.md)
 * [Material y bibliografía](materiales.md)
 * Algunos trabajos anteriores
   * [Visualizaciones destacadas](visualizaciones.md)

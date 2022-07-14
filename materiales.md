@@ -57,6 +57,13 @@ Estos ejercicios son de cuando tomábamos parciales/parcialitos, pueden ser úti
 
 ## Enunciados de TP viejos
 
+### Primer cuatrimestre 2022
+
+* [Enunciado TP1](consigna_tp1_1c2022.md)
+* [Enunciado TP2](consigna_tp2_1c2022.md)
+* [Enunciado TP3](consigna_tp3_1c2022.md)
+* [Enunciado TP4](consigna_tp4_1c2022.md)
+
 ### Segundo cuatrimestre 2021
 
 * [TP1](pdfs/TP1_2C2021.pdf)
