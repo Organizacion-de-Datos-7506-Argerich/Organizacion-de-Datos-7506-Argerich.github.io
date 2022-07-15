@@ -6,7 +6,7 @@ Durante la pandemia hemos podido producir muchísimo contenido digital que ahora
 
 ## ¿A quién está dirigido este curso?
 
-Los requisitos para cursar son tener conocimientos básicos de programación en el lenguaje Python (operadores y comparadores, manejo de strings, listas, tipos, iteraciones y ciclos, tipos de datos, objetos) y tener formación académica en el campo del Álgebra y Análisis Matemático.
+Los requisitos para cursar son tener conocimientos básicos de programación en el lenguaje Python (operadores y comparadores, manejo de strings, listas, tipos, iteraciones y ciclos, tipos de datos, objetos) u otro lenguaje que permita pasar rápido a Python y tener formación académica en el campo del Álgebra y Análisis Matemático.
 
 El perfil ideal es alguien con formación universitaria en curso o terminada de ciencias exactas, ingenierías, economía u otras carreras afines a la matemática que quiera introducirse en el mundo de la ciencia de datos, ya sea para empezar a ejercer la profesión, para entender y coordinar de forma más eficaz la interacción con equipos de ciencia de datos o para reforzar ciertos conocimientos o formas de enseñar ya siendo profesional o docente cercano a estas áreas. El curso comprende todo lo necesario para realizar análisis de datos y empezar a desarrollar soluciones de Machine Learning básicas e intermedias, además de hacer ETLs (Extract, Transform & Load) básicos de forma centralizada y distribuida.
 
