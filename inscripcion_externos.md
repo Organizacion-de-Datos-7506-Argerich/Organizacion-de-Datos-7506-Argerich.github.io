@@ -1,5 +1,3 @@
-Atención, esta web todavía no es pública, es un borrador.
-
 # Inscripción alumnos externos
 
 Durante años la cátedra Argerich de la materia Organización de Datos de la Facultad de Ingeniería de la Universidad de Buenos Aires (FIUBA) ha aceptado y evaluado oyentes externos a la facultad de forma **gratuita** y **libre** pero **no oficial y no afiliada a la UBA**. Creemos que esto tiene un valor inmenso para los alumnos regulares de la materia, los docentes, la facultad y por supuesto ustedes alumnos externos.
