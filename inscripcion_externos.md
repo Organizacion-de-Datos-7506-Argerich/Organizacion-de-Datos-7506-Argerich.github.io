@@ -104,7 +104,7 @@ Como extra, se está evaluando la inclusión de temas relacionados a hashing y B
 
 La inscripción es mediante un [Google Form](https://forms.gle/sFdN8AsNjvsnER2cA).
 
-Previo al comienzo del curso serán notificados quienes finalmente queden en el curso, solicitando una confirmación. Hay cupos limitados.
+Previo al comienzo del curso serán notificados quienes finalmente queden en el curso, solicitando una confirmación por mail. Hay cupos limitados.
 
 ### ¿Cómo se asignan los cupos?
 
