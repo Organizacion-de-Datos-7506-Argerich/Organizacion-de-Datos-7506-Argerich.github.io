@@ -4,7 +4,7 @@ Atención, esta web todavía no es pública, es un borrador.
 
 Durante años la cátedra Argerich de la materia Organización de Datos de la Facultad de Ingeniería de la Universidad de Buenos Aires (FIUBA) ha aceptado y evaluado oyentes externos a la facultad de forma **gratuita** y **libre** pero **no oficial y no afiliada a la UBA**. Creemos que esto tiene un valor inmenso para los alumnos regulares de la materia, los docentes, la facultad y por supuesto ustedes alumnos externos.
 
-Durante la pandemia hemos podido producir muchísimo contenido digital que ahora podemos usar para escalar esta modalidad por lo que queremos abrir el curso de una forma más masiva por lo que queremos abrir nuevamente este curso a alumnos externos.
+Durante la pandemia hemos podido producir muchísimo contenido digital que ahora podemos usar para escalar esta modalidad por lo que queremos abrir nuevamente este curso a alumnos externos de una forma más masiva.
 
 ## ¿A quién está dirigido este curso?
 
