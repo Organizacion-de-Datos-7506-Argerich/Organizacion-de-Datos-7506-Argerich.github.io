@@ -2,6 +2,38 @@
 
 El TP4 es opcional y es machine learning sobre data no tabular. Aquí el TP con mejor nota para cada tarea.
 
+## 1er cuatrimestre 2022
+
+### Clasificación de tweets discriminatorios
+Cree un clasificador para tweets discriminatorios. La métrica de validación es AUC-ROC. ¿Cómo conviene usar los débilmente clasificados?
+
+* [Alejo Caliz Blanco](https://www.youtube.com/watch?v=0ZEfAgGGyeo)
+
+### Regresión de cantidades por elemento según espectograma de masas
+
+Dado un espectograma de masas detectar la cantidad de cada elemento en el compuesto orgánico.
+
+* [Tomás Grüner](https://www.youtube.com/watch?v=g-d1n8QWguQ&feature=youtu.be)
+
+### Predicción multi idioma
+
+Crear un clasificador que comprenda ambos idiomas (inglés y portugues) que clasifique tweets según si son políticos o no. La métrica de validación es AUC-ROC. ¿Cómo conviene usar los débilmente clasificados?
+
+* Carlos Martin Stefanelli Delias (pendiente subir)
+
+### KNN sobre dibujos
+
+Utilice KNN sobre una reducción de dimensiones que elija para predecir la categoría de los dibujos. ¿Qué top-3 accuracy puede conseguir?
+
+* [Juan Manuel Álvarez](https://www.youtube.com/watch?v=3hU33layKoo)
+
+### Reducción de dimensiones sobre resonancias magnéticas para la detección de tumores
+
+Entrenar un KNN con distancia y representación a elegir para las imágenes. ¿Qué distancias, reducciones de dimensiones y Ks consiguen mejor accuracy en el set de test?
+
+* [Thiago Ezequiel Gomez](https://www.youtube.com/watch?v=lY8DdJyMI58)
+
+
 ## 2do cuatrimestre 2021
 
 ### Generar imagenes de drogas falsas

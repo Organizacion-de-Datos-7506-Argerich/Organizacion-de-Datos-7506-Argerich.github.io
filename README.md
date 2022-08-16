@@ -2,8 +2,8 @@ Este es el sitio que vamos a estar usando durante la cursada 1c2022 de la materi
 
 ## Cuerpo docente
 
-* Damián Martinelli
-* Gianmarco Cafferata
+* Damián Martinelli (damianmarti@gmail.com)
+* Gianmarco Cafferata (gcafferata@fi.uba.ar)
 * Julian Crespo
 * Esteban Djeordjian
 * Tomás Nocetti
@@ -20,8 +20,8 @@ Este es el sitio que vamos a estar usando durante la cursada 1c2022 de la materi
 
 ## Links
 
-* [Diapositiva administrativa](https://docs.google.com/presentation/d/1Zecd_CLclRwU56nGYej3VH06OAaK959JnelpHwDYDq4/edit?usp=sharing)
-* [Calendario (primer cuatrimestre 2022)](calendario.md)
+* Diapositiva administrativa (en construcción)
+* Calendario (en construcción)
 * [Material y bibliografía](materiales.md)
 * Algunos trabajos anteriores
   * [Visualizaciones destacadas](visualizaciones.md)

@@ -2,6 +2,26 @@
 
 Como parte del desarrollo del TP1 pedimos una visualización original, aquí destacamos algunas de cuatrimestres pasados que nos gustaron.
 
+## 1er cuatrimestre 2022
+
+* Wordle (Melina Lazzaro)
+<img src="visus/wordle.png" />
+
+* Nadadores por medallas olímpicas (Nahuel Nicolas Gomez)
+<img src="visus/nadadores.png" />
+
+* Crossfit (Maria Pont)
+<img src="visus/crossfit.png" />
+
+* [Consumo de cerveza en el mundo](https://www.youtube.com/watch?v=7FeheVsOiiQ)
+
+* Huella de carbono (Marcelo Rondán)
+<img src="visus/huella_carbono.png" />
+
+* Marvel vs DC (Ariana Salese)
+<img src="visus/marvel_dc.png" />
+
+
 ## 2do cuatrimestre 2021
 
 
