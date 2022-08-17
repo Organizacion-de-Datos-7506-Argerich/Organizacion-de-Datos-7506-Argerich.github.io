@@ -19,7 +19,7 @@ Dado un espectograma de masas detectar la cantidad de cada elemento en el compue
 
 Crear un clasificador que comprenda ambos idiomas (inglés y portugues) que clasifique tweets según si son políticos o no. La métrica de validación es AUC-ROC. ¿Cómo conviene usar los débilmente clasificados?
 
-* Carlos Martin Stefanelli Delias (pendiente subir)
+* [Carlos Martin Stefanelli Delias](https://www.youtube.com/watch?v=dYTiACPlM8U)
 
 ### KNN sobre dibujos
 
