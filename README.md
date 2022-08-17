@@ -23,6 +23,8 @@ Este es el sitio que vamos a estar usando durante la cursada 1c2022 de la materi
 * Diapositiva administrativa (en construcción)
 * Calendario (en construcción)
 * [Material y bibliografía](materiales.md)
+* Guías de ejercicios
+  * [Guía 0: Fundamentos](guia_0.md)
 * Algunos trabajos anteriores
   * [Visualizaciones destacadas](visualizaciones.md)
   * [Presentaciones TP4](tps4.md)
