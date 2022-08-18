@@ -74,11 +74,11 @@ Dada la siguiente tabla con resultados de observaciones de dos variables x e y, 
 
 ## Ejercicio 11
 
-Encontrar el mínimo y su posición en (x,y) de la función $f(x,y) = 4x^2+2(x-2)+y^2-5$.
+Encontrar el mínimo y su posición en (x,y) de la función $$f(x,y) = 4x^2+2(x-2)+y^2-5$$.
 
 ## Ejercicio 12
 
-Compruebe que en $\mathbb{R}^2$ la suma de los subespacios que comprenden dos rectas distintas $S_1$ y $S_2$ que pasan por el origen es todo $\mathbb{R}^2$.
+Compruebe que en $$\mathbb{R}^2$$ la suma de los subespacios que comprenden dos rectas distintas $$S_1$$ y $$S_2$$ que pasan por el origen es todo $$\mathbb{R}^2$$.
 
 # Respuestas
 
@@ -149,6 +149,7 @@ $$\sigma^2 = \frac{(1-3,5)^2+(2-3,5)^2+(2-3,5)^2+(4-3,5)^2+(6-3,5)^2+(6-3,5)^2+(
 ## Ejercicio 7
 
 Varianza: $$32,88$$
+
 Desviación: $$5,7341$$
 
 ## Ejercicio 8
@@ -169,4 +170,4 @@ Es una correlación negativa: $$-0.979$$
 
 Planteamos el gradiente y lo igualamos a 0 para encontrar mínimos y máximos locales.
 
-EL mínimo es: $\frac{-37}{4}$ y está en $x=-\frac{1}{4}, y=0$
+EL mínimo es: $$\frac{-37}{4}$$ y está en $$x=-\frac{1}{4}, y=0$$
