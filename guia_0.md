@@ -170,4 +170,4 @@ Es una correlación negativa: $$-0.979$$
 
 Planteamos el gradiente y lo igualamos a 0 para encontrar mínimos y máximos locales.
 
-EL mínimo es: $$\frac{-37}{4}$$ y está en $$x=-\frac{1}{4}, y=0$$
+El mínimo es: $$\frac{-37}{4}$$ y está en $$x=-\frac{1}{4}, y=0$$
