@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
-title: Organización de datos 7506
-description: 1er cuatrimestre 2022
+title: Organización de Datos 7506
+description: Cátedra Argerich
 
 keep_files: ["visus", "pdfs", "imgs"]
 include:
