@@ -1,4 +1,6 @@
-# Guía 0: Probabilidad y estadística básica
+# Guía 0: Fundamentos
+
+Esta es una guía de fundamentos iniciales sobre probabilidad y estadística y repaso de análisis multivariado y álgebra.
 
 ## Ejercicio 1
 
@@ -70,9 +72,15 @@ Dada la siguiente tabla con resultados de observaciones de dos variables x e y, 
 | 4 | 0.3 |
 | 5 | 0.1 |
 
-# Respuestas
+## Ejercicio 11
 
-$$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
+Encontrar el mínimo y su posición en (x,y) de la función $f(x,y) = 4x^2+2(x-2)+y^2-5$.
+
+## Ejercicio 12
+
+Compruebe que en $\mathbb{R}^2$ la suma de los subespacios que comprenden dos rectas distintas $S_1$ y $S_2$ que pasan por el origen es todo $\mathbb{R}^2$.
+
+# Respuestas
 
 ## Ejercicio 1
 
@@ -122,12 +130,43 @@ Respuesta: $$\frac{5}{36}$$
 
 ## Ejercicio 5
 
+1. $$\frac{4}{10}$$
+2. $$\frac{2}{10}$$
+3. $$\frac{3}{10}$$
+4. $$\frac{1}{10}$$
+5. $$0$$
+
 ## Ejercicio 6
+
+Calculamos el valor medio:
+
+$$\bar{X} = 3,5$$
+
+Luego la varianza:
+
+$$\sigma^2 = \frac{(1-3,5)^2+(2-3,5)^2+(2-3,5)^2+(4-3,5)^2+(6-3,5)^2+(6-3,5)^2+(5-3,5)^2+(6-3,5)^2+(6-3,5)^2+(3-3,5)^2+}{10}$$
 
 ## Ejercicio 7
 
+Varianza: $$32,88$$
+Desviación: $$5,7341$$
+
 ## Ejercicio 8
+
+$$\sigma^2 = \frac{(4−3,5)^2+(2−3,5)^2+(6−3,5)^2+(5−3,5)^2}{4}$$
+
+$$\sigma = \sqrt{\sigma^2}$$
 
 ## Ejercicio 9
 
+$$r = \frac{SS_{XY}}{\sqrt{SS_{XX}SS_{YY}}} = \frac{1,2}{\sqrt{5,2*1,2}} = 0,4803$$
+
 ## Ejercicio 10
+
+Es una correlación negativa: $$-0.979$$
+
+## Ejercicio 11
+
+Planteamos el gradiente y lo igualamos a 0 para encontrar mínimos y máximos locales.
+
+EL mínimo es: $\frac{-37}{4}$ y está en $x=-\frac{1}{4}, y=0$
