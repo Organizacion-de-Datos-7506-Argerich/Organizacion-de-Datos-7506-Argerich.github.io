@@ -120,7 +120,7 @@ Resumiendo solo las 3 primeras opciones son correctas.
 
 0.83333...
 
-# Ejercicio 5
+## Ejercicio 5
 
 1027500
 
