@@ -51,7 +51,7 @@ Queremos construir un modelo predictivo que nos permita predecir el precio en ba
 1. Explique de qué forma transformaría el dataset para que sea aceptado por XGboost
 2. Indique qué features agregaría además de los que ya existen y por qué considera que podrían ser importantes para predecir el precio del pasaje.
 
-# Respuestas (solo de los choice)
+# Respuestas
 
 ## Ejercicio 1
 
@@ -68,3 +68,7 @@ La red neuronal ya que es la que tiene más capacidad de ver interacciones entre
 ## Ejercicio 4
 
 Ya que el aprendizaje está basado en un gradiente es útil normalizar solo en regresión logística y redes neuronales.
+
+## Ejercicio 5
+
+Tiene múltiples respuestas correctas posibles.

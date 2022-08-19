@@ -89,6 +89,7 @@ Denoto a los eventos:
 * C: salió cara
 * X: salió ceca
 * Y: salieron dos caras y una ceca
+
 Casos posibles = ccc,ccx,cxc,cxx,xxx, xcc,xcx,xxc.
 Casos favorables = ccx,cxc,xcc
 
@@ -99,12 +100,11 @@ $$P(Y) = \frac{3}{8}$$
 Definir los casos posibles y los favorables.
 1. Denoto a los eventos:
   - Casos posibles = 40
-  - Casos favorables = 4
   - Y: "La carta elegida es un ancho"
   - $$P(Y) = \frac{4}{40} = \frac{1}{10}$$
 2. Y: "La carta elegida es de espada"
   - $$P(Y) = \frac{1}{4}$$
-3. Y: "a carta elegida es el 4 de copas"
+3. Y: "La carta elegida es el 4 de copas"
   - $$P(Y) = \frac{1}{40}$$
 
 ## Ejercicio 3
@@ -144,7 +144,7 @@ $$\bar{X} = 3,5$$
 
 Luego la varianza:
 
-<font size="2">$$\sigma^2 = \frac{(1-3,5)^2+(2-3,5)^2+(2-3,5)^2+(4-3,5)^2+(6-3,5)^2+(6-3,5)^2+(5-3,5)^2+(6-3,5)^2+(6-3,5)^2+(3-3,5)^2}{10}$$</font> 
+<font size="2">$$\sigma^2 = \frac{(1-3,5)^2+(2-3,5)^2+(2-3,5)^2+(4-3,5)^2+(6-3,5)^2+(6-3,5)^2+(5-3,5)^2+(6-3,5)^2+(6-3,5)^2+(3-3,5)^2}{10}$$</font>
 
 ## Ejercicio 7
 
