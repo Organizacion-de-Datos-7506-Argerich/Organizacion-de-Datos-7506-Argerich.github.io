@@ -13,7 +13,7 @@ Como parte del desarrollo del TP1 pedimos una visualización original, aquí des
 * Crossfit (Maria Pont)
 <img src="visus/crossfit.png" />
 
-* [Consumo de cerveza en el mundo](https://www.youtube.com/watch?v=7FeheVsOiiQ)
+* [Consumo de cerveza en el mundo (Juan Pablo Fresia)](https://www.youtube.com/watch?v=7FeheVsOiiQ)
 
 * Huella de carbono (Marcelo Rondán)
 <img src="visus/huella_carbono.png" />
