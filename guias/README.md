@@ -10,7 +10,7 @@ Esta sección esta en constante construcción y mejora. Las guías son una forma
 * [Spark](spark.md)
 * [Machine Learning I](ml_I.md)
 * [Métricas](metricas.md)
-* [Árboles](arboles.md)
+* [Árboles y Ensambles](arboles_y_ensambles.md)
 * [Feature Engineering](feature_engineering.md)
 * [NLP II](nlp_II.md)
 * [Reducción de dimensiones](reducciones.md)
