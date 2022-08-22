@@ -1,5 +1,104 @@
 # Guía de Feature Engineering
 
+## Repaso teórico
+
+El feature engineering es el proceso de **creación o transformación de features**.
+
+### One Hot Encoding
+Consiste en **agregar una columna nueva por cada valor posible** que pueda tomar el feature en cuestión. Tenemos un problema cuando el feature puede tomar muchos valores posibles ya que agrega al dataset muchísimas columnas.
+
+Por ejemplo, imaginemos que tenemos el siguiente dataset:
+
+| País	      | Label		|
+| ----------- | ----------- |
+| Argentina   | 1           |
+| Brasil	  | 1           |
+| Argentina   | 0           |
+| NaN	      | 1           |
+| Brasil	  | 1           |
+
+El dataset con la columna 'País' encodeada mediante One Hot Encoding quedaría así:
+
+| Argentina   | Brasil	    | NaN		  | Label	    |
+| ----------- | ----------- | ----------- | ----------- |
+| 1		      | 0		    | 0		      | 1           |
+| 0		      | 1		    | 0		      | 1           |
+| 1		      | 0		    | 0		      | 0           |
+| 0		      | 0		    | 1		      | 1           |
+| 0		      | 1		    | 0		      | 1           |
+
+### Binary Encoding
+Consiste en **asignarle a los valores posibles de una columna un número distinto en binario**. En lugar de tener una sola columna para este valor, **agregamos tantas columnas como bits necesitemos** para representar el valor máximo que puede tomar el feature.
+
+Por ejemplo, imaginemos que tenemos el siguiente dataset:
+
+| País	      | Label		|
+| ----------- | ----------- |
+| Argentina   | 1           |
+| Brasil	  | 1           |
+| Argentina   | 0           |
+| NaN	      | 1           |
+| Brasil	  | 1           |
+
+El dataset con la columna 'País' encodeada mediante Binary Encoding quedaría así:
+
+| bit_2	      | bit_1	    | Label	      |
+| ----------- | ----------- | ----------- |
+| 0		      | 0		    | 1           |
+| 0		      | 1		    | 1           |
+| 0		      | 0		    | 0           |
+| 1		      | 0		    | 1           |
+| 0		      | 1		    | 1           |
+
+### Mean Encoding
+Consiste en **asignarle a los valores posibles de una columna el promedio de los labels de ese valor**. Esto tiene el problema de que se filtra información de los labels en los features del dataset. La ventaja de Mean Encoding es que no importa la cantidad de valores posibles que pueda tomar una columna, siempre la vamos a reemplazar por una única columna nueva.
+
+Por ejemplo, imaginemos que tenemos el siguiente dataset:
+
+| País	      | Label		|
+| ----------- | ----------- |
+| Argentina   | 1           |
+| Brasil	  | 1           |
+| Argentina   | 0           |
+| NaN	      | 1           |
+| Brasil	  | 1           |
+
+El dataset con la columna 'País' encodeada mediante Mean Encoding quedaría así:
+
+| País	      | Label		|
+| ----------- | ----------- |
+| 0.5	      | 1           |
+| 1			  | 1           |
+| 0.5	      | 0           |
+| NaN	      | 1           |
+| 1			  | 1           |
+
+### Label Encoding
+Consiste en **asignarle a los valores posibles de una columna un número entero distinto**. **Se agrega solamente una columna** en la que cada valor categórico es reemplazado por el número que le corresponde.
+
+Por ejemplo, imaginemos que tenemos el siguiente dataset:
+
+| País	      | Label		|
+| ----------- | ----------- |
+| Argentina   | 1           |
+| Brasil	  | 1           |
+| Argentina   | 0           |
+| NaN	      | 1           |
+| Brasil	  | 1           |
+
+El dataset con la columna 'País' encodeada mediante Label Encoding quedaría así:
+
+| País	      | Label		|
+| ----------- | ----------- |
+| 0 	      | 1           |
+| 1			  | 1           |
+| 0 	      | 0           |
+| 2 	      | 1           |
+| 1			  | 1           |
+
+### Usando NLP Para Encodear
+En algunos casos, puede pasar que tengamos una columna categórica pero que tenga mucho texto. Esto podría suceder si se tuviera una columna que fuera la descripción de un producto o una review de un negocio por ejemplo. De esta forma, las técnicas antes mencionadas pierden su utilidad. Es por eso que se pueden utilizar **técnicas de NLP tales como TF-IDF o Bag Of Words (BOW) para encontrar las *n* palabras más importantes y luego crear una columna para cada una de esas palabras**. Entonces, una fila tendrá un 1 si su texto contiene esa palabra, o tendrá un 0 en otro caso.
+
 ## Ejercicio 1
 
 Dado el campo Padrón en un dataset de notas de estudiantes, ¿Cuál de las siguientes es la mejor forma de encodearlo?
