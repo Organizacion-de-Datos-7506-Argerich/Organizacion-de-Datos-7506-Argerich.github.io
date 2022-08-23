@@ -114,7 +114,7 @@ Por otro lado si el AUC-ROC es 0.5, todas tus probabilidades están ordendas de 
 
 AUC-ROC es una métrica complementaria de otras, no es necesariamente la mejor y funciona mal en datasets fuertemente desbalanceados.
 
-Resumiendo solo las 3 primeras opciones son correctas.
+Resumiendo solo las segunda y tercera opción son correctas.
 
 ## Ejercicio 4
 
