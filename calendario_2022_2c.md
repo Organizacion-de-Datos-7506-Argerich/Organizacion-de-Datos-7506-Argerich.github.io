@@ -5,7 +5,7 @@ El calendario se irá llenando a medida avance el cuatrimestre.
 | Día  	| Tema                                                                                  	| Teórica grabada 	|
 |------	|---------------------------------------------------------------------------------------	|-----------------	|
 | 22-8 	| Administrativa, Introducción a Data Science, Introducción a Big Data, Tipos de Datos. 	|[Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYevnuxYBfrvQ32zJJE2--Y4)                 	|
-| 25-8 	| Día del Data Scientist 🎉                                                              	|                 	|
+| 25-8 	| Día del Data Scientist 🎉                                                              	|[Playlist](https://youtube.com/playlist?list=PLeo_qKwGPZYcRxxR-GNmBcLbujTieWpQQ) |
 | 29-8 	| DataFrames. Análisis Exploratorio de Datos, Introducción a Pandas.                    	|                 	|
 | 1-9  	| Visualización de datos                                                                	|                 	|
 | 5-9  	| DataFrames. Análisis Exploratorio de Datos, Pandas Avanzado. El paradigma split-apply-combine. **Enunciado TP1** |                 	|
