@@ -252,7 +252,7 @@ Para la segunda parte, incluír las visualizaciones en el PDF, con el link al no
 Ciertos grupos de colaboradores son un equipo, y como tal, deben contactarlos a todos juntos y no por separado.
 
 * Ignacio Brusati y Juan Pablo Fresia
-* Esteban Djeordijan y Alejo Blanco
+* Esteban Djeordijan y Alejo Caliz Blanco
 * Julieta Ponti y Martín Stefanelli
 * NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo
 * Matias Fusco y Gabriel Semorile
@@ -263,7 +263,7 @@ Ciertos grupos de colaboradores son un equipo, y como tal, deben contactarlos a 
 |---------:|:--------------------------------------|:--------|:---------|:---------|:---------|:---------|:----------|:----------|:----------------------------------------------------|
 |   108762 | ABRAMOVICH, MARTIN                    | P4      | V5       | C2       | N8       | P22      | V7        | V6        | Ignacio Brusati y Juan Pablo Fresia                 |
 |   107742 | ABUIN, AQUILES EZEQUIEL               | N3      | N5       | C3       | P27      | V4       | N10       | V7        | Damian Martinelli                                   |
-|   104438 | BRICCHI, FRANCO                       | V3      | N4       | P14      | C4       | P32      | C8        | V6        | Esteban Djeordijan y Alejo Blanco                   |
+|   104438 | BRICCHI, FRANCO                       | V3      | N4       | P14      | C4       | P32      | C8        | V6        | Esteban Djeordijan y Alejo Caliz Blanco                   |
 |   107143 | CALDERON, GONZALO MANUEL              | C1      | P30      | P25      | N4       | V5       | P35       | C9        | Gianmarco Cafferata                                 |
 |   108981 | CARRANZA, LIHUÉN                      | P8      | C4       | P22      | V4       | N5       | P36       | N10       | Gianmarco Cafferata                                 |
 |   101830 | DE SANTIS, FEDERICO EZEQUIEL          | P5      | P26      | V5       | C4       | N8       | V8        | C8        | Damian Martinelli                                   |
@@ -281,7 +281,7 @@ Ciertos grupos de colaboradores son un equipo, y como tal, deben contactarlos a 
 |   107539 | AGUIRRE ARGERICH, FACUNDO AGUSTÍN     | P10     | N8       | N5       | C3       | V5       | P35       | P33       | Ignacio Brusati y Juan Pablo Fresia                 |
 |   102227 | AGUIRRE BRAUN, JUAN IGNACIO           | V1      | P23      | C4       | N9       | P32      | C7        | C8        | Gianmarco Cafferata                                 |
 |    79558 | ALBORNOZ, ROMINA CARLA                | N1      | C3       | C5       | P16      | V4       | P33       | P37       | Matias Rotondo                                      |
-|   104498 | ALMADA, FRANCO MARTIN                 | P11     | P14      | P25      | C3       | N5       | V7        | C8        | Esteban Djeordijan y Alejo Blanco                   |
+|   104498 | ALMADA, FRANCO MARTIN                 | P11     | P14      | P25      | C3       | N5       | V7        | C8        | Esteban Djeordijan y Alejo Caliz Blanco                   |
 |   108000 | ASCHIERI, JUAN PABLO                  | V2      | P15      | P24      | N4       | C3       | V8        | P35       | Julieta Ponti y Martín Stefanelli                   |
 |   108100 | BENITO, AGUSTÍN                       | P1      | N7       | V4       | C3       | P22      | P34       | V8        | Gianmarco Cafferata                                 |
 |    86088 | BOZUNOVSKY, MARCELO                   | P2      | P31      | P24      | N5       | C2       | V6        | C6        | Gianmarco Cafferata                                 |
@@ -289,8 +289,8 @@ Ciertos grupos de colaboradores son un equipo, y como tal, deben contactarlos a 
 |   106359 | CAMURRI, FEDERICO ALFREDO             | P5      | P26      | N9       | C2       | V5       | P37       | C9        | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
 |   108298 | CHACON SALEMME, IGNACIO ALEJANDRO     | P2      | P27      | P20      | N7       | C5       | V8        | V6        | Gianmarco Cafferata                                 |
 |    99879 | CLAROS CASTRO, ELVIS                  | P5      | P13      | C3       | N9       | V5       | C9        | P37       | Julieta Ponti y Martín Stefanelli                   |
-|   104319 | CUETO QUINTO, ALAN RAMIRO             | P4      | V4       | N4       | C3       | P22      | P37       | C6        | Esteban Djeordijan y Alejo Blanco                   |
-|   106171 | DAVICO, MAURICIO                      | P1      | P32      | P15      | V5       | C3       | N10       | P34       | Esteban Djeordijan y Alejo Blanco                   |
+|   104319 | CUETO QUINTO, ALAN RAMIRO             | P4      | V4       | N4       | C3       | P22      | P37       | C6        | Esteban Djeordijan y Alejo Caliz Blanco                   |
+|   106171 | DAVICO, MAURICIO                      | P1      | P32      | P15      | V5       | C3       | N10       | P34       | Esteban Djeordijan y Alejo Caliz Blanco                   |
 |   100513 | DAY, FRANCISCO JOSE                   | N3      | P25      | P14      | V5       | C3       | C7        | P33       | Matias Rotondo                                      |
 |   107835 | DEMARCHI, IGNACIO                     | P9      | P30      | N8       | V4       | C2       | C9        | P35       | Gianmarco Cafferata                                 |
 |   105122 | DIAZ CALIXTO, LUZ MILAGROS            | P1      | P23      | P32      | N6       | C5       | V8        | V7        | Gianmarco Cafferata                                 |
@@ -304,7 +304,7 @@ Ciertos grupos de colaboradores son un equipo, y como tal, deben contactarlos a 
 |   107587 | GALLINO, PEDRO                        | V3      | P28      | P32      | N4       | C5       | C9        | P34       | Matias Rotondo                                      |
 |   105552 | GENERAL, CAMILA                       | V2      | P24      | P29      | N8       | C5       | C6        | C9        | Gianmarco Cafferata                                 |
 |    96244 | GIANZANTI, GUSTAVO                    | N1      | P12      | P13      | V5       | C3       | P34       | P36       | Lucas Waisten                                       |
-|   101185 | GOIJMAN, LAUTARO ENZO                 | P3      | P30      | P29      | N6       | C5       | V6        | C6        | Esteban Djeordijan y Alejo Blanco                   |
+|   101185 | GOIJMAN, LAUTARO ENZO                 | P3      | P30      | P29      | N6       | C5       | V6        | C6        | Esteban Djeordijan y Alejo Caliz Blanco                   |
 |   107938 | GONZALEZ CALDERON, JULIAN             | P7      | P20      | P28      | C5       | N5       | V6        | P36       | Lucas Waisten                                       |
 |   104503 | GORDYN BIELLO, GONZALO                | V3      | P18      | P14      | N5       | C3       | C7        | P36       | Gianmarco Cafferata                                 |
 |   107404 | HURTADO VARGAS, DANIEL ALEJANDRO      | P9      | N4       | V5       | C5       | P16      | N10       | P34       | Damian Martinelli                                   |
@@ -329,7 +329,7 @@ Ciertos grupos de colaboradores son un equipo, y como tal, deben contactarlos a 
 |   106032 | RIVERO, JOAQUIN                       | P3      | V4       | P12      | N6       | C4       | P36       | C8        | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
 |   106475 | RIZZO EHRENBÖCK, GONZALO DANIEL       | N3      | P14      | P17      | C4       | V4       | P33       | C9        | Damian Martinelli                                   |
 |   108267 | RODRIGUEZ JUSTO, IGNACIO              | P7      | N6       | P25      | V5       | C3       | N10       | P37       | Lucas Waisten                                       |
-|    92198 | SANCHEZ PERALTA, GONZALO              | P11     | P22      | C2       | N6       | V4       | P35       | V7        | Esteban Djeordijan y Alejo Blanco                   |
+|    92198 | SANCHEZ PERALTA, GONZALO              | P11     | P22      | C2       | N6       | V4       | P35       | V7        | Esteban Djeordijan y Alejo Caliz Blanco                   |
 |   105637 | SANTANDER, VALENTIN                   | V1      | C2       | N4       | P22      | P13      | C6        | V8        | Damian Martinelli                                   |
 |   103967 | SCAZZOLA, LARA                        | P4      | V4       | P21      | C5       | N4       | P33       | C7        | Gianmarco Cafferata                                 |
 |   106403 | SCAZZOLA, MARTIN                      | P6      | P18      | P26      | C5       | N8       | V6        | C6        | Damian Martinelli                                   |
@@ -386,7 +386,7 @@ Ciertos grupos de colaboradores son un equipo, y como tal, deben contactarlos a 
 |   106022 | PEREYRA, IGNACIO AGUSTIN              | N2      | P23      | V4       | C4       | P32      | P35       | V7        | Damian Martinelli                                   |
 |    93751 | RAMIREZ, JOSE ISRAEL                  | P1      | P27      | P31      | C2       | N8       | V7        | V6        | Gianmarco Cafferata                                 |
 |   105167 | REGAZZOLI, IGNACIO                    | N1      | P29      | P27      | C4       | V4       | C7        | N10       | Julieta Ponti y Martín Stefanelli                   |
-|   106581 | RETTORI, JULIAN RAFAEL                | P10     | P17      | P23      | N6       | C3       | V8        | C9        | Esteban Djeordijan y Alejo Blanco                   |
+|   106581 | RETTORI, JULIAN RAFAEL                | P10     | P17      | P23      | N6       | C3       | V8        | C9        | Esteban Djeordijan y Alejo Caliz Blanco                   |
 |   104677 | RIAL, TADEO EZEQUIEL                  | N2      | P15      | N8       | C3       | V4       | C9        | P36       | Matias Fusco y Gabriel Semorile                     |
 |    92299 | RODRIGUEZ, GRACIELA MARIA LAURA       | P9      | P20      | N8       | V5       | C3       | C9        | N10       | Gianmarco Cafferata                                 |
 |   105318 | RODRIGUEZ, TOMAS GUSTAVO              | P8      | N9       | P24      | C2       | V5       | P35       | V7        | Gianmarco Cafferata                                 |
