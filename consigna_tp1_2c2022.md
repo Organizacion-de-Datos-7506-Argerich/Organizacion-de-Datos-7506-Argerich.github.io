@@ -241,7 +241,7 @@ Valoramos que se ayuden entre ustedes, debatan y compartan ideas y tips en el ca
 
 ## Formato de Entrega
 
-La entrega es en Gradescope en formato PDF.
+La entrega es en Gradescope en formato PDF, pueden ver como es el formato de entrega [acá](https://docs.google.com/document/d/1me1ua4FMUtySkQOoN77QVI-4YCN--fn6KZkLmS7InaM/edit?usp=sharing).
 
 En el PDF deben indicar cada uno de los puntos de la primer parte que les tocó, colocando el enunciado de la consulta a resolver y el link al notebook donde está resuelta.
 
