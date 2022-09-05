@@ -209,6 +209,10 @@ El criterio general es que la totalidad del tp tiene que sumar 15 puntos de los 
 
 Cada une va a tener algún ayudante asignado, pueden hacer consultas por slack a su ayudante o en el canal.
 
+### Criterio de reentrega
+
+Se podrá reentregar el TP si el puntaje es >=10 y están **todos los puntos desarrollados**. En caso de luego aprobar la instancia de reentrega, la nota es siempre 4. La reentrega consiste en hacer un punto extra y corregir todos los puntos donde tuvieran la mitad de los puntos o menos.
+
 ### Primera parte - Pandas
 
 Todos los ejercicios valen lo mismo que los <img src="imgs/1c2022/luisito.jpg" /> que tienen asignados.
