@@ -337,11 +337,11 @@ Ciertos grupos de colaboradores son un equipo, y como tal, deben contactarlos a 
 |    99131 | SECCHI, ANA MARIA                     | P5      | N7       | P15      | C5       | V5       | C8        | V6        | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
 |    93735 | SOSA AQUINO, RICARDO ARIEL            | P10     | P14      | C4       | N5       | V4       | N10       | C6        | Matias Fusco y Gabriel Semorile                     |
 |   104239 | SPRENGER, ROBERTA                     | N3      | P24      | P20      | V5       | C3       | C8        | P33       | Damian Martinelli                                   |
-|   107820 | TONIZZO, NICOLAS                      | P2      | P31      | P13      | C3       | N6       | V8        | V7        | Julieta Ponti y Martín Stefanelli                   |
+|   107820 | TONIZZO, NICOLAS                      | P2      | P31      | P13      | C3       | N6       | V8        | V7        | Gianmarco Cafferata                                 |
 |   107870 | UGARTE, RICARDO MARTIN                | P11     | P28      | P31      | C5       | N5       | V8        | C8        | Gianmarco Cafferata                                 |
 |   105980 | VELAZQUEZ, JOAQUIN MATIAS             | V1      | N4       | C5       | P13      | P32      | C8        | C6        | Damian Martinelli                                   |
 |   105829 | AGAMA AVILA, ANNALI ARELY             | P9      | C2       | C4       | V5       | N5       | V7        | P36       | Gianmarco Cafferata                                 |
-|   100685 | AGUILAR BUGEAU, PEDRO JOSE            | P1      | C2       | C5       | N5       | V4       | P36       | V8        | Gianmarco Cafferata                                 |
+|   100685 | AGUILAR BUGEAU, PEDRO JOSE            | P1      | C2       | C5       | N5       | V4       | P36       | V8        | Julieta Ponti y Martín Stefanelli                   |
 |   106892 | AMBOAGE, JUAN PATRICIO                | C1      | C4       | P23      | V4       | N6       | P37       | P34       | Gianmarco Cafferata                                 |
 |    96283 | APARICIO ROTERMUND, AXEL              | P6      | N9       | V5       | C3       | P32      | N10       | C8        | Ignacio Brusati y Juan Pablo Fresia                 |
 |   105190 | BARRETO, SEVERINO                     | P4      | C5       | P32      | N8       | V4       | C9        | N10       | Damian Martinelli                                   |
