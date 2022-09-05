@@ -185,6 +185,13 @@ Tienen asignados **1 ejercicio que vale un** <img src="imgs/1c2022/luisito.jpg" 
 
 Debe elegir tres de los siguientes datasets:
 
+* [Notificación de casos de HIV](https://datos.gob.ar/dataset/salud-notificacion-casos-vih) explicando la cantidad de casos
+* [Top 200 spotify](https://www.kaggle.com/datasets/edumucelli/spotifys-worldwide-daily-song-ranking) explicando la variable position.
+* [Liga argentina de futbol](https://www.kaggle.com/datasets/estebanmarcelloni/liga-argentina-futbol?resource=download) explicando quien gano, empato o perdió partidos y cuantos.
+* [Transacciones SUBE 2022](https://www.datos.gob.ar/dataset/transporte-sube---cantidad-transacciones-usos-por-fecha/archivo/transporte_93410ab1-88df-457a-8e24-262d41211f9c) explicando la columna cantidad
+* [Google Play Store Apps](https://www.kaggle.com/datasets/lava18/google-play-store-apps?select=googleplaystore.csv) explicando el rating.
+* [Alcohol Consumption](https://www.kaggle.com/datasets/sansuthi/alcohol-consumption) explicando la variable alcconsumption
+
 2) (<img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />) Utilice alguna herramienta para realizar diagramas (por ejemplo Google Draw, draw.io, Google Slides, HTML, Illustrator, Photoshop, alguna lib de Python novedosa, etc.) para crear una visualización **ORIGINAL** que no pueda realizarse de forma directa con las librerías más comunes de Python, puede utilizar las librerías de Python como paso intermedio. Puede realizar este punto sobre los datos de: cualquier dataset, estadística oficial, paper, estadística no oficial, encuesta, números sin ninguna fuente en un blog, etc. El objetivo es elegir un tema de su interés y comunicarlo de forma efectiva y agradable.
 
 ## Puntos extra (hasta tres <img src="imgs/1c2022/luisito64.jpg" />)
