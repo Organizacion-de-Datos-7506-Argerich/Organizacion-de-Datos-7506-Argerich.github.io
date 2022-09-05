@@ -251,7 +251,7 @@ Ciertos grupos de colaboradores son un equipo, y como tal, deben contactarlos a 
 
 <img src="https://i.gifer.com/GAf7.gif" />
 
-|   Padron | Nombre                                | 1 - ☆   | 2 - ☆☆   | 3 - ☆☆   | 4 - ☆☆   | 5 - ☆☆   | 6 - ☆☆☆   | 7 - ☆☆☆   | Ayudante asignado                                   |
+|   Padron | Nombre                                | 1 - <img src="imgs/1c2022/luisito.jpg" />   | 2 - <img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />   | 3 - <img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />   | 4 - <img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />   | 5 - <img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />   | 6 - <img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />   | 7 - <img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />   | Ayudante asignado                                   |
 |---------:|:--------------------------------------|:--------|:---------|:---------|:---------|:---------|:----------|:----------|:----------------------------------------------------|
 |   108762 | ABRAMOVICH, MARTIN                    | P4      | V5       | C2       | N8       | P22      | V7        | V6        | Ignacio Brusati y Juan Pablo Fresia                 |
 |   107742 | ABUIN, AQUILES EZEQUIEL               | N3      | N5       | C3       | P27      | V4       | N10       | V7        | Damian Martinelli                                   |
