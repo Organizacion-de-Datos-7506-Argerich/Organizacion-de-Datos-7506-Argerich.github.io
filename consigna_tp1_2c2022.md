@@ -211,7 +211,9 @@ Cada une va a tener algún ayudante asignado, pueden hacer consultas por slack a
 
 ### Criterio de reentrega
 
-Se podrá reentregar el TP si el puntaje es >=10 y están **todos los puntos desarrollados**. En caso de luego aprobar la instancia de reentrega, la nota es siempre 4. La reentrega consiste en hacer un punto extra y corregir todos los puntos donde tuvieran la mitad de los puntos o menos.
+Se podrá reentregar el TP si el puntaje es >=10 y están **todos los puntos desarrollados**.  La reentrega consiste en hacer un punto extra y corregir todos los puntos donde tuvieran menos de la mitad de los puntos.
+
+Se aprueba la reentrega si todos los puntos tienen al menos la mitad de los puntos. En caso de luego aprobar la instancia de reentrega, la nota es siempre 4.
 
 ### Primera parte - Pandas
 
@@ -358,7 +360,7 @@ Ciertos grupos de colaboradores son un equipo, y como tal, deben contactarlos a 
 |   106691 | CAMPILLAY, EDGAR MATIAS               | P3      | N6       | P14      | V4       | C2       | P36       | V7        | Gianmarco Cafferata                                 |
 |   107666 | CELANO MINIG, NICOLAS FRANCO          | N1      | C3       | P16      | V5       | P13      | P36       | V7        | Matias Fusco y Gabriel Semorile                     |
 |   105907 | CHEN, NICOLAS                         | V3      | P16      | P26      | N8       | C2       | C7        | P34       | Gianmarco Cafferata                                 |
-|   102868 | CONTE GRAND, JOAQUIN                  | P3      | C3       | P30      | N4       | V4       | P37       | C6        | Damian Martinelli                                   |
+|   102868 | CONTE GRAND, JOAQUIN                  | P3      | C3       | P30      | N4       | V4       | P37       | C6        | Julieta Ponti y Martín Stefanelli                   |
 |   102104 | COSTA, LUCIANO                        | P2      | N5       | P25      | V4       | C5       | V8        | C7        | Gianmarco Cafferata                                 |
 |   107963 | CUEVAS, JUAN FRANCISCO                | V1      | P21      | C5       | N8       | P16      | C7        | N10       | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
 |   104098 | CUPPARI, FRANCO                       | V2      | P17      | P13      | N5       | C3       | C8        | P33       | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
@@ -389,7 +391,7 @@ Ciertos grupos de colaboradores son un equipo, y como tal, deben contactarlos a 
 |   101947 | PERALTA, FEDERICO MANUEL              | P4      | N6       | P19      | C2       | V4       | P33       | C9        | Gianmarco Cafferata                                 |
 |   106022 | PEREYRA, IGNACIO AGUSTIN              | N2      | P23      | V4       | C4       | P32      | P35       | V7        | Damian Martinelli                                   |
 |    93751 | RAMIREZ, JOSE ISRAEL                  | P1      | P27      | P31      | C2       | N8       | V7        | V6        | Gianmarco Cafferata                                 |
-|   105167 | REGAZZOLI, IGNACIO                    | N1      | P29      | P27      | C4       | V4       | C7        | N10       | Julieta Ponti y Martín Stefanelli                   |
+|   105167 | REGAZZOLI, IGNACIO                    | N1      | P29      | P27      | C4       | V4       | C7        | N10       | Damian Martinelli                                   |
 |   106581 | RETTORI, JULIAN RAFAEL                | P10     | P17      | P23      | N6       | C3       | V8        | C9        | Esteban Djeordijan y Alejo Caliz Blanco                   |
 |   104677 | RIAL, TADEO EZEQUIEL                  | N2      | P15      | N8       | C3       | V4       | C9        | P36       | Matias Fusco y Gabriel Semorile                     |
 |    92299 | RODRIGUEZ, GRACIELA MARIA LAURA       | P9      | P20      | N8       | V5       | C3       | C9        | N10       | Gianmarco Cafferata                                 |
