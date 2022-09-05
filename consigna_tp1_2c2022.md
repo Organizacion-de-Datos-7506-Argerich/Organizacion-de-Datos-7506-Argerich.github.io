@@ -213,7 +213,7 @@ Todos los ejercicios valen lo mismo que los <img src="imgs/1c2022/luisito.jpg" /
 * La idea es que no lo hagan solos! Las consignas son complejas de entender en una sola lectura y necesitan pensarse lento, por esto es que es crucial consultar. Para esto hacemos lo siguiente según el tipo de duda:
   * Dudas de consigna:
     * Van a poder consultar en el canal de slack #consultas-tp1, es MUY importante que antes de consultar vean si su duda no fue resuelta allí.
-    * En caso de no haber sido resuelta previamente para organizarnos sigan el siguiente formato: "**codigo de consigna** - Su consulta...". De esta forma es más facil para todos buscar consultas del pasado, por ejemplo: "C7 - No entiendo como calcular el largo en bytes que ocuparía con un árbol de Huffman.". **NO** se debe incluir código de resolución ni en la consulta ni interactuando con otres compañeres.
+    * En caso de no haber sido resuelta previamente para organizarnos sigan el siguiente formato: "**codigo de consigna** - Su consulta...". De esta forma es más facil para todos buscar consultas del pasado, por ejemplo: "C6 - No entiendo como calcular el largo en bytes que ocuparía con un árbol de Huffman.". **NO** se debe incluir código de resolución ni en la consulta ni interactuando con otres compañeres.
   * Dudas para saber si se puede usar alguna librería:
     * Se hacen en el mismo formato que las dudas de consigna.
   * Dudas de código y optimización:
@@ -242,6 +242,150 @@ Para la segunda parte, incluír las visualizaciones en el PDF, con el link al no
 
 ## Asignaciones
 
-El equipo NIL (Nahuel Spiguelman, Ignacio Argel y Lucas Bilo) se fusiono en uno y van a responder consultas todos juntos, por lo que por favor si les tocaron escribanles a los 3 juntos.
+Ciertos grupos de colaboradores son un equipo, y como tal, deben contactarlos a todos juntos y no por separado.
+
+* Ignacio Brusati y Juan Pablo Fresia
+* Esteban Djeordijan y Alejo Blanco
+* Julieta Ponti y Martín Stefanelli
+* NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo
 
 <img src="https://i.gifer.com/GAf7.gif" />
+
+|   Padron | Nombre                                | 1 - ☆   | 2 - ☆☆   | 3 - ☆☆   | 4 - ☆☆   | 5 - ☆☆   | 6 - ☆☆☆   | 7 - ☆☆☆   | Ayudante asignado                                   |
+|---------:|:--------------------------------------|:--------|:---------|:---------|:---------|:---------|:----------|:----------|:----------------------------------------------------|
+|   108762 | ABRAMOVICH, MARTIN                    | P4      | V5       | C2       | N8       | P22      | V7        | V6        | Ignacio Brusati y Juan Pablo Fresia                 |
+|   107742 | ABUIN, AQUILES EZEQUIEL               | N3      | N5       | C3       | P27      | V4       | N10       | V7        | Damian Martinelli                                   |
+|   104438 | BRICCHI, FRANCO                       | V3      | N4       | P14      | C4       | P32      | C8        | V6        | Esteban Djeordijan y Alejo Blanco                   |
+|   107143 | CALDERON, GONZALO MANUEL              | C1      | P30      | P25      | N4       | V5       | P35       | C9        | Gianmarco Cafferata                                 |
+|   108981 | CARRANZA, LIHUÉN                      | P8      | C4       | P22      | V4       | N5       | P36       | N10       | Gianmarco Cafferata                                 |
+|   101830 | DE SANTIS, FEDERICO EZEQUIEL          | P5      | P26      | V5       | C4       | N8       | V8        | C8        | Damian Martinelli                                   |
+|   103992 | ESPERON, RAMIRO                       | N3      | P15      | P29      | C2       | V5       | P34       | V7        | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
+|   103448 | GARCIA, NICOLAS ARIEL                 | P7      | P32      | C2       | N6       | V5       | P37       | P35       | Damian Martinelli                                   |
+|    85682 | JURGENS, CECILIA INES                 | P1      | P18      | P17      | N8       | C5       | V6        | N10       | Gianmarco Cafferata                                 |
+|    99839 | LESCANO MAIER, ALDANA ROCIO           | P6      | P29      | N5       | V4       | C3       | P34       | N10       | Matias Fusco y Gabriel Semorile                     |
+|   107164 | MORANDI, FABRIZZIO LEONARDO           | P8      | C2       | P27      | N9       | V5       | P33       | P34       | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
+|   106226 | PATA FRAILE DE MANTEROLA, MARTIN      | N2      | P23      | N7       | C2       | V5       | V6        | N10       | Matias Rotondo                                      |
+|   108891 | PELLEGRINI, ANTONELLA JAZMÍ­N         | C1      | P29      | P30      | V5       | N5       | C8        | P35       | Damian Martinelli                                   |
+|   103439 | SAGMAN, EMANUEL NICOLAS               | P10     | P16      | N4       | C5       | V5       | N10       | P37       | Damian Martinelli                                   |
+|    97023 | YBARRA ESCALANTE, DIEGO EMANUEL       | P7      | P29      | N9       | C3       | V5       | N10       | P37       | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
+|   108201 | ADELSFLÜGEL, VALENTINA                | P3      | P22      | P30      | C2       | N8       | V7        | P37       | Gianmarco Cafferata                                 |
+|   106870 | ADRIS, MARIO SANTIAGO                 | P2      | P17      | P26      | N4       | C4       | V7        | C8        | Gianmarco Cafferata                                 |
+|   107539 | AGUIRRE ARGERICH, FACUNDO AGUSTÍN     | P10     | N8       | N5       | C3       | V5       | P35       | P33       | Ignacio Brusati y Juan Pablo Fresia                 |
+|   102227 | AGUIRRE BRAUN, JUAN IGNACIO           | V1      | P23      | C4       | N9       | P32      | C7        | C8        | Gianmarco Cafferata                                 |
+|    79558 | ALBORNOZ, ROMINA CARLA                | N1      | C3       | C5       | P16      | V4       | P33       | P37       | Matias Rotondo                                      |
+|   104498 | ALMADA, FRANCO MARTIN                 | P11     | P14      | P25      | C3       | N5       | V7        | C8        | Esteban Djeordijan y Alejo Blanco                   |
+|   108000 | ASCHIERI, JUAN PABLO                  | V2      | P15      | P24      | N4       | C3       | V8        | P35       | Julieta Ponti y Martín Stefanelli                   |
+|   108100 | BENITO, AGUSTÍN                       | P1      | N7       | V4       | C3       | P22      | P34       | V8        | Gianmarco Cafferata                                 |
+|    86088 | BOZUNOVSKY, MARCELO                   | P2      | P31      | P24      | N5       | C2       | V6        | C6        | Gianmarco Cafferata                                 |
+|    97640 | BRONDO, FACUNDO LUCIO                 | P6      | C5       | P13      | N8       | V5       | P33       | P35       | Gianmarco Cafferata                                 |
+|   106359 | CAMURRI, FEDERICO ALFREDO             | P5      | P26      | N9       | C2       | V5       | P37       | C9        | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
+|   108298 | CHACON SALEMME, IGNACIO ALEJANDRO     | P2      | P27      | P20      | N7       | C5       | V8        | V6        | Gianmarco Cafferata                                 |
+|    99879 | CLAROS CASTRO, ELVIS                  | P5      | P13      | C3       | N9       | V5       | C9        | P37       | Julieta Ponti y Martín Stefanelli                   |
+|   104319 | CUETO QUINTO, ALAN RAMIRO             | P4      | V4       | N4       | C3       | P22      | P37       | C6        | Esteban Djeordijan y Alejo Blanco                   |
+|   106171 | DAVICO, MAURICIO                      | P1      | P32      | P15      | V5       | C3       | N10       | P34       | Esteban Djeordijan y Alejo Blanco                   |
+|   100513 | DAY, FRANCISCO JOSE                   | N3      | P25      | P14      | V5       | C3       | C7        | P33       | Matias Rotondo                                      |
+|   107835 | DEMARCHI, IGNACIO                     | P9      | P30      | N8       | V4       | C2       | C9        | P35       | Gianmarco Cafferata                                 |
+|   105122 | DIAZ CALIXTO, LUZ MILAGROS            | P1      | P23      | P32      | N6       | C5       | V8        | V7        | Gianmarco Cafferata                                 |
+|   104581 | DUZAC, JUAN MARTIN                    | N3      | P18      | C3       | V5       | P16      | C6        | C9        | Gianmarco Cafferata                                 |
+|   108026 | EMANUEL, TOMAS IGNACIO                | P6      | P25      | P31      | C2       | N5       | V6        | P37       | Gianmarco Cafferata                                 |
+|   105989 | ERLICH, IVAN                          | P2      | C3       | P28      | N8       | V4       | V7        | P35       | Julieta Ponti y Martín Stefanelli                   |
+|   106160 | FABREGAS, ALEJO VALENTIN              | P3      | C5       | V4       | N9       | P22      | P33       | P36       | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
+|    97897 | FERRERO, MANUEL                       | P6      | P24      | N5       | C5       | V4       | C7        | V7        | Damian Martinelli                                   |
+|   108571 | FRANCAVILLA, CANDELA SOFIA            | P11     | P24      | N5       | V5       | C2       | V8        | P34       | Gianmarco Cafferata                                 |
+|   107718 | FRENKEL, GASTON MARIANO               | P4      | N6       | V4       | C5       | P16      | C8        | P35       | Matias Fusco y Gabriel Semorile                     |
+|   107587 | GALLINO, PEDRO                        | V3      | P28      | P32      | N4       | C5       | C9        | P34       | Matias Rotondo                                      |
+|   105552 | GENERAL, CAMILA                       | V2      | P24      | P29      | N8       | C5       | C6        | C9        | Gianmarco Cafferata                                 |
+|    96244 | GIANZANTI, GUSTAVO                    | N1      | P12      | P13      | V5       | C3       | P34       | P36       | Lucas Waisten                                       |
+|   101185 | GOIJMAN, LAUTARO ENZO                 | P3      | P30      | P29      | N6       | C5       | V6        | C6        | Esteban Djeordijan y Alejo Blanco                   |
+|   107938 | GONZALEZ CALDERON, JULIAN             | P7      | P20      | P28      | C5       | N5       | V6        | P36       | Lucas Waisten                                       |
+|   104503 | GORDYN BIELLO, GONZALO                | V3      | P18      | P14      | N5       | C3       | C7        | P36       | Gianmarco Cafferata                                 |
+|   107404 | HURTADO VARGAS, DANIEL ALEJANDRO      | P9      | N4       | V5       | C5       | P16      | N10       | P34       | Damian Martinelli                                   |
+|   107854 | HUTTIN, FACUNDO TOMÁS                 | V2      | V5       | P31      | C5       | N8       | N10       | P34       | Gianmarco Cafferata                                 |
+|   107188 | KIM, DANIEL TOMAS                     | N2      | P26      | P23      | C2       | V5       | C9        | P37       | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
+|   107825 | LIN, CRISTIAN MARTIN                  | P6      | P19      | P15      | N5       | C3       | V7        | P33       | Damian Martinelli                                   |
+|    99252 | LOPEZ SAUBIDET, JOAQUIN               | V2      | V4       | N6       | P16      | C3       | C9        | C7        | Gianmarco Cafferata                                 |
+|   105974 | MACKE, FRANCO                         | P10     | P27      | N8       | C5       | V4       | C6        | C7        | Gianmarco Cafferata                                 |
+|   105645 | MARIÑO, ALEJO TOMÁS                   | P7      | P21      | P19      | V5       | N5       | C6        | P37       | Gianmarco Cafferata                                 |
+|   108294 | MAURO, CAROLINA LUCIA                 | V2      | N5       | P19      | C3       | P22      | P37       | V6        | Damian Martinelli                                   |
+|   101769 | MEDELA, MARIANO TOMAS                 | P11     | P25      | N6       | C4       | V4       | C9        | P36       | Gianmarco Cafferata                                 |
+|   103878 | MEDONE SABATINI, JUAN IGNACIO         | V2      | P19      | P12      | N8       | C3       | C6        | V8        | Damian Martinelli                                   |
+|   108485 | MENDAÑA, JOAQUÍN                      | P11     | P27      | P22      | N5       | C2       | V7        | V8        | Damian Martinelli                                   |
+|   107690 | OJEDA, DANIELA                        | N1      | N8       | P17      | V4       | C5       | C7        | P33       | Damian Martinelli                                   |
+|   103851 | PANACCIO, GUIDO DANIEL                | P8      | P12      | C3       | N7       | V5       | P34       | C6        | Gianmarco Cafferata                                 |
+|   107456 | PLATINI, ROCÍO BELÉN                  | P5      | P25      | N7       | C4       | V4       | P33       | C7        | Lucas Waisten                                       |
+|   108448 | POL, JUAN MANUEL                      | P8      | P16      | N4       | C5       | V4       | N10       | P35       | Gianmarco Cafferata                                 |
+|    91076 | PORRAS CARHUAMACA, SHERLY KATERIN     | N1      | N8       | P20      | V5       | C3       | P35       | V8        | Gianmarco Cafferata                                 |
+|   108405 | PORRO, JOAQUIN                        | P9      | P14      | P23      | N9       | C3       | V6        | C7        | Gianmarco Cafferata                                 |
+|    91561 | PRIETO, PABLO ALEJANDRO               | P7      | P32      | P27      | C2       | N5       | V7        | P33       | Gianmarco Cafferata                                 |
+|   105025 | RE, ADRIAN LEANDRO                    | C1      | P28      | P16      | V4       | N5       | C8        | P36       | Damian Martinelli                                   |
+|   106032 | RIVERO, JOAQUIN                       | P3      | V4       | P12      | N6       | C4       | P36       | C8        | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
+|   106475 | RIZZO EHRENBÖCK, GONZALO DANIEL       | N3      | P14      | P17      | C4       | V4       | P33       | C9        | Damian Martinelli                                   |
+|   108267 | RODRIGUEZ JUSTO, IGNACIO              | P7      | N6       | P25      | V5       | C3       | N10       | P37       | Lucas Waisten                                       |
+|    92198 | SANCHEZ PERALTA, GONZALO              | P11     | P22      | C2       | N6       | V4       | P35       | V7        | Esteban Djeordijan y Alejo Blanco                   |
+|   105637 | SANTANDER, VALENTIN                   | V1      | C2       | N4       | P22      | P13      | C6        | V8        | Damian Martinelli                                   |
+|   103967 | SCAZZOLA, LARA                        | P4      | V4       | P21      | C5       | N4       | P33       | C7        | Gianmarco Cafferata                                 |
+|   106403 | SCAZZOLA, MARTIN                      | P6      | P18      | P26      | C5       | N8       | V6        | C6        | Damian Martinelli                                   |
+|   102110 | SCHEJTMAN, EZEQUIEL                   | N2      | P21      | V5       | C2       | P22      | P37       | C9        | Gianmarco Cafferata                                 |
+|   107964 | SCHNEIDER, VALENTIN                   | N2      | P13      | P20      | V4       | C5       | P34       | C9        | Matias Fusco y Gabriel Semorile                     |
+|    99131 | SECCHI, ANA MARIA                     | P5      | N7       | P15      | C5       | V5       | C8        | V6        | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
+|    93735 | SOSA AQUINO, RICARDO ARIEL            | P10     | P14      | C4       | N5       | V4       | N10       | C6        | Matias Fusco y Gabriel Semorile                     |
+|   104239 | SPRENGER, ROBERTA                     | N3      | P24      | P20      | V5       | C3       | C8        | P33       | Damian Martinelli                                   |
+|   107820 | TONIZZO, NICOLAS                      | P2      | P31      | P13      | C3       | N6       | V8        | V7        | Julieta Ponti y Martín Stefanelli                   |
+|   107870 | UGARTE, RICARDO MARTIN                | P11     | P28      | P31      | C5       | N5       | V8        | C8        | Gianmarco Cafferata                                 |
+|   105980 | VELAZQUEZ, JOAQUIN MATIAS             | V1      | N4       | C5       | P13      | P32      | C8        | C6        | Damian Martinelli                                   |
+|   105829 | AGAMA AVILA, ANNALI ARELY             | P9      | C2       | C4       | V5       | N5       | V7        | P36       | Gianmarco Cafferata                                 |
+|   100685 | AGUILAR BUGEAU, PEDRO JOSE            | P1      | C2       | C5       | N5       | V4       | P36       | V8        | Gianmarco Cafferata                                 |
+|   106892 | AMBOAGE, JUAN PATRICIO                | C1      | C4       | P23      | V4       | N6       | P37       | P34       | Gianmarco Cafferata                                 |
+|    96283 | APARICIO ROTERMUND, AXEL              | P6      | N9       | V5       | C3       | P32      | N10       | C8        | Ignacio Brusati y Juan Pablo Fresia                 |
+|   105190 | BARRETO, SEVERINO                     | P4      | C5       | P32      | N8       | V4       | C9        | N10       | Damian Martinelli                                   |
+|   108225 | BERENGUEL IBARRA, RAFAEL FRANCISCO    | N1      | P19      | P17      | C3       | V5       | P34       | P33       | Damian Martinelli                                   |
+|    97538 | BORDON VILLAVICENCIO, FERNANDO NAHUEL | N1      | N4       | P21      | C4       | V5       | V6        | V8        | Gianmarco Cafferata                                 |
+|   107490 | BOSELLI, BAUTISTA                     | V3      | P12      | P15      | N5       | C3       | C7        | C8        | Gianmarco Cafferata                                 |
+|   105620 | BOUCHARD, JOSUE ALEJANDRO             | P1      | P30      | P21      | N5       | C2       | V7        | C8        | Damian Martinelli                                   |
+|    97190 | BRAGANTINI, FRANCO JULIAN             | V1      | P20      | P28      | C4       | N8       | P36       | N10       | Matias Rotondo                                      |
+|   106691 | CAMPILLAY, EDGAR MATIAS               | P3      | N6       | P14      | V4       | C2       | P36       | V7        | Gianmarco Cafferata                                 |
+|   107666 | CELANO MINIG, NICOLAS FRANCO          | N1      | C3       | P16      | V5       | P13      | P36       | V7        | Matias Fusco y Gabriel Semorile                     |
+|   105907 | CHEN, NICOLAS                         | V3      | P16      | P26      | N8       | C2       | C7        | P34       | Gianmarco Cafferata                                 |
+|   102868 | CONTE GRAND, JOAQUIN                  | P3      | C3       | P30      | N4       | V4       | P37       | C6        | Damian Martinelli                                   |
+|   102104 | COSTA, LUCIANO                        | P2      | N5       | P25      | V4       | C5       | V8        | C7        | Gianmarco Cafferata                                 |
+|   107963 | CUEVAS, JUAN FRANCISCO                | V1      | P21      | C5       | N8       | P16      | C7        | N10       | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
+|   104098 | CUPPARI, FRANCO                       | V2      | P17      | P13      | N5       | C3       | C8        | P33       | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
+|    75558 | DEL BARCO, ESTELA MARIS               | V3      | P13      | P16      | N5       | C2       | P36       | P34       | Damian Martinelli                                   |
+|   106368 | DELLA VECCHIA, TOMAS                  | V3      | P12      | C4       | N8       | N5       | P34       | N10       | Gianmarco Cafferata                                 |
+|   106308 | DUCA, FRANCISCO                       | P10     | P13      | P18      | N9       | C2       | V6        | V8        | Gianmarco Cafferata                                 |
+|   106295 | ENCINOZA VILELA, NATHALIA LUCIA       | P9      | C5       | N6       | V4       | P13      | C9        | P35       | Gianmarco Cafferata                                 |
+|   103740 | FABREGAS, CAMILO EZEQUIEL             | P5      | P20      | C3       | V4       | N6       | P36       | C7        | Gianmarco Cafferata                                 |
+|    97261 | FARFAN LENCINA, NICOLAS RAFAEL        | P11     | P32      | P30      | N7       | C2       | V8        | C7        | Damian Martinelli                                   |
+|    81006 | FERNANDEZ, OMAR ALFREDO               | P2      | P22      | P30      | N5       | C5       | V7        | V6        | Damian Martinelli                                   |
+|    87039 | FLORES SOSA, ZORAIDA YURICO           | P8      | P28      | C2       | N8       | V5       | P37       | V6        | Gianmarco Cafferata                                 |
+|   104354 | GALIAN, TOMAS EZEQUIEL                | N2      | N7       | P26      | C2       | V4       | P37       | N10       | Gianmarco Cafferata                                 |
+|    97490 | GALLO, ROCIO MARIANA                  | P3      | P21      | N6       | C4       | V4       | P33       | P35       | Damian Martinelli                                   |
+|   105043 | GARCIA PIZALES, IGNACIO               | P8      | N7       | P21      | C5       | V4       | C7        | P36       | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
+|   100225 | GODOY, NAHUEL JOSUE                   | P2      | P17      | P16      | N4       | C4       | V7        | P33       | Ignacio Brusati y Juan Pablo Fresia                 |
+|    91387 | GONZALEZ, FELIPE NAHUEL               | V3      | V5       | P27      | N4       | C3       | C8        | C6        | Gianmarco Cafferata                                 |
+|   102988 | GOYZUETA, ALAN CRISTIAN               | C1      | N5       | N9       | P32      | V5       | P36       | C7        | Gianmarco Cafferata                                 |
+|   104623 | GRAZIOSI, GERMAN                      | P11     | P16      | P12      | N4       | C4       | V6        | V8        | Damian Martinelli                                   |
+|   104084 | GRZEGORCZYK, IVAN                     | P7      | P22      | C5       | N9       | V4       | P33       | C8        | Gianmarco Cafferata                                 |
+|   107862 | JORGE RESENDE, THEO FRANCISCO         | P8      | P18      | P32      | C3       | N5       | V8        | V6        | Ignacio Brusati y Juan Pablo Fresia                 |
+|   106203 | KISINOVSKY, DIEGO ANDRES              | P10     | P26      | P19      | N5       | C2       | V8        | P34       | Damian Martinelli                                   |
+|   100589 | LEGUIZAMON, VERONICA BEATRIZ          | V1      | P19      | N7       | C2       | P16      | C9        | P36       | Gianmarco Cafferata                                 |
+|   105993 | LEVI, DOLORES                         | P4      | N9       | P18      | C3       | V5       | P33       | C8        | Gianmarco Cafferata                                 |
+|   105876 | MINELDIN, RAMIRO                      | N3      | C4       | P22      | V5       | P32      | C6        | C9        | Gianmarco Cafferata                                 |
+|   104881 | OLANO SOLEY, NICOLÁS GUILLERMO        | P1      | V5       | P29      | N8       | C5       | P34       | P37       | Gianmarco Cafferata                                 |
+|   108215 | PANDOLFI, JOAQUIN                     | P5      | P22      | P16      | C4       | N8       | V6        | P37       | Ignacio Brusati y Juan Pablo Fresia                 |
+|    73921 | PEPE, CAROLINA ANDREA                 | N2      | P32      | P22      | C3       | V4       | C6        | P35       | Gianmarco Cafferata                                 |
+|   101947 | PERALTA, FEDERICO MANUEL              | P4      | N6       | P19      | C2       | V4       | P33       | C9        | Gianmarco Cafferata                                 |
+|   106022 | PEREYRA, IGNACIO AGUSTIN              | N2      | P23      | V4       | C4       | P32      | P35       | V7        | Damian Martinelli                                   |
+|    93751 | RAMIREZ, JOSE ISRAEL                  | P1      | P27      | P31      | C2       | N8       | V7        | V6        | Gianmarco Cafferata                                 |
+|   105167 | REGAZZOLI, IGNACIO                    | N1      | P29      | P27      | C4       | V4       | C7        | N10       | Julieta Ponti y Martín Stefanelli                   |
+|   106581 | RETTORI, JULIAN RAFAEL                | P10     | P17      | P23      | N6       | C3       | V8        | C9        | Esteban Djeordijan y Alejo Blanco                   |
+|   104677 | RIAL, TADEO EZEQUIEL                  | N2      | P15      | N8       | C3       | V4       | C9        | P36       | Matias Fusco y Gabriel Semorile                     |
+|    92299 | RODRIGUEZ, GRACIELA MARIA LAURA       | P9      | P20      | N8       | V5       | C3       | C9        | N10       | Gianmarco Cafferata                                 |
+|   105318 | RODRIGUEZ, TOMAS GUSTAVO              | P8      | N9       | P24      | C2       | V5       | P35       | V7        | Gianmarco Cafferata                                 |
+|   104896 | SAEZ, EDGARDO FRANCISCO               | V1      | P31      | P28      | C4       | N4       | C6        | C9        | Julieta Ponti y Martín Stefanelli                   |
+|    91979 | SEDEK, JORGE IGNACIO                  | N3      | P31      | P18      | V4       | C4       | C8        | C7        | Ignacio Brusati y Juan Pablo Fresia                 |
+|   104892 | SICCA, FABIO                          | P7      | C4       | P12      | N7       | V5       | C9        | P33       | Gianmarco Cafferata                                 |
+|   108111 | STIEFKENS, JULIAN MELMER              | P9      | N9       | N7       | V4       | C2       | V8        | C6        | Gianmarco Cafferata                                 |
+|    98911 | TEJELO, FERNANDO MARTIN               | C1      | P15      | P24      | V5       | N5       | P35       | P34       | Julieta Ponti y Martín Stefanelli                   |
+|    97819 | TORRES, LUCAS GABRIEL                 | P9      | P13      | P31      | C4       | N5       | V6        | V8        | Damian Martinelli                                   |
+|   103359 | TOSONI MARQUEZ, FRANCO                | C1      | N8       | N9       | P17      | V4       | P34       | V6        | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
