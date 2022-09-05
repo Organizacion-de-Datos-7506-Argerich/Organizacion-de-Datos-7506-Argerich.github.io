@@ -255,6 +255,7 @@ Ciertos grupos de colaboradores son un equipo, y como tal, deben contactarlos a 
 * Esteban Djeordijan y Alejo Blanco
 * Julieta Ponti y Martín Stefanelli
 * NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo
+* Matias Fusco y Gabriel Semorile
 
 <img src="https://i.gifer.com/GAf7.gif" />
 
