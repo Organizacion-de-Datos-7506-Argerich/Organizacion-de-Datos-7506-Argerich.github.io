@@ -308,7 +308,7 @@ Ciertos grupos de colaboradores son un equipo, y como tal, deben contactarlos a 
 |   107718 | FRENKEL, GASTON MARIANO               | P4      | N6       | V4       | C5       | P16      | C8        | P35       | Matias Fusco y Gabriel Semorile                     |
 |   107587 | GALLINO, PEDRO                        | V3      | P28      | P32      | N4       | C5       | C9        | P34       | Matias Rotondo                                      |
 |   105552 | GENERAL, CAMILA                       | V2      | P24      | P29      | N8       | C5       | C6        | C9        | Gianmarco Cafferata                                 |
-|    96244 | GIANZANTI, GUSTAVO                    | N1      | P12      | P13      | V5       | C3       | P34       | P36       | Lucas Waisten                                       |
+|    103545 | Matías Alberto Venglar                    | N1      | P12      | P13      | V5       | C3       | P34       | P36       | Lucas Waisten                                       |
 |   101185 | GOIJMAN, LAUTARO ENZO                 | P3      | P30      | P29      | N6       | C5       | V6        | C6        | Esteban Djeordijan y Alejo Caliz Blanco                   |
 |   107938 | GONZALEZ CALDERON, JULIAN             | P7      | P20      | P28      | C5       | N5       | V6        | P36       | Lucas Waisten                                       |
 |   104503 | GORDYN BIELLO, GONZALO                | V3      | P18      | P14      | N5       | C3       | C7        | P36       | Gianmarco Cafferata                                 |
