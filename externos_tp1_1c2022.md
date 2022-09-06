@@ -225,7 +225,7 @@ Valoramos que se ayuden entre ustedes, debatan y compartan ideas y tips en el ca
 ## Formato de Entrega
 
 La entrega es por mail a Gianmarco Cafferata con el asunto "Alumno externo entrega TP1".
-El formato de entrega está acá: https://docs.google.com/document/d/1me1ua4FMUtySkQOoN77QVI-4YCN--fn6KZkLmS7InaM/
+El formato de entrega está [acá](https://docs.google.com/document/d/1me1ua4FMUtySkQOoN77QVI-4YCN--fn6KZkLmS7InaM/).
 
 ## Asignaciones
 
