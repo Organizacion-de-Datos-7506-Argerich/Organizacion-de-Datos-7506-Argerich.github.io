@@ -218,7 +218,7 @@ Todos los ejercicios valen lo mismo que los <img src="imgs/1c2022/luisito.jpg" /
   * Debe mostrar una relación o algo con la variable pedida que sea claro e interesante.
   * El uso de color debe ser intencional, elegido por ustedes, no por la librería.
   * La visualización debe ser legible (por ejemplo, un bar plot de 40 barras es ilegible)
-2. Debe cumplir con el objetivo propuesto: Les recomendamos preguntar en clases de consultas o por slack, vamos a estar guiandolos en este punto. Dado que la elección de este dataset es personal pueden ir compartiendo sus ideas/bocetos o consultar lo que quiera sobre este punto de forma pública en #consultas-tp1 o si lo prefieren en privado con su ayudante.
+2. Debe cumplir con el objetivo propuesto: Les recomendamos preguntar en clases de consultas o por slack, vamos a estar guiandolos en este punto. Dado que la elección de este dataset es personal pueden ir compartiendo sus ideas/bocetos o consultar lo que quiera sobre este punto de forma pública en #externos o si lo prefieren en privado con su ayudante.
 
 Valoramos que se ayuden entre ustedes, debatan y compartan ideas y tips en el canal de slack!
 
