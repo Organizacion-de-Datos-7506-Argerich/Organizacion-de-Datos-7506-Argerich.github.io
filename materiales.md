@@ -43,22 +43,6 @@ Ejemplos de visus:
 
 * [Mining of Massive Datasets](http://www.mmds.org/)
 
-## Enunciados de TP viejos
-
-### Primer cuatrimestre 2022
-
-* [Enunciado TP1](consigna_tp1_1c2022.md)
-* [Enunciado TP2](consigna_tp2_1c2022.md)
-* [Enunciado TP3](consigna_tp3_1c2022.md)
-* [Enunciado TP4](consigna_tp4_1c2022.md)
-
-### Segundo cuatrimestre 2021
-
-* [TP1](pdfs/TP1_2C2021.pdf)
-* [TP2](pdfs/TP2_2C2021.pdf)
-* [TP3](pdfs/TP3_2C2021.pdf)
-* [TP4](pdfs/TP4_2C2021.pdf)
-
 ## Guías de ejercicios pasadas (no en uso)
 
 ### Repo de ejercicios de pandas y spark resueltos por alumnos
