@@ -267,7 +267,7 @@ Ciertos grupos de colaboradores son un equipo, y como tal, deben contactarlos a 
 
 |   Padron | Nombre                                | 1 - <img src="imgs/1c2022/luisito.jpg" />   | 2 - <img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />   | 3 - <img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />   | 4 - <img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />   | 5 - <img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />   | 6 - <img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />   | 7 - <img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />   | Ayudante asignado                                   |
 |---------:|:--------------------------------------|:--------|:---------|:---------|:---------|:---------|:----------|:----------|:----------------------------------------------------|
-|   108762 | ABRAMOVICH, MARTIN                    | P4      | V5       | C2       | N8       | P22      | V7        | V6        | Ignacio Brusati y Juan Pablo Fresia                 |
+|   105288 | Sebastián Brizuela                    | P4      | V5       | C2       | N8       | P22      | V7        | V6        | Ignacio Brusati y Juan Pablo Fresia                 |
 |   107742 | ABUIN, AQUILES EZEQUIEL               | N3      | N5       | C3       | P27      | V4       | N10       | V7        | Damian Martinelli                                   |
 |   104438 | BRICCHI, FRANCO                       | V3      | N4       | P14      | C4       | P32      | C8        | V6        | Esteban Djeordijan y Alejo Caliz Blanco                   |
 |   107143 | CALDERON, GONZALO MANUEL              | C1      | P30      | P25      | N4       | V5       | P35       | C9        | Gianmarco Cafferata                                 |
@@ -297,7 +297,7 @@ Ciertos grupos de colaboradores son un equipo, y como tal, deben contactarlos a 
 |    99879 | CLAROS CASTRO, ELVIS                  | P5      | P13      | C3       | N9       | V5       | C9        | P37       | Julieta Ponti y Martín Stefanelli                   |
 |   104319 | CUETO QUINTO, ALAN RAMIRO             | P4      | V4       | N4       | C3       | P22      | P37       | C6        | Esteban Djeordijan y Alejo Caliz Blanco                   |
 |   106171 | DAVICO, MAURICIO                      | P1      | P32      | P15      | V5       | C3       | N10       | P34       | Esteban Djeordijan y Alejo Caliz Blanco                   |
-|   100513 | DAY, FRANCISCO JOSE                   | N3      | P25      | P14      | V5       | C3       | C7        | P33       | Matias Rotondo                                      |
+|   103346 | Lautaro Rodriguez                   | N3      | P25      | P14      | V5       | C3       | C7        | P33       | Matias Rotondo                                      |
 |   107835 | DEMARCHI, IGNACIO                     | P9      | P30      | N8       | V4       | C2       | C9        | P35       | Gianmarco Cafferata                                 |
 |   105122 | DIAZ CALIXTO, LUZ MILAGROS            | P1      | P23      | P32      | N6       | C5       | V8        | V7        | Gianmarco Cafferata                                 |
 |   104581 | DUZAC, JUAN MARTIN                    | N3      | P18      | C3       | V5       | P16      | C6        | C9        | Gianmarco Cafferata                                 |
@@ -396,7 +396,7 @@ Ciertos grupos de colaboradores son un equipo, y como tal, deben contactarlos a 
 |   104677 | RIAL, TADEO EZEQUIEL                  | N2      | P15      | N8       | C3       | V4       | C9        | P36       | Matias Fusco y Gabriel Semorile                     |
 |    92299 | RODRIGUEZ, GRACIELA MARIA LAURA       | P9      | P20      | N8       | V5       | C3       | C9        | N10       | Gianmarco Cafferata                                 |
 |   105318 | RODRIGUEZ, TOMAS GUSTAVO              | P8      | N9       | P24      | C2       | V5       | P35       | V7        | Gianmarco Cafferata                                 |
-|   104896 | SAEZ, EDGARDO FRANCISCO               | V1      | P31      | P28      | C4       | N4       | C6        | C9        | Julieta Ponti y Martín Stefanelli                   |
+|   101186 | Mauro Giampietri               | V1      | P31      | P28      | C4       | N4       | C6        | C9        | Julieta Ponti y Martín Stefanelli                   |
 |    91979 | SEDEK, JORGE IGNACIO                  | N3      | P31      | P18      | V4       | C4       | C8        | C7        | Ignacio Brusati y Juan Pablo Fresia                 |
 |   104892 | SICCA, FABIO                          | P7      | C4       | P12      | N7       | V5       | C9        | P33       | Gianmarco Cafferata                                 |
 |   108111 | STIEFKENS, JULIAN MELMER              | P9      | N9       | N7       | V4       | C2       | V8        | C6        | Gianmarco Cafferata                                 |
