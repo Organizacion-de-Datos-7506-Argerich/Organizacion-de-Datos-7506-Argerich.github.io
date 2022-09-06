@@ -296,7 +296,7 @@ Ciertos grupos de colaboradores son un equipo, y como tal, deben contactarlos a 
 |   108298 | CHACON SALEMME, IGNACIO ALEJANDRO     | P2      | P27      | P20      | N7       | C5       | V8        | V6        | Gianmarco Cafferata                                 |
 |    99879 | CLAROS CASTRO, ELVIS                  | P5      | P13      | C3       | N9       | V5       | C9        | P37       | Julieta Ponti y Martín Stefanelli                   |
 |   104319 | CUETO QUINTO, ALAN RAMIRO             | P4      | V4       | N4       | C3       | P22      | P37       | C6        | Esteban Djeordijan y Alejo Caliz Blanco                   |
-|   106171 | DAVICO, MAURICIO                      | P1      | P32      | P15      | V5       | C3       | N10       | P34       | Esteban Djeordijan y Alejo Caliz Blanco                   |
+|   104424 | Joel Isaac Fernandez Fox                      | P1      | P32      | P15      | V5       | C3       | N10       | P34       | Esteban Djeordijan y Alejo Caliz Blanco                   |
 |   103346 | Lautaro Rodriguez                   | N3      | P25      | P14      | V5       | C3       | C7        | P33       | Matias Rotondo                                      |
 |   107835 | DEMARCHI, IGNACIO                     | P9      | P30      | N8       | V4       | C2       | C9        | P35       | Gianmarco Cafferata                                 |
 |   105122 | DIAZ CALIXTO, LUZ MILAGROS            | P1      | P23      | P32      | N6       | C5       | V8        | V7        | Gianmarco Cafferata                                 |
