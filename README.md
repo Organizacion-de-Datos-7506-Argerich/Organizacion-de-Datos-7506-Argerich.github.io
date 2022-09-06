@@ -24,7 +24,7 @@ Este es el sitio que vamos a estar usando durante la cursada 2c2022 de la materi
 * [Diapositiva administrativa](https://docs.google.com/presentation/d/1prAyHAnFvvRAhCbUXxctB1uHa48u3uQkwsOwya3T71o/edit#slide=id.g71523c761a_2_309)
 * Enunciado TP1
   * [Regulares](consigna_tp1_2c2022.md)
-  * Externos
+  * [Externos](externos_tp1_1c2022.md)
 * [Calendario](calendario_2022_2c.md)
 * [Guías de ejercicios](/guias)
 * [Material y bibliografía](materiales.md)
