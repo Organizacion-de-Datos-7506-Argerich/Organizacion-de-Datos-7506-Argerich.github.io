@@ -403,3 +403,4 @@ Ciertos grupos de colaboradores son un equipo, y como tal, deben contactarlos a 
 |    98911 | TEJELO, FERNANDO MARTIN               | C1      | P15      | P24      | V5       | N5       | P35       | P34       | Julieta Ponti y Martín Stefanelli                   |
 |    97819 | TORRES, LUCAS GABRIEL                 | P9      | P13      | P31      | C4       | N5       | V6        | V8        | Damian Martinelli                                   |
 |   103359 | TOSONI MARQUEZ, FRANCO                | C1      | N8       | N9       | P17      | V4       | P34       | V6        | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
+|   106016 | Nicolás Vagó                | C1      | P15       | N7       | P24      | V5       | P35       | C8        | Ignacio Argel |
