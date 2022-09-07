@@ -325,7 +325,7 @@ Ciertos grupos de colaboradores son un equipo, y como tal, deben contactarlos a 
 |   108485 | MENDAÑA, JOAQUÍN                      | P11     | P27      | P22      | N5       | C2       | V7        | V8        | Damian Martinelli                                   |
 |   107690 | OJEDA, DANIELA                        | N1      | N8       | P17      | V4       | C5       | C7        | P33       | Damian Martinelli                                   |
 |   103851 | PANACCIO, GUIDO DANIEL                | P8      | P12      | C3       | N7       | V5       | P34       | C6        | Gianmarco Cafferata                                 |
-|   107456 | PLATINI, ROCÍO BELÉN                  | P5      | P25      | N7       | C4       | V4       | P33       | C7        | Lucas Waisten                                       |
+|   - | Pablo Serrati                  | P5      | P25      | N7       | C4       | V4       | P33       | C7        | Lucas Waisten                                       |
 |   108448 | POL, JUAN MANUEL                      | P8      | P16      | N4       | C5       | V4       | N10       | P35       | Gianmarco Cafferata                                 |
 |    91076 | PORRAS CARHUAMACA, SHERLY KATERIN     | N1      | N8       | P20      | V5       | C3       | P35       | V8        | Gianmarco Cafferata                                 |
 |   108405 | PORRO, JOAQUIN                        | P9      | P14      | P23      | N9       | C3       | V6        | C7        | Gianmarco Cafferata                                 |
