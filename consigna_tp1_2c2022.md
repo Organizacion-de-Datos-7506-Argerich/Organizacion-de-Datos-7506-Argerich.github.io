@@ -31,16 +31,6 @@ Los csvs son:
   * video
   * vote_average: promedio de calificaciones
   * vote_count: cantidad de votos
-* review.csv
-  * review_id
-  * user_id
-  * business_id
-  * stars: entero entre 1 y 5
-  * date
-  * text: texto de la review
-  * useful: cantidad de gente que la voto útil
-  * funny: cantidad de gente que la voto divertida
-  * cool: cantidad de gente que la votó como cool
 * cast.csv
   * id: id de película en la que participó
   * cast_id: id de la persona
