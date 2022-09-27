@@ -15,6 +15,8 @@ El calendario se irá llenando a medida avance el cuatrimestre.
 | 19-9 | Clase especial de visualizaciones                                                              | - |
 | 22-9 | Consulta TP1                                                                                   | - |
 | 26-9 | Entrega TP1                                                                                    | - |
+| 29-9 | Spark I. **Enunciado TP2**                                                                     |[Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYck1nRMGJFeWIN2W5IrxoLO)|
+| 3-10 | Spark II.                                                                   |[Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYeu_JRN8eQgzJUfaXUrhsk2)|
 
 ## Clases prácticas grabadas
 
