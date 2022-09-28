@@ -189,7 +189,15 @@ Quien esté primero recibira tres <img src="imgs/1c2022/luisito.jpg" />, quienes
 
 ### Podio Kahoots
 
-En construcción.
+|   padron | Alumno          |   Pandas 1 |   Pandas 2 |   Pandas 3 |   NLP I |   Compresión |   Promedio | Premio |
+|---------:|:----------------|----------:|----------:|----------:|-------:|-------------:|---------:|---------:|
+|   103878 | MEDONE SABATINI |      0.95 |      0.79 |      0.95 |   0.7  |     0.576562 | 0.792965 |<img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />|
+|   108298 | CHACON SALEMME  |      0.68 |      0.89 |      0.52 |   0.77 |     0.908845 | 0.753883 |<img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />|
+|    97897 | FERRERO         |      0.93 |      0.87 |      0.53 |   0.66 |     0.696516 | 0.735505 |<img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />|
+|   105620 | BOUCHARD        |      0.81 |      0.81 |      0.39 |   0.68 |     0.870597 | 0.710777 |<img src="imgs/1c2022/luisito.jpg" />|
+|    97261 | FARFAN LENCINA  |      0.73 |      0.7  |      0.74 |   0.77 |     0.579776 | 0.704345 |<img src="imgs/1c2022/luisito.jpg" />|
+|   108891 | PELLEGRINI      |      0.68 |      0.88 |      0.39 |   0.87 |     0.708537 | 0.703782 |-|
+|   102110 | SCHEJTMAN       |      0.64 |      0.69 |      0.66 |   0.83 |     0.623296 | 0.689727 |-|
 
 ## Criterio de aprobación
 
