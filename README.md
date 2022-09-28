@@ -2,8 +2,10 @@ Este es el sitio que vamos a estar usando durante la cursada 2c2022 de la materi
 
 ## Cuerpo docente
 
-* Damián Martinelli (damianmarti@gmail.com)
-* Gianmarco Cafferata (gcafferata@fi.uba.ar)
+* Luis Argerich
+* Natalia Golmar
+* Damián Martinelli
+* Gianmarco Cafferata
 * Hige
 * Ignacio Argel
 * Julieta Ponti
