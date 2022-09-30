@@ -74,8 +74,6 @@ Tienen asignados **1 ejercicio que vale un** <img src="imgs/1c2022/luisito.jpg" 
 
 #### Ejercicios
 
-* **S1** (<img src="imgs/1c2022/luisito.jpg" />). ¿Cuál es el estado con mejor rating promedio en sus negocios? ¿Por qué?
-
 * **S1** (<img src="imgs/1c2022/luisito.jpg" />). De las 10 películas más populares, ¿cuál es el título de la película que tiene más géneros asociados? ¿Cuáles son esos géneros?
 * **S2** (<img src="imgs/1c2022/luisito.jpg" />). ¿Cuál es el nombre del actor o actriz que participó en más películas en un rol que no sea de voz (‘voice’)? ¿En cuántas películas trabajó? ¿De quién se trata y por qué es conocida?
 * **S3** (<img src="imgs/1c2022/luisito.jpg" />). Para las películas que duran más de tres horas, ¿cuál es la película con más ROI?
@@ -103,14 +101,18 @@ Tienen asignados **1 ejercicio que vale un** <img src="imgs/1c2022/luisito.jpg" 
 * **S25** (<img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />). ¿Cuál es el percentil 95 de la popularidad?
 * **S26** (<img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />). ¿Quién es el crew que trabajó en más tuplas (departamento, película) distintas?
 * **S27** (<img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />). ¿Cuáles son las 10 keywords con mayor y menor distancia coseno respecto de las pelis en las que aparecen? Ignore las distancias que son 1 o 0.
-* **S28** (<img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />). ¿Cuál es la mediana de cantidad de crew para las películas? Calcular de forma distribuida.
-* **S29** (<img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />) Encuentre, para cada película, cuál es la más cercana en términos de distancia coseno respecto de las keywords. Muestre 5 pares aleatorios con sus descripciones.
-* **S30** (<img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />) ¿Cuál es la probabilidad de que una película de un género en particular tenga una calificación promedio mayor a 3 (utilizando la tabla de ratings)? Obtenga las probabilidades de cada género posible.
-* **S31** (<img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />) Si consideramos la antigüedad de un usuario como la diferencia entre el tiempo en el que hizo el primer rating y la última. ¿Cúal es el usuario más antiguo? ¿Cúal es la correlación entre la antigüedad de cada usuario y la cantidad de reviews que hizo? Calcule la correlación de forma distribuida.
-* **S32** (<img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />) Uno tendería a pensar que mientras más personas participan de una película, más cara es. ¿Cuál es la correlación de Spearman entre estos números? Calcule de forma distribuida.
-* **S33** (<img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />) Dos películas se conectan si un usuario les hizo una rating a ambas. Considerando solo los usuarios que superen el percentil 90 de cantidad de ratings, ¿cuántos triángulos tiene el grafo de películas?
-* **S34** (<img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />) Dos películas se conectan si un usuario les hizo una rating a ambas. Considerando solo los usuarios que superen el percentil 90 de cantidad de ratings, ¿Cuál es la película con mayor centralidad en el grafo? Estime usando random walks.
-* **S35** (<img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />) Obtenga un vector que indique si una compañía trabajo/no trabajo en una película, para cada película. Para cada compañía utilice estos vectores para buscar cuál es la compañía más similar, utilizando la distancia coseno. Imprima toda la lista de tuplas (compañía, similar).
+* **S28** (<img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />). Queremos saber cual es el mayor fan de Brad Pitt. ¿Quién es la persona que mejor puntúa en las películas en las que aparece? Considerar las películas no puntuadas como con score 0.
+* **S29** (<img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />). Tenemos la teoría de que hay actores importantes que se odian pero no se sabe. Para los actores aún vivos o que murieron después del año 2000, hallar el par de actores que más compañías compartieron sin compartir películas.
+* **S30** (<img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />). Estimamos el sueldo de un actor como la inversión dividida entre la cantidad de actores. En base a esta estimación, ¿cuál es el actor con el patrimonio más grande?
+* **S31** (<img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />). Asesoramos a un inversionista de la industria cinematográfica y este necesita bajar el riesgo en sus actividades. Cual es el top 3 de compañías con el mayor ROI por película?
+* **S32** (<img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />). ¿Cuál es la mediana de cantidad de crew para las películas? Calcular de forma distribuida.
+* **S33** (<img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />) Encuentre, para cada película, cuál es la más cercana en términos de distancia coseno respecto de las keywords. Muestre 5 pares aleatorios con sus descripciones.
+* **S34** (<img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />) ¿Cuál es la probabilidad de que una película de un género en particular tenga una calificación promedio mayor a 3 (utilizando la tabla de ratings)? Obtenga las probabilidades de cada género posible.
+* **S35** (<img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />) Si consideramos la antigüedad de un usuario como la diferencia entre el tiempo en el que hizo el primer rating y la última. ¿Cúal es el usuario más antiguo? ¿Cúal es la correlación entre la antigüedad de cada usuario y la cantidad de reviews que hizo? Calcule la correlación de forma distribuida.
+* **S36** (<img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />) Uno tendería a pensar que mientras más personas participan de una película, más cara es. ¿Cuál es la correlación de Spearman entre estos números? Calcule de forma distribuida.
+* **S37** (<img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />) Dos películas se conectan si un usuario les hizo una rating a ambas. Considerando solo los usuarios que superen el percentil 90 de cantidad de ratings, ¿cuántos triángulos tiene el grafo de películas?
+* **S38** (<img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />) Dos películas se conectan si un usuario les hizo una rating a ambas. Considerando solo los usuarios que superen el percentil 90 de cantidad de ratings, ¿Cuál es la película con mayor centralidad en el grafo? Estime usando random walks.
+* **S39** (<img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />) Obtenga un vector que indique si una compañía trabajo/no trabajo en una película, para cada película. Para cada compañía utilice estos vectores para buscar cuál es la compañía más similar, utilizando la distancia coseno. Imprima toda la lista de tuplas (compañía, similar).
 
 ## Podio (hasta dos <img src="imgs/1c2022/luisito64.jpg" /><img src="imgs/1c2022/luisito64.jpg" />)
 
@@ -122,7 +124,7 @@ El criterio general es que la totalidad del tp tiene que sumar 6 puntos de los 1
 
 Cada une va a tener algún ayudante asignado, pueden hacer consultas por slack a su ayudante o en el canal.
 
-### Spark sobre Yelp
+### Spark
 
 Todos los ejercicios valen lo mismo que los <img src="imgs/1c2022/luisito.jpg" /> que tienen asignados.
 
