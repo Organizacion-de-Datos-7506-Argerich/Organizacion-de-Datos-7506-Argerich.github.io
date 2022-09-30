@@ -116,13 +116,19 @@ Tienen asignados **1 ejercicio que vale un** <img src="imgs/1c2022/luisito.jpg" 
 
 ## Podio (hasta dos <img src="imgs/1c2022/luisito64.jpg" /><img src="imgs/1c2022/luisito64.jpg" />)
 
-Utilizamos el promedio del puntaje normalizado de cada kahoot/parcialito para armar un podio. El podio se modificara a medida participen en los Kahoots. Los 5 primeros reciben un <img src="imgs/1c2022/luisito.jpg" /> extra.
+Utilizamos el promedio del puntaje normalizado de cada kahoot/parcialito para armar un podio. El podio se modificara a medida participen en los Kahoots. El primero recibe dos <img src="imgs/1c2022/luisito.jpg" /> extra y los próximos 4 primeros reciben un <img src="imgs/1c2022/luisito.jpg" /> extra.
 
 ## Criterio de aprobación
 
 El criterio general es que la totalidad del tp tiene que sumar 6 puntos de los 10, es un 60%. Además todas las consignas deben estar desarrolladas, entregando algo en cada una.
 
-Cada une va a tener algún ayudante asignado, pueden hacer consultas por slack a su ayudante o en el canal.
+Cada uno va a tener algún ayudante asignado, pueden hacer consultas por slack a su ayudante o en el canal.
+
+### Criterio de reentrega
+
+Se podrá reentregar el TP si el puntaje es >=4 y están **todos los puntos desarrollados**.  La reentrega consiste en hacer un punto extra y corregir todos los puntos donde tuvieran menos de la mitad de los puntos.
+
+Se aprueba la reentrega si todos los puntos tienen al menos la mitad de los puntos. En caso de luego aprobar la instancia de reentrega, la nota es siempre 4.
 
 ### Spark
 
