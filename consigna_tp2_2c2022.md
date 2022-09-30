@@ -156,4 +156,86 @@ En el PDF deben indicar cada uno de los puntos que les tocó, colocando el enunc
 
 ## Asignaciones
 
-Pendientes
+Ciertos grupos de colaboradores son un equipo, y como tal, deben contactarlos a todos juntos y no por separado.
+
+* Ignacio Brusati y Juan Pablo Fresia
+* Esteban Djeordijan y Alejo Caliz Blanco
+* Julieta Ponti y Martín Stefanelli
+* NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo
+* Matias Fusco y Gabriel Semorile
+
+<img src="https://i.gifer.com/GAf7.gif" />
+
+|   Padron | Nombre                             | 1 - <img src="imgs/1c2022/luisito.jpg" />   | 2 - <img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />   | 3 - <img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />   | 4 - <img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />   | 5 - <img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />   | Ayudante asignado                                   |
+|---------:|:-----------------------------------|:--------|:---------|:---------|:---------|:----------|:----------------------------------------------------|
+|   106870 | ADRIS, MARIO SANTIAGO              | S3      | S16      | S17      | S18      | S39       | Ignacio Brusati y Juan Pablo Fresia                 |
+|   104498 | ALMADA, FRANCO MARTIN              | S4      | S19      | S23      | S11      | S32       | Natalia Golmar                                      |
+|   106892 | AMBOAGE, JUAN PATRICIO             | S5      | S14      | S28      | S17      | S36       | Lucas Waisten                                       |
+|   105190 | BARRETO, SEVERINO                  | S5      | S28      | S31      | S27      | S35       | Luis Argerich                                       |
+|   108100 | BENITO, AGUSTÍN                    | S9      | S12      | S29      | S31      | S38       | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
+|   108225 | BERENGUEL IBARRA, RAFAEL FRANCISCO | S2      | S30      | S10      | S13      | S36       | Lucas Waisten                                       |
+|   105620 | BOUCHARD, JOSUE ALEJANDRO          | S7      | S14      | S21      | S10      | S35       | Natalia Golmar                                      |
+|    97640 | BRONDO, FACUNDO LUCIO              | S9      | S15      | S11      | S20      | S38       | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
+|   106691 | CAMPILLAY, EDGAR MATIAS            | S2      | S23      | S11      | S20      | S37       | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
+|   106359 | CAMURRI, FEDERICO ALFREDO          | S9      | S27      | S19      | S29      | S36       | Julieta Ponti y Martín Stefanelli                   |
+|   108298 | CHACON SALEMME, IGNACIO ALEJANDRO  | S7      | S23      | S25      | S11      | S34       | Natalia Golmar                                      |
+|   105907 | CHEN, NICOLAS                      | S7      | S18      | S19      | S29      | S35       | Julieta Ponti y Martín Stefanelli                   |
+|    99879 | CLAROS CASTRO, ELVIS               | S4      | S10      | S29      | S22      | S35       | Esteban Djeordijan y Alejo Blanco                   |
+|   102868 | CONTE GRAND, JOAQUIN               | S1      | S20      | S16      | S17      | S37       | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
+|   102104 | COSTA, LUCIANO                     | S2      | S24      | S14      | S21      | S33       | Esteban Djeordijan y Alejo Blanco                   |
+|   107963 | CUEVAS, JUAN FRANCISCO             | S9      | S18      | S16      | S23      | S35       | Ignacio Brusati y Juan Pablo Fresia                 |
+|   104098 | CUPPARI, FRANCO                    | S3      | S31      | S15      | S16      | S38       | Matias Rotondo                                      |
+|   101830 | DE SANTIS, FEDERICO EZEQUIEL       | S6      | S31      | S15      | S21      | S38       | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
+|   106368 | DELLA VECCHIA, TOMAS               | S3      | S19      | S18      | S21      | S39       | Julieta Ponti y Martín Stefanelli                   |
+|   107835 | DEMARCHI, IGNACIO                  | S5      | S29      | S25      | S23      | S39       | Ignacio Brusati y Juan Pablo Fresia                 |
+|   105122 | DIAZ CALIXTO, LUZ MILAGROS         | S9      | S24      | S20      | S15      | S36       | Matias Fusco y Gabriel Semorile                     |
+|   106308 | DUCA, FRANCISCO                    | S8      | S13      | S18      | S25      | S37       | Damian Martinelli                                   |
+|   106295 | ENCINOZA VILELA, NATHALIA LUCIA    | S8      | S19      | S26      | S14      | S32       | Julieta Ponti y Martín Stefanelli                   |
+|   105989 | ERLICH, IVAN                       | S7      | S24      | S27      | S26      | S34       | Ignacio Brusati y Juan Pablo Fresia                 |
+|   103992 | ESPERON, RAMIRO                    | S1      | S25      | S10      | S22      | S34       | Gianmarco Cafferata                                 |
+|   106160 | FABREGAS, ALEJO VALENTIN           | S7      | S26      | S28      | S12      | S32       | Damian Martinelli                                   |
+|   103740 | FABREGAS, CAMILO EZEQUIEL          | S6      | S30      | S22      | S13      | S36       | Natalia Golmar                                      |
+|    97261 | FARFAN LENCINA, NICOLAS RAFAEL     | S2      | S11      | S20      | S25      | S39       | Esteban Djeordijan y Alejo Blanco                   |
+|    97897 | FERRERO, MANUEL                    | S3      | S21      | S28      | S24      | S36       | Luis Argerich                                       |
+|   104354 | GALIAN, TOMAS EZEQUIEL             | S6      | S18      | S21      | S12      | S39       | Natalia Golmar                                      |
+|   105043 | GARCIA PIZALES, IGNACIO            | S7      | S12      | S27      | S19      | S33       | Matias Fusco y Gabriel Semorile                     |
+|   105552 | GENERAL, CAMILA                    | S5      | S29      | S21      | S10      | S33       | Damian Martinelli                                   |
+|   101185 | GOIJMAN, LAUTARO ENZO              | S6      | S28      | S23      | S18      | S33       | Damian Martinelli                                   |
+|   104503 | GORDYN BIELLO, GONZALO             | S5      | S13      | S15      | S14      | S32       | Matias Rotondo                                      |
+|   104084 | GRZEGORCZYK, IVAN                  | S8      | S22      | S13      | S27      | S35       | Luis Argerich                                       |
+|   107404 | HURTADO VARGAS, DANIEL ALEJANDRO   | S4      | S10      | S30      | S15      | S37       | Matias Rotondo                                      |
+|   107854 | HUTTIN, FACUNDO TOMÁS              | S2      | S17      | S18      | S24      | S33       | Lucas Waisten                                       |
+|   104424 | Joel Isaac Fernandez Fox           | S9      | S10      | S17      | S12      | S33       | Gianmarco Cafferata                                 |
+|   107188 | KIM, DANIEL TOMAS                  | S6      | S15      | S16      | S17      | S34       | Natalia Golmar                                      |
+|   103346 | Lautaro Rodriguez                  | S1      | S11      | S30      | S10      | S32       | Julieta Ponti y Martín Stefanelli                   |
+|   100589 | LEGUIZAMON, VERONICA BEATRIZ       | S6      | S25      | S10      | S22      | S38       | Damian Martinelli                                   |
+|   107825 | LIN, CRISTIAN MARTIN               | S5      | S20      | S31      | S19      | S33       | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
+|   105974 | MACKE, FRANCO                      | S1      | S12      | S14      | S28      | S35       | Gianmarco Cafferata                                 |
+|   105645 | MARIÑO, ALEJO TOMÁS                | S7      | S20      | S26      | S18      | S35       | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
+|   101186 | Mauro Giampietri                   | S1      | S29      | S13      | S19      | S33       | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
+|   108294 | MAURO, CAROLINA LUCIA              | S1      | S21      | S13      | S26      | S39       | Esteban Djeordijan y Alejo Blanco                   |
+|   101769 | MEDELA, MARIANO TOMAS              | S1      | S27      | S19      | S29      | S36       | Esteban Djeordijan y Alejo Blanco                   |
+|   103878 | MEDONE SABATINI, JUAN IGNACIO      | S8      | S23      | S17      | S26      | S35       | Luis Argerich                                       |
+|   108485 | MENDAÑA, JOAQUÍN                   | S9      | S14      | S28      | S30      | S37       | Matias Fusco y Gabriel Semorile                     |
+|   107164 | MORANDI, FABRIZZIO LEONARDO        | S6      | S11      | S30      | S31      | S37       | Gianmarco Cafferata                                 |
+|   106016 | Nicolás Vagó                       | S4      | S16      | S25      | S23      | S34       | Natalia Golmar                                      |
+|   104881 | OLANO SOLEY, NICOLÁS GUILLERMO     | S3      | S16      | S20      | S31      | S34       | Natalia Golmar                                      |
+|        0 | Pablo Serrati                      | S8      | S15      | S16      | S19      | S37       | Luis Argerich                                       |
+|   103851 | PANACCIO, GUIDO DANIEL             | S4      | S22      | S24      | S30      | S32       | Matias Fusco y Gabriel Semorile                     |
+|   108891 | PELLEGRINI, ANTONELLA JAZMÍ­N      | S8      | S25      | S11      | S20      | S38       | Damian Martinelli                                   |
+|    91076 | PORRAS CARHUAMACA, SHERLY KATERIN  | S3      | S17      | S25      | S29      | S34       | Luis Argerich                                       |
+|   108405 | PORRO, JOAQUIN                     | S4      | S22      | S24      | S15      | S32       | Julieta Ponti y Martín Stefanelli                   |
+|    91561 | PRIETO, PABLO ALEJANDRO            | S7      | S23      | S26      | S21      | S33       | Luis Argerich                                       |
+|   105167 | REGAZZOLI, IGNACIO                 | S8      | S17      | S22      | S28      | S34       | Luis Argerich                                       |
+|   104677 | RIAL, TADEO EZEQUIEL               | S8      | S27      | S31      | S25      | S38       | Matias Fusco y Gabriel Semorile                     |
+|   108267 | RODRIGUEZ JUSTO, IGNACIO           | S1      | S26      | S12      | S14      | S36       | Esteban Djeordijan y Alejo Blanco                   |
+|   105318 | RODRIGUEZ, TOMAS GUSTAVO           | S3      | S28      | S24      | S16      | S32       | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
+|   103439 | SAGMAN, EMANUEL NICOLAS            | S3      | S15      | S12      | S24      | S39       | Damian Martinelli                                   |
+|   105637 | SANTANDER, VALENTIN                | S2      | S21      | S11      | S28      | S37       | Ignacio Brusati y Juan Pablo Fresia                 |
+|   103967 | SCAZZOLA, LARA                     | S4      | S13      | S23      | S30      | S37       | Natalia Golmar                                      |
+|   106403 | SCAZZOLA, MARTIN                   | S2      | S31      | S27      | S16      | S34       | Gianmarco Cafferata                                 |
+|   102110 | SCHEJTMAN, EZEQUIEL                | S9      | S17      | S14      | S20      | S38       | Luis Argerich                                       |
+|    91979 | SEDEK, JORGE IGNACIO               | S4      | S14      | S18      | S30      | S39       | Matias Fusco y Gabriel Semorile                     |
+|    98911 | TEJELO, FERNANDO MARTIN            | S5      | S26      | S22      | S24      | S38       | Gianmarco Cafferata                                 |
+|    97819 | TORRES, LUCAS GABRIEL              | S2      | S12      | S26      | S11      | S36       | Ignacio Brusati y Juan Pablo Fresia                 |
+|   103359 | TOSONI MARQUEZ, FRANCO             | S5      | S30      | S29      | S13      | S39       | Gianmarco Cafferata                                 |
