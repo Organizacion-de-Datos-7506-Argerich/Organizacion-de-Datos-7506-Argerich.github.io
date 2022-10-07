@@ -17,6 +17,10 @@ El calendario se irá llenando a medida avance el cuatrimestre.
 | 26-9 | Entrega TP1                                                                                    | - |
 | 29-9 | Spark I. **Enunciado TP2**                                                                     |[Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYck1nRMGJFeWIN2W5IrxoLO)|
 | 3-10 | Spark II.                                                                   |[Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYeu_JRN8eQgzJUfaXUrhsk2)|
+| 6-10 | Spark III.                                                                   |-|
+| 10-10 | FERIADO                                                                   |-|
+| 13-10 | Consultas TP2                                                             |-|
+| 17-10 | Clase especial Spark - **Entrega TP2**                                      |-|
 
 ## Clases prácticas grabadas
 
