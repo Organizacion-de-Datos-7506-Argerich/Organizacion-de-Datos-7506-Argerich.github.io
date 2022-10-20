@@ -4,6 +4,8 @@
 
 El dataset fue extraido por la cátedra para distintas canciones, y se encuentre [acá](https://drive.google.com/drive/folders/1-S0MrftIbCRalfL876-p2hyMkrX52TKM?usp=sharing).
 
+El target a predecir es el género de la canción en la columna `genre`.
+
 La métrica de validación es top-2 accuracy.
 
 ## Parte I - Análisis Exploratorio (6 <img src="imgs/1c2022/luisito64.jpg" />)
