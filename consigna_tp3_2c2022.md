@@ -107,3 +107,77 @@ Por sobre el puntaje total del ejercicio (ambos modelos) se restan 3 puntos si c
 * Todos los puntos deben estar desarrollados (exceptuando por supuesto los extra).
 
 ## Asignación de correctores
+
+|   Padron | Nombre                             | Ayudante asignado                                   |
+|---------:|:-----------------------------------|:----------------------------------------------------|
+|   106870 | ADRIS, MARIO SANTIAGO              | Matias Fusco y Gabriel Semorile                     |
+|   104498 | ALMADA, FRANCO MARTIN              | Gianmarco Cafferata                                 |
+|   106892 | AMBOAGE, JUAN PATRICIO             | Esteban Djeordijan y Alejo Caliz Blanco             |
+|   105190 | BARRETO, SEVERINO                  | Gianmarco Cafferata                                 |
+|   108100 | BENITO, AGUSTÍN                    | Julieta Ponti y Martín Stefanelli                   |
+|   108225 | BERENGUEL IBARRA, RAFAEL FRANCISCO | Natalia Golmar                                      |
+|   105620 | BOUCHARD, JOSUE ALEJANDRO          | Gianmarco Cafferata                                 |
+|    97640 | BRONDO, FACUNDO LUCIO              | Damian Martinelli                                   |
+|   106691 | CAMPILLAY, EDGAR MATIAS            | Damian Martinelli                                   |
+|   106359 | CAMURRI, FEDERICO ALFREDO          | Damian Martinelli                                   |
+|   108298 | CHACON SALEMME, IGNACIO ALEJANDRO  | Esteban Djeordijan y Alejo Caliz Blanco             |
+|   105907 | CHEN, NICOLAS                      | Matias Rotondo                                      |
+|    99879 | CLAROS CASTRO, ELVIS               | Luis Argerich                                       |
+|   102868 | CONTE GRAND, JOAQUIN               | Natalia Golmar                                      |
+|   102104 | COSTA, LUCIANO                     | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
+|   107963 | CUEVAS, JUAN FRANCISCO             | Natalia Golmar                                      |
+|   104098 | CUPPARI, FRANCO                    | Luis Argerich                                       |
+|   101830 | DE SANTIS, FEDERICO EZEQUIEL       | Gianmarco Cafferata                                 |
+|   106368 | DELLA VECCHIA, TOMAS               | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
+|   107835 | DEMARCHI, IGNACIO                  | Natalia Golmar                                      |
+|   105122 | DIAZ CALIXTO, LUZ MILAGROS         | Luis Argerich                                       |
+|   106308 | DUCA, FRANCISCO                    | Luis Argerich                                       |
+|   106295 | ENCINOZA VILELA, NATHALIA LUCIA    | Ignacio Brusati y Juan Pablo Fresia                 |
+|   105989 | ERLICH, IVAN                       | Esteban Djeordijan y Alejo Caliz Blanco             |
+|   103992 | ESPERON, RAMIRO                    | Ignacio Brusati y Juan Pablo Fresia                 |
+|   106160 | FABREGAS, ALEJO VALENTIN           | Ignacio Brusati y Juan Pablo Fresia                 |
+|   103740 | FABREGAS, CAMILO EZEQUIEL          | Damian Martinelli                                   |
+|    97261 | FARFAN LENCINA, NICOLAS RAFAEL     | Natalia Golmar                                      |
+|    97897 | FERRERO, MANUEL                    | Lucas Waisten                                       |
+|   104354 | GALIAN, TOMAS EZEQUIEL             | Esteban Djeordijan y Alejo Caliz Blanco             |
+|   105043 | GARCIA PIZALES, IGNACIO            | Matias Rotondo                                      |
+|   105552 | GENERAL, CAMILA                    | Luis Argerich                                       |
+|   101185 | GOIJMAN, LAUTARO ENZO              | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
+|   104503 | GORDYN BIELLO, GONZALO             | Matias Fusco y Gabriel Semorile                     |
+|   104084 | GRZEGORCZYK, IVAN                  | Ignacio Brusati y Juan Pablo Fresia                 |
+|   107404 | HURTADO VARGAS, DANIEL ALEJANDRO   | Natalia Golmar                                      |
+|   107854 | HUTTIN, FACUNDO TOMÁS              | Damian Martinelli                                   |
+|   104424 | Joel Isaac Fernandez Fox           | Luis Argerich                                       |
+|   107188 | KIM, DANIEL TOMAS                  | Ignacio Brusati y Juan Pablo Fresia                 |
+|   103346 | Lautaro Rodriguez                  | Esteban Djeordijan y Alejo Caliz Blanco             |
+|   100589 | LEGUIZAMON, VERONICA BEATRIZ       | Luis Argerich                                       |
+|   107825 | LIN, CRISTIAN MARTIN               | Ignacio Brusati y Juan Pablo Fresia                 |
+|   105974 | MACKE, FRANCO                      | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
+|   105645 | MARIÑO, ALEJO TOMÁS                | Esteban Djeordijan y Alejo Caliz Blanco             |
+|   101186 | Mauro Giampietri                   | Matias Fusco y Gabriel Semorile                     |
+|   108294 | MAURO, CAROLINA LUCIA              | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
+|   101769 | MEDELA, MARIANO TOMAS              | Gianmarco Cafferata                                 |
+|   103878 | MEDONE SABATINI, JUAN IGNACIO      | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
+|   108485 | MENDAÑA, JOAQUÍN                   | Natalia Golmar                                      |
+|   107164 | MORANDI, FABRIZZIO LEONARDO        | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
+|   106016 | Nicolás Vagó                       | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
+|   104881 | OLANO SOLEY, NICOLÁS GUILLERMO     | Julieta Ponti y Martín Stefanelli                   |
+|        0 | Pablo Serrati                      | Matias Fusco y Gabriel Semorile                     |
+|   103851 | PANACCIO, GUIDO DANIEL             | Luis Argerich                                       |
+|   108891 | PELLEGRINI, ANTONELLA JAZMÍ­N      | Gianmarco Cafferata                                 |
+|    91076 | PORRAS CARHUAMACA, SHERLY KATERIN  | Natalia Golmar                                      |
+|   108405 | PORRO, JOAQUIN                     | Damian Martinelli                                   |
+|    91561 | PRIETO, PABLO ALEJANDRO            | Matias Rotondo                                      |
+|   105167 | REGAZZOLI, IGNACIO                 | Gianmarco Cafferata                                 |
+|   104677 | RIAL, TADEO EZEQUIEL               | Julieta Ponti y Martín Stefanelli                   |
+|   108267 | RODRIGUEZ JUSTO, IGNACIO           | Gianmarco Cafferata                                 |
+|   105318 | RODRIGUEZ, TOMAS GUSTAVO           | Luis Argerich                                       |
+|   103439 | SAGMAN, EMANUEL NICOLAS            | Lucas Waisten                                       |
+|   105637 | SANTANDER, VALENTIN                | Lucas Waisten                                       |
+|   103967 | SCAZZOLA, LARA                     | Matias Fusco y Gabriel Semorile                     |
+|   106403 | SCAZZOLA, MARTIN                   | Natalia Golmar                                      |
+|   102110 | SCHEJTMAN, EZEQUIEL                | Gianmarco Cafferata                                 |
+|    91979 | SEDEK, JORGE IGNACIO               | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
+|    98911 | TEJELO, FERNANDO MARTIN            | Damian Martinelli                                   |
+|    97819 | TORRES, LUCAS GABRIEL              | Gianmarco Cafferata                                 |
+|   103359 | TOSONI MARQUEZ, FRANCO             | Matias Fusco y Gabriel Semorile                     |
