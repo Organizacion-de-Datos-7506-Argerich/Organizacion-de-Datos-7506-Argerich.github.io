@@ -161,7 +161,7 @@ Por sobre el puntaje total del ejercicio (ambos modelos) se restan 3 puntos si c
 |   108485 | MENDAÑA, JOAQUÍN                   | Natalia Golmar                                      |
 |   107164 | MORANDI, FABRIZZIO LEONARDO        | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
 |   106016 | Nicolás Vagó                       | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
-|   104881 | OLANO SOLEY, NICOLÁS GUILLERMO     | Julieta Ponti y Martín Stefanelli                   |
+|   104881 | OLANO SOLEY, NICOLÁS GUILLERMO     | Matias Fusco y Gabriel Semorile                   |
 |        0 | Pablo Serrati                      | Matias Fusco y Gabriel Semorile                     |
 |   103851 | PANACCIO, GUIDO DANIEL             | Luis Argerich                                       |
 |   108891 | PELLEGRINI, ANTONELLA JAZMÍ­N      | Gianmarco Cafferata                                 |
@@ -174,7 +174,7 @@ Por sobre el puntaje total del ejercicio (ambos modelos) se restan 3 puntos si c
 |   105318 | RODRIGUEZ, TOMAS GUSTAVO           | Luis Argerich                                       |
 |   103439 | SAGMAN, EMANUEL NICOLAS            | Lucas Waisten                                       |
 |   105637 | SANTANDER, VALENTIN                | Lucas Waisten                                       |
-|   103967 | SCAZZOLA, LARA                     | Matias Fusco y Gabriel Semorile                     |
+|   103967 | SCAZZOLA, LARA                     | Julieta Ponti y Martín Stefanelli                     |
 |   106403 | SCAZZOLA, MARTIN                   | Natalia Golmar                                      |
 |   102110 | SCHEJTMAN, EZEQUIEL                | Gianmarco Cafferata                                 |
 |    91979 | SEDEK, JORGE IGNACIO               | NIL: Nahuel Spieguelman, Ignacio Argel y Lucas Bilo |
