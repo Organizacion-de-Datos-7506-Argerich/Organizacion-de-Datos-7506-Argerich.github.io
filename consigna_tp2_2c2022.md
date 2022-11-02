@@ -118,6 +118,16 @@ Tienen asignados **1 ejercicio que vale un** <img src="imgs/1c2022/luisito.jpg" 
 
 Utilizamos el promedio del puntaje normalizado de cada kahoot/parcialito para armar un podio. El podio se modificara a medida participen en los Kahoots. El primero recibe dos <img src="imgs/1c2022/luisito.jpg" /> extra y los próximos 4 primeros reciben un <img src="imgs/1c2022/luisito.jpg" /> extra.
 
+|   Padrón | Alumno          |   Spark I |   Spark II |   Spark III |   Spark especial |   Puntos |Premio |
+|---------:|:----------------|----------:|-----------:|------------:|-----------------:|---------:|-------:|
+|   103878 | MEDONE SABATINI |      0.81 |       0.91 |        0.82 |             0.62 | 0.792857 | <img src="imgs/1c2022/luisito.jpg" /><img src="imgs/1c2022/luisito.jpg" />|
+|   105620 | BOUCHARD        |      0.74 |       0.72 |        0.58 |             1    | 0.759831 | <img src="imgs/1c2022/luisito.jpg" />|
+|   107854 | HUTTIN          |      0.63 |       0.75 |        1    |             0.5  | 0.720662 | <img src="imgs/1c2022/luisito.jpg" />|
+|   105190 | BARRETO         |      1    |       0.77 |        0.66 |             0.4  | 0.704921 | <img src="imgs/1c2022/luisito.jpg" />|
+|   106160 | FABREGAS        |      0.86 |       0.94 |        0.34 |             0.53 | 0.665439 | <img src="imgs/1c2022/luisito.jpg" />|
+|    97897 | FERRERO         |      0.66 |       0.64 |        0.64 |             0.65 | 0.645755 |-|
+|   104084 | GRZEGORCZYK     |      0.77 |       0.2  |        0.97 |             0.58 | 0.626133 |-|
+
 ## Criterio de aprobación
 
 El criterio general es que la totalidad del tp tiene que sumar 6 puntos de los 10, es un 60%. Además todas las consignas deben estar desarrolladas, entregando algo en cada una.
