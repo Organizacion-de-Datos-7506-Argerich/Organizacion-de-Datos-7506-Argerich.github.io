@@ -26,6 +26,15 @@ El calendario se irá llenando a medida avance el cuatrimestre.
 |  27-10   |   Machine Learning. El problema de representación. Feature Engineering y casos de estudio  |    [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYf9JstrrlXBf_SSg66aEJQk)     |
 |  31-10   |   Consultas TP3  |    -    |
 |  3-11   |   Machine Learning IV. Deep Learning  |    [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYeMhP2KGFWFHNDesRCyRB5j)    |
+|  7-11   |   NLP II: RNNs, Convs 1D, Word embeddings, Fasttext, Char embeddings |   [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYc3ZKiKx5GJVHc1Qwsejgmx)    |
+|  10-11   |   Reducción de Dimensiones. PCA/SVD - LSI - Autoencoders - TSNE - UMAP. |   [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYeTvoYdNOR9alvMUMfwq-1Z)    |
+|  14-11   |**Entrega TP3 y Reentrega TP2.** | - |
+|  17-11   |   Clustering. Clustering jerárquico. K-Means, K-Means online, K-Means++, Clustering espectral. DBScan y HDBScan. **Enunciado TP4.** |   [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYd6IYbQsMwPSIbDNGsuqByW)    |
+|  21-11   |   FERIADO  |   -    |
+|  24-11   |   Clase especial de ML  |   -    |
+|  28-11   |   Clase especial de ML  |   -    |
+|  1-12   |   Fairness (Presencial)  |   -    |
+|  5-12   |   **Entrega TP4**  |   -    |
 
 ## Clases prácticas grabadas
 
