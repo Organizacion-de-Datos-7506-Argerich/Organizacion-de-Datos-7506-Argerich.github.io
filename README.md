@@ -32,6 +32,7 @@ Este es el sitio que vamos a estar usando durante la cursada 2c2022 de la materi
   * [Externos](externos_tp2_2c2022.md)
 * Enunciado TP3
   * [Regulares y Externos](consigna_tp3_2c2022.md)
+* [Enunciado TP4](consigna_tp4_2c2022.md)
 * [Calendario](calendario_2022_2c.md)
 * [Guías de ejercicios](/guias)
 * [Material y bibliografía](materiales.md)
