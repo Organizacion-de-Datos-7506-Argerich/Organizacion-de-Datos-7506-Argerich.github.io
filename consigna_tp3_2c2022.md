@@ -53,6 +53,16 @@ Estas consignas suman puntos extra por fuera de los necesarios para aprobar el T
 
 Utilizamos el promedio del puntaje normalizado de cada kahoot/parcialito para armar un podio. El podio se modificara a medida participen en los Kahoots. Los 5 primeros reciben un <img src="imgs/1c2022/luisito.jpg" /> extra.
 
+|   Padrón | Alumno         |   ML I |   ML II |   Redes neuronales |   Feature engineering |   Puntos | Premio |
+|---------:|:---------------|------:|-------:|-------------------:|----------------------:|---------:|:--------:|
+|   108298 | CHACON SALEMME |  0.97 |   0.98 |               1    |                  0.67 | 0.906087 |<img src="imgs/1c2022/luisito.jpg" />|
+|   108891 | PELLEGRINI     |  0.93 |   0.73 |               0.77 |                  1    | 0.856541 |<img src="imgs/1c2022/luisito.jpg" />|
+|   104084 | GRZEGORCZYK    |  0.57 |   0.9  |               0.86 |                  0.98 | 0.82853  |<img src="imgs/1c2022/luisito.jpg" />|
+|   105190 | BARRETO        |  0.86 |   0.73 |               0.62 |                  0.85 | 0.763124 |<img src="imgs/1c2022/luisito.jpg" />|
+|   107188 | KIM            |  0.7  |   0.74 |               0.65 |                  0.85 | 0.734401 |<img src="imgs/1c2022/luisito.jpg" />|
+|    97897 | FERRERO        |  1    |   0.74 |               0.57 |                  0.6  | 0.728648 |-|
+|   105620 | BOUCHARD       |  0.76 |   0.99 |               0.43 |                  0.73 | 0.727996 |-|
+
 ## Criterio de corrección
 
 Se necesita un 60% (12/20) de los puntos para aprobar. Los puntos extra permiten sumar por dentro de los 20 (uno se puede sacar hasta 25 pero se sigue aprobando con 12 y el 20 representa un 10).
