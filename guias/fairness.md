@@ -74,6 +74,7 @@ Imagine un ejemplo para cada uno de los casos siguientes que según su propia é
 * Un caso donde lo más justo sea tener un modelo bien calibrado
 * Un caso donde lo más justo sea tener group fairness por tasa de verdaderos positivos
 * Un caso donde crea que es importante la individual fairness
+* Un caso donde es injusto tratar igual a dos grupos
 
 ## Ejercicio 5
 
