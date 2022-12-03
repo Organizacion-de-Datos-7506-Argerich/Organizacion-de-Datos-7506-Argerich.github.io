@@ -75,6 +75,7 @@ Imagine un ejemplo para cada uno de los casos siguientes que según su propia é
 * Un caso donde lo más justo sea tener group fairness por tasa de verdaderos positivos
 * Un caso donde crea que es importante la individual fairness
 * Un caso donde es injusto tratar igual a dos grupos
+* Una variable que es proxy del poder adquisitivo de una persona pero que también aporta valor predictivo a la tarea que el modelo quiere realizar
 
 ## Ejercicio 5
 
