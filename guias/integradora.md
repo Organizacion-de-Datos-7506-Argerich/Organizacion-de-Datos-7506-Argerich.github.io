@@ -25,61 +25,104 @@ En cada una de las siguientes situaciones completar con el nombre de algún/algu
 
 En cada punto marcar todas las opciones correctas (puede ser una, todas o ninguna).
 
-¿En qué tipo de modelo de Machine Learning tiene sentido agregar una nueva columna que sea el logaritmo de una columna existente?
+* ¿En qué tipo de modelo de Machine Learning tiene sentido agregar una nueva columna que sea el logaritmo de una columna existente?
+
 `[ ]`  Xgboost
+
 `[ ]`  Random Forests
+
 `[ ]`  Redes Neuronales
+
 `[ ]`  KNN
 
-¿En Apache Spark si queremos reusar un RDD en varios cómputos que tipo de instrucción deberíamos usar?
+* ¿En Apache Spark si queremos reusar un RDD en varios cómputos que tipo de instrucción deberíamos usar?
+
 `[ ]`  collect
+
 `[ ]`  persist
+
 `[ ]`  broadcast
+
 `[ ]`  cache
+
 `[ ]`  reduceByKey
 
-¿Qué tipo de visualización es adecuada para comparar un grupo pequeño de registros en 10 dimensiones?
+* ¿Qué tipo de visualización es adecuada para comparar un grupo pequeño de registros en 10 dimensiones?
+
 `[ ]`  Scatter Plot
+
 `[ ]`  Radar Chart
+
 `[ ]`  Barplot
+
 `[ ]`  Piechart
+
 `[ ]`  ViolinPlot
+
 `[ ]`  Histograma
 
-En Pandas si queremos calcular la diferencia entre el precio de un producto y el precio promedio de los productos en la misma categoría. ¿Qué tipo de operación deberíamos usar?
+*En Pandas si queremos calcular la diferencia entre el precio de un producto y el precio promedio de los productos en la misma categoría. ¿Qué tipo de operación deberíamos usar?
+
 `[ ]`  groupby y agg
+
 `[ ]`  applymap
+
 `[ ]`  apply
+
 `[ ]`  groupby y transform
+
 `[ ]`  groupby y ngreatest
+
 `[ ]`  map
 
-¿Cuáles de las siguientes opciones ayudaría a combatir un problema de overfitting en Machine Learning?
+* ¿Cuáles de las siguientes opciones ayudaría a combatir un problema de overfitting en Machine Learning?
+
 `[ ]`  Tener un set de datos con más registros
+
 `[ ]`  Usar regularización
+
 `[ ]`  Eliminar las variables categóricas
+
 `[ ]`  Tener un set de test más grande
+
 `[ ]`  Agregar más features
+
 `[ ]`  Normalizar los features
 
-Un modelo con buen score contra el set de validación y mal score contra el set de test podría ser síntoma de:
+* Un modelo con buen score contra el set de validación y mal score contra el set de test podría ser síntoma de:
+
 `[ ]`  Underfitting
+
 `[ ]`  Overfitting
+
 `[ ]`  Set de validación sesgado
+
 `[ ]`  Set de test sesgado
 
-Si tenemos 5000 registros en 200 dimensiones y desconocemos la cantidad de clusters. ¿Cuál sería un buen algoritmo de clustering para aplicar?
+* Si tenemos 5000 registros en 200 dimensiones y desconocemos la cantidad de clusters. ¿Cuál sería un buen algoritmo de clustering para aplicar?
+
 `[ ]`  Kmeans
+
 `[ ]`  DBScan
+
 `[ ]`  Clustering jerárquico
+
 `[ ]`  Clustering espectral
+
 `[ ]`  t-SNE
 
-¿Cuáles de las siguientes afirmaciones son ciertas para el algoritmo de Random Forests en Machine Learning?
+* ¿Cuáles de las siguientes afirmaciones son ciertas para el algoritmo de Random Forests en Machine Learning?
+
 `[ ]`  Se aplica el concepto de bagging
+
 `[ ]`  Se aplica el concepto de boosting
+
 `[ ]`  No sirven para regresiones
+
 `[ ]`  A mayor cantidad de árboles más probable es que generen overfitting
+
 `[ ]`  Carece de fase de entrenamiento
+
 `[ ]`  El único hiper-parametro es la cantidad de árboles a usar
+
 `[ ]`  Es un caso de ensamble

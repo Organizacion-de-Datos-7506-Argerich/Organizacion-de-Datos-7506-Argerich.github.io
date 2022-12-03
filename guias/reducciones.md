@@ -18,7 +18,11 @@ Reducimos la cáscara 3D de una banana (solo puntos de la cáscara, no el volume
 
 
 `[ ]`  A y C de SVD; D de uMAP
+
 `[ ]`  B y C de SVD; A y D de uMAP
+
 `[ ]`  A y D de PCA; B de t-SNE
+
 `[ ]`  A, C y D de ISOMAP; B de PCA
+
 `[ ]`  B y C de SVD; A y D de PCA
