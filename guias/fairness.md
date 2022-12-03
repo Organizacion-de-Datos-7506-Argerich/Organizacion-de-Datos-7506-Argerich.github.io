@@ -59,11 +59,11 @@ Dibuje la curva de calibración y la curva ideal que debería seguir si estuvier
 
 `[ ]`  En el contexto de COMPAS no se pueden igualar la calibración y la tasa de falsos positivos
 
-`[ ]`  Un modelo insesgado es tambien justo
+`[ ]`  Un modelo insesgado es también justo
 
-`[ ]`  Un modelo calibrado es tambien justo
+`[ ]`  Un modelo calibrado es también justo
 
-`[ ]`  Un modelo que trate a todos los grupos de igual forma es tambien justo
+`[ ]`  Un modelo que trate a todos los grupos de igual forma es también justo
 
 ## Ejercicio 4
 
