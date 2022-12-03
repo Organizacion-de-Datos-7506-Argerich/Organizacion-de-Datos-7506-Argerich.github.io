@@ -16,3 +16,4 @@ Esta sección esta en constante construcción y mejora. Las guías son una forma
 * [Reducción de dimensiones](reducciones.md)
 * [Clustering](clustering.md)
 * [Fairness](fairness.md)
+* [Integradora](integradora.md)
