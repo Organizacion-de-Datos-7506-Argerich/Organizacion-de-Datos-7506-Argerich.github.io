@@ -27,3 +27,12 @@ D5: news of organic food campaign campaign campaign campaign
 ```
 
 Si nuestra consulta es "news about presidential campaign" y usamos TF-IDF: Calcule los vectores de cada documento y de la consulta y encuentre el documento más cercano. ¿Cómo cambia usando CountVectorizer?
+
+## Ejercicio 3
+
+Se realiza un proceso de normalización para las palabras de un texto, dadas las siguientes transformaciones indique si son producto de stemming, de lemmatization o de ambas:
+
+* puertas -> puerta
+* corromper -> corromp
+* altitudes -> altitud
+* delta -> delta
