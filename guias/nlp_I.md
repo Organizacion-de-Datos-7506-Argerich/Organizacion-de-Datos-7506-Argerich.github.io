@@ -12,7 +12,7 @@ Dada la siguiente tabla de Count Vectorizer:
 
 
 Devolver el documento que menos distancia coseno tenga con la query:
-"Police officer accidentaly discharge their gun while eating a donut. Car survives."
+"Police officer accidentally discharge their gun while eating a donut. Car survives."
 
 ## Ejercicio 2
 
