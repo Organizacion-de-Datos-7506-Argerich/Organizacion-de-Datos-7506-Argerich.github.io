@@ -30,7 +30,7 @@ Este es el sitio que vamos a estar usando durante la cursada 2c2022 de la materi
   * Pending
 * Enunciado TP3
   * Pending
-* [Calendario](calendario_2023_21.md)
+* [Calendario](calendario_2023_1c.md)
 * [Guías de ejercicios](/guias)
 * [Material y bibliografía](materiales.md)
 * [Temario](temario.md)
