@@ -2,9 +2,8 @@ Este es el sitio que vamos a estar usando durante la cursada 2c2022 de la materi
 
 ## Cuerpo docente
 
-* Luis Argerich
-* Natalia Golmar
 * Damián Martinelli
+* Natalia Golmar
 * Gianmarco Cafferata
 * Hige
 * Ignacio Argel
@@ -20,23 +19,21 @@ Este es el sitio que vamos a estar usando durante la cursada 2c2022 de la materi
 * Gabriel Semorile
 * Juan Pablo Fresia
 * Carlos Martin Stefanelli
+* Antonella Pellegrini
 
 ## Links
 
 * [Diapositiva administrativa](https://docs.google.com/presentation/d/1prAyHAnFvvRAhCbUXxctB1uHa48u3uQkwsOwya3T71o/edit#slide=id.g71523c761a_2_309)
 * Enunciado TP1
-  * [Regulares](consigna_tp1_2c2022.md)
-  * [Externos](externos_tp1_1c2022.md)
+  * Pending
 * Enunciado TP2
-  * [Regulares](consigna_tp2_2c2022.md)
-  * [Externos](externos_tp2_2c2022.md)
+  * Pending
 * Enunciado TP3
-  * [Regulares y Externos](consigna_tp3_2c2022.md)
-* [Enunciado TP4](consigna_tp4_2c2022.md)
-* [Calendario](calendario_2022_2c.md)
+  * Pending
+* [Calendario](calendario_2023_21.md)
 * [Guías de ejercicios](/guias)
 * [Material y bibliografía](materiales.md)
 * [Temario](temario.md)
 * Algunos trabajos anteriores
   * [Visualizaciones destacadas](visualizaciones.md)
-  * [Presentaciones TP4](tps4.md)
+  * [Presentaciones TP3](tps4.md)
