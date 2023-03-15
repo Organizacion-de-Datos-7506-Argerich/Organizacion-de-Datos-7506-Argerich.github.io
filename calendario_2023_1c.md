@@ -31,9 +31,9 @@ El calendario se irá llenando a medida avance el cuatrimestre.
 |  5-6   |   Reducción de Dimensiones. PCA/SVD - LSI - Autoencoders - TSNE - UMAP. |   [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYeTvoYdNOR9alvMUMfwq-1Z)    |
 |  8-6   |**Entrega TP2 y Reentrega TP1.** | - |
 |  12-6   |   Clustering. Clustering jerárquico. K-Means, K-Means online, K-Means++, Clustering espectral. DBScan y HDBScan. **Enunciado TP3.** |   [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYd6IYbQsMwPSIbDNGsuqByW)    |
-|  16-6   |   Clase especial de ML  |   -    |
-| 19-6 | FERIADO   
-|  23-6   |   Clase especial de ML. **Entrega TP3 y Reentrega TP2.**  |   -    |
+|  15-6   |   Clase especial de ML  |   -    |
+|  19-6 | FERIADO   
+|  22-6   |   Clase especial de ML. **Entrega TP3 y Reentrega TP2.**  |   -    |
 |  26-6   |   Fairness (Presencial)  |   -    |
 |  29-6   |   Clase consultas de final  |   -    |
 
