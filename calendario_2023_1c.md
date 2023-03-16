@@ -2,9 +2,9 @@
 
 El calendario se irá llenando a medida avance el cuatrimestre.
 
-| Día | Tema | Teórica |
-|-----|------|---------|
-| 13-3 | Administrativa, Introducción a Data Science, Introducción a Big Data, Tipos de Datos. |[Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYevnuxYBfrvQ32zJJE2--Y4)|
+| Día | Tema | Teórica | Practica |
+|-----|------|---------|----------|
+| 13-3 | Administrativa, Introducción a Data Science, Introducción a Big Data, Tipos de Datos. |[Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYevnuxYBfrvQ32zJJE2--Y4)|[Grabacion](https://www.youtube.com/watch?v=3vdwMOOhItU&list=PLeo_qKwGPZYe6N-fV1KigfJ9f7YYOpphR&index=1)
 | 16-3 | DataFrames. Análisis Exploratorio de Datos, Introducción a Pandas.                             |[Playlist](https://youtube.com/playlist?list=PLeo_qKwGPZYcRxxR-GNmBcLbujTieWpQQ)|
 | 20-3 | Visualización de datos |[Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYf-OzcYqlPIJdU1AHQYb3Ga)|
 | 23-3 | DataFrames. Análisis Exploratorio de Datos, Pandas Avanzado. El paradigma split-apply-combine. **Enunciado TP1** |[Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYf9d23qU6_t6hl7ufyfclyW)|
