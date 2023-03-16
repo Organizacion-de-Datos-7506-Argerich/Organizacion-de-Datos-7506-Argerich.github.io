@@ -39,4 +39,4 @@ El calendario se irá llenando a medida avance el cuatrimestre.
 
 ## Clases prácticas grabadas
 
-Puede accederse en [está lista](https://www.youtube.com/playlist?list=PLeo_qKwGPZYeTMIPscw8qjeOIXJM414th). En la descripción de cada video hay un link a los notebooks.
+Puede accederse en [está lista](https://www.youtube.com/playlist?list=PLeo_qKwGPZYe6N-fV1KigfJ9f7YYOpphR). En la descripción de cada video hay un link a los notebooks.
