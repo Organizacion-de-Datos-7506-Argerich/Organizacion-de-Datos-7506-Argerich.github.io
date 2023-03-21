@@ -2,6 +2,15 @@
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset="UTF-8">
+      <style>
+          th:first-child, td:first-child {
+              white-space: nowrap;
+          }
+
+          th:not(:first-child), td:not(:first-child) {
+              word-wrap: break-word;
+          }
+      </style>
 
 {% seo %}
     <link rel="preconnect" href="https://fonts.gstatic.com">
