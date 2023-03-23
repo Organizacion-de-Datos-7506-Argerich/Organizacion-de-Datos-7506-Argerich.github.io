@@ -24,8 +24,7 @@ Este es el sitio que vamos a estar usando durante la cursada 2c2022 de la materi
 ## Links
 
 * [Diapositiva administrativa](https://docs.google.com/presentation/d/1prAyHAnFvvRAhCbUXxctB1uHa48u3uQkwsOwya3T71o/edit#slide=id.g71523c761a_2_309)
-* Enunciado TP1
-  * Pending
+* [Enunciado TP1](consigna_tp1_1c2023.md)
 * Enunciado TP2
   * Pending
 * Enunciado TP3
