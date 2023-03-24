@@ -22,6 +22,7 @@ Tabla con datos de todos los contenidos de Wikipedia en su versión más recient
 
 
 ## contents\_text\_sample.csv
+
 Tiene una muestra aleatoria del 5% de los contenidos de texto de wikipedia
 
 
@@ -29,6 +30,8 @@ Tiene una muestra aleatoria del 5% de los contenidos de texto de wikipedia
 | :- | :- |
 |title|Título del contenido|
 |text|Texto|
+
+
 ## geo\_tags.csv
 
 
@@ -44,8 +47,9 @@ Tiene una muestra aleatoria del 5% de los contenidos de texto de wikipedia
 |gt\_name|Nombre|
 |gt\_country|País|
 |gt\_region|Región|
-##
+
 ## logs.csv
+
 Todo el log de acciones realizadas.
 
 
@@ -59,7 +63,9 @@ Todo el log de acciones realizadas.
 |logtype|Tipo de log|
 |action|Acción realizada|
 |title|Título del log|
+
 ## languages.csv
+
 Contiene información sobre qué idiomas habla cada usuario
 
 
