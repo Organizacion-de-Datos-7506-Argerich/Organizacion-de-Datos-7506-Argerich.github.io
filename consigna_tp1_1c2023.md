@@ -107,7 +107,7 @@ Tabla con links que van de una página interna a otra. Es una muestra de dos ter
 |pl\_title|Título del contenido al cual va el link|
 |pl\_from\_namespace|🤷|
 
-##
+
 ## Realizar [sus correspondientes consultas](https://docs.google.com/spreadsheets/d/110x9tu8a9C2Af5PLCmL4iQfHml2ocbvSr-XiFSqGNtA/edit?usp=sharing) en Pandas
 1. Para el usuario que más versiones actuales de contenido de wikipedia editó, calcule la fecha promedio, mínima y máxima en que lo hizo (⭐)
 1. Qué porcentaje de las versiones actuales son páginas que se editaron una sola vez (⭐)
