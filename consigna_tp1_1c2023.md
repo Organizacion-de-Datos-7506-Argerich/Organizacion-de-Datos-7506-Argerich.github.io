@@ -295,7 +295,15 @@ Se aprueba la reentrega si todos los puntos tienen al menos la mitad de los punt
 
 Formato de la entrega
 
-La entrega debe subirse a la plataforma **Gradescope**. Para hacerlo, deben generar un usuario en gradescope.com y buscar la asignación correspondiente al TP1. En youtube pueden encontrar un video mostrando cómo ingresar por primera vez a gradescope <https://www.youtube.com/watch?v=zHYJoCgzDOw> (solo deben utilizar el código de este cuatrimestre: Entry Code: **N8RG22**, el resto es igual). A la plataforma deben subir un único PDF con un link a el/los notebooks con la resolución de cada uno de los puntos de Pandas o Spark (por favor no incluir código en el pdf) y las visualizaciones pedidas (las visualizaciones si deben incluirlas en el documento, para la visu original no es necesario incluir código, solo la imagen)
+La entrega debe subirse a la plataforma **Gradescope**. 
+
+Para hacerlo, deben generar un usuario en gradescope.com y buscar la asignación correspondiente al TP1. 
+
+En youtube pueden encontrar un video mostrando cómo ingresar por primera vez a gradescope <https://www.youtube.com/watch?v=zHYJoCgzDOw> (solo deben utilizar el código de este cuatrimestre: Entry Code: **N8RG22**, el resto es igual). 
+
+A la plataforma deben subir un único PDF con un link a el/los notebooks con la resolución de cada uno de los puntos de Pandas o Spark (por favor no incluir código en el pdf) y las visualizaciones pedidas (las visualizaciones si deben incluirlas en el documento, para la visu original no es necesario incluir código, solo la imagen).
+
+Pueden ver como es el formato de entrega [acá](https://docs.google.com/document/d/1me1ua4FMUtySkQOoN77QVI-4YCN--fn6KZkLmS7InaM/).
 
 ## **Puntos extra (hasta tres** ⭐**)**
 Utilizamos el promedio del puntaje normalizado de cada kahoot/parcialito para armar un podio. El podio se modificara a medida participen en los Kahoots. Quien esté primero recibira tres ⭐, quienes estén segundos o terceros recibiran dos ⭐ extra. Quienes estén en cuarto y quinto puesto un ⭐ extra.
