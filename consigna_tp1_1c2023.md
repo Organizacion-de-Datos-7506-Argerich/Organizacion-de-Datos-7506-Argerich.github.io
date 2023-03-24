@@ -426,7 +426,8 @@ Utilizamos el promedio del puntaje normalizado de cada kahoot/parcialito para ar
 |106129|VETRANO, IGNACIO EZEQUIEL|36, 16, 20, 41|3, 31, 20, 6|
 |106930|VIAU, IGNACIO|31, 13, 28, 40|2, 29, 12, 5|
 |97023|YBARRA ESCALANTE, DIEGO EMANUEL|32, 47, 23, 52|1, 32, 39, 4|
-
+|101656|Del Pozo, Francisco Marcelo|4, 10, 28, 46|3, 12, 36, 4|
+|102912|Pucci Romero, Tobias|26, 30, 16, 48|13, 15, 29, 38|
 
 
 
