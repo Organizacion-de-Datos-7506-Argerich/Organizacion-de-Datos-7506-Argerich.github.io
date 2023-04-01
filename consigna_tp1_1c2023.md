@@ -5,9 +5,9 @@ Utilizamos el dump Wikipedia Español [al día 01/09](https://dumps.wikimedia.or
 ## contents.csv
 Tabla con datos de todos los contenidos de Wikipedia en su versión más reciente.
 
-
-|title|Título del contenido|
+| Campo | Descripcion |
 | :- | :- |
+|title|Título del contenido|
 |id|Identificador único del contenido|
 |namespace|🤷|
 |revision\_id|Id de la última revisión realizada|
@@ -25,18 +25,18 @@ Tabla con datos de todos los contenidos de Wikipedia en su versión más recient
 
 Tiene una muestra aleatoria del 5% de los contenidos de texto de wikipedia
 
-
-|id|Id del contenido|
+| Campo | Descripcion |
 | :- | :- |
+|id|Id del contenido|
 |title|Título del contenido|
 |text|Texto|
 
 
 ## geo\_tags.csv
 
-
-|gt\_id|Id del geo tag|
+| Campo | Descripcion |
 | :- | :- |
+|gt\_id|Id del geo tag|
 |gt\_page\_id|Id del contenido al que corresponde|
 |gt\_globe|En qué globo se encuentra|
 |gt\_primary|🤷|
@@ -52,9 +52,9 @@ Tiene una muestra aleatoria del 5% de los contenidos de texto de wikipedia
 
 Todo el log de acciones realizadas.
 
-
-|item\_id|ID del item afectado|
+| Campo | Descripcion |
 | :- | :- |
+|item\_id|ID del item afectado|
 |timestamp|Timestamp del log|
 |contributor\_username|Username que realizó la acción|
 |contributor\_id|ID del user que realizó la acción|
@@ -68,18 +68,18 @@ Todo el log de acciones realizadas.
 
 Contiene información sobre qué idiomas habla cada usuario
 
-
-|babel\_user|User id|
+| Campo | Descripcion |
 | :- | :- |
+|babel\_user|User id|
 |babel\_lang|Código de idioma (ISO 639-2)|
 |babel\_level|[Nivel](https://en.wikipedia.org/wiki/Wikipedia:Babel/Levels) en el lenguaje|
 
 ## redirect\_list.csv
 Algunos de los contenidos de Wikipedia son redirecciones a otros contenidos, esta tabla contiene esa información.
 
-
-|rd\_from|ID del contenido que redirige|
+| Campo | Descripcion |
 | :- | :- |
+|rd\_from|ID del contenido que redirige|
 |rd\_namespace|🤷|
 |rd\_title|Título del contenido al que redirige|
 |rd\_interwiki|🤷|
@@ -87,9 +87,9 @@ Algunos de los contenidos de Wikipedia son redirecciones a otros contenidos, est
 
 ## categorylinks.csv
 
-
-|cl\_from|ID del contenido|
+| Campo | Descripcion |
 | :- | :- |
+|cl\_from|ID del contenido|
 |cl\_to|Categoría a la que pertenece el contenido|
 |cl\_sortkey|🤷|
 |cl\_timestamp|Timestamp de la asociación de la categoría|
@@ -100,9 +100,9 @@ Algunos de los contenidos de Wikipedia son redirecciones a otros contenidos, est
 ## pagelinks\_sample.csv
 Tabla con links que van de una página interna a otra. Es una muestra de dos tercios.
 
-
-|pl\_from|ID del contenido donde está el link|
+| Campo | Descripcion |
 | :- | :- |
+|pl\_from|ID del contenido donde está el link|
 |pl\_namespace|🤷|
 |pl\_title|Título del contenido al cual va el link|
 |pl\_from\_namespace|🤷|
