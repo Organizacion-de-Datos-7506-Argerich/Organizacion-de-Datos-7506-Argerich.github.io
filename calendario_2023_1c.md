@@ -12,7 +12,7 @@ El calendario se irá llenando a medida avance el cuatrimestre.
 | 30-3 | NLP I: Parsing, TF-IDF, Bag of Words, Pre-procesamiento, stop words, stemming, lematización.|[Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYfkL8tu3Mg3_5xb1UYGvjWH)| [Grabacion](https://youtu.be/Xtq0J5tHhpE)
 | 3-4 | Compresión e IA: Compresión sin pérdida, Complejidad de Kolmogorov, Teoría de la información, Inducción de Solomonoff, Compresión con pérdida.                                                                                                |[Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYfKGWLlVG8J86OzRgJ8NLcJ)| [Grabacion](https://www.youtube.com/watch?v=CSRXSMgTcBM)
 | 6-4 | FERIADO                                                                   |-|
-| 10-4 | Clase especial de visualizaciones                                                              | - |
+| 10-4 | Clase especial de visualizaciones                                                              | - | [Grabacion](https://www.youtube.com/watch?v=KbiY3SKwZek)
 | 13-4 | Consulta TP1 Pandas                                                                                   | - |
 | 17-4 | Spark I.                                                                     |[Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYck1nRMGJFeWIN2W5IrxoLO)|
 | 20-4 | Spark II.                                                                   |[Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYeu_JRN8eQgzJUfaXUrhsk2)|
