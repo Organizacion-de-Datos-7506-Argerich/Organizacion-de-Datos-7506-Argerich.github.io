@@ -14,8 +14,8 @@ El calendario se irá llenando a medida avance el cuatrimestre.
 | 6-4 | FERIADO                                                                   |-|
 | 10-4 | Clase especial de visualizaciones                                                              | - | [Grabacion](https://www.youtube.com/watch?v=KbiY3SKwZek)
 | 13-4 | Consulta TP1 Pandas                                                                                   | - |
-| 17-4 | Spark I.                                                                     |[Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYck1nRMGJFeWIN2W5IrxoLO)|
-| 20-4 | Spark II.                                                                   |[Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYeu_JRN8eQgzJUfaXUrhsk2)|
+| 17-4 | Spark I.                                                                     |[Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYck1nRMGJFeWIN2W5IrxoLO)| [Grabacion](https://www.youtube.com/watch?v=5-8mGM_LfdY)
+| 20-4 | Spark II.                                                                   |[Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYeu_JRN8eQgzJUfaXUrhsk2)| [Grabacion](https://www.youtube.com/watch?v=7RZKseBUDbk)
 | 24-4 | FERIADO                                                                   |-|
 | 27-4 | Spark III.                                                                   |-|
 | 1-5 | FERIADO                                                                   |-|
