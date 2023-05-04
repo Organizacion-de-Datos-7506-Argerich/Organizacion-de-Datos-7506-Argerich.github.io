@@ -190,14 +190,14 @@ Realizar tres visualizaciones que expliquen la variable a predecir conteniendo l
 ## Tercera parte: Spark (8 ptos)
 
 ## Realizar [sus correspondientes consultas](https://docs.google.com/spreadsheets/d/110x9tu8a9C2Af5PLCmL4iQfHml2ocbvSr-XiFSqGNtA/edit?usp=sharing) en Spark
-1. Considerando los logs de acciones realizadas sobre ítems, mostrar el top 10 de ids de ítems que fueron afectados por mayor cantidad usuarios distintos (⭐)
+1. Considerando los logs de acciones realizadas sobre ítems, mostrar el top 10 de titulos de ítems que fueron afectados por mayor cantidad usuarios distintos (⭐)
 1. Considerando los logs de acciones realizadas sobre ítems, mostrar el top 10 de títulos de ítems que fueron afectados por mayor cantidad de usuarios no registrados (⭐)
 1. Realizar un análisis de stopwords del contenido de texto de la Wikipedia. En este punto esperamos que analicen, dada la frecuencia de los términos que hay en la wikipedia cuales deberian ser considerados stop words. (⭐)
 1. Considerando el pagelink\_sample.csv representar como un grafo en Spark los contenidos de wikipedia (considerando los contenidos como nodos y los links como aristas) como una lista de aristas y mostrar un recorrido en la estructura. 
    (⭐⭐⭐)
 1. Considerando el pagelink\_sample.csv representar como un grafo en Spark los contenidos de wikipedia (considerando los contenidos como nodos y los links como aristas) como una lista de adyacencia y mostrar un recorrido en la estructura. 
    (⭐⭐⭐)
-1. Considerando el pagelink\_sample.csv, usando una representación de grafos realizar una función genérica que nos permita calcular los contenidos que se encuentran a un grado de separación de cualquier identificador de contenido de la wikipedia. Mostrar el funcionamiento de la implementación con algún contenido incluido en el set de datos (⭐⭐⭐)
+1. Considerando el pagelink\_sample.csv, usando una representación de grafos realizar una función genérica que nos permita calcular los contenidos que se encuentran a un grado de separación (el siguiente del vecino) de cualquier identificador de contenido de la wikipedia. Mostrar el funcionamiento de la implementación con algún contenido incluido en el set de datos (⭐⭐⭐)
 1. Considerando el pagelink\_sample.csv, usando una representación de grafos realizar una función genérica que nos permita calcular la centralidad de un contenido cualquiera de la wikipedia mediante random walks. Mostrar el funcionamiento de la implementación con algún contenido incluido en el set de datos (⭐⭐⭐)
 1. Considerando el pagelink\_sample.csv, usando una representación de grafos obtener aquellos contenidos que tienen “relaciones no correspondidas”. Entendemos como funciona una relación correspondida con un ejemplo: Si el contenido A tiene un link al B, pero B no tiene un link a A, podemos decir que B tiene una relación no correspondida con A. (⭐⭐⭐)}
 1. Mostrar de forma eficiente el tercer trigrama que tiene mayor frecuencia en los títulos de los contenidos de la wikipedia (⭐⭐)
