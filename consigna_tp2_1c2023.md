@@ -2,8 +2,8 @@
 
 ## Dataset a usar
 
-El dataset a usar es el extraído de los experimentos realizados en [este paper](https://www.nature.com/articles/s41598-021-87602-3) sobre la predicción de si un hongo es comestible o no.
-El dataset se encuentra disponible en https://archive.ics.uci.edu/ml/datasets/Secondary+Mushroom+Dataset/ (utilizar secondary data).
+El dataset a usar es el extraído de los experimentos realizados en el paper [Mushroom data creation, curation, and simulation to support classification tasks](https://www.nature.com/articles/s41598-021-87602-3) sobre la predicción de si un hongo es comestible o no.
+El dataset se encuentra disponible en [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Secondary+Mushroom+Dataset/) (utilizar secondary data).
 En el paper citado y en el sitio para descargar el dataset se explica qué es cada feature.
 El objetivo del TP es explicar y predecir la variable `class`, que vale `p`, si el hongo es venenoso (poisonous), o `e`, si el hongo es comestible (edible).
 
