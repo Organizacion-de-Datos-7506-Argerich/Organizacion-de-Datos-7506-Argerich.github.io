@@ -1,4 +1,4 @@
-Este es el sitio que vamos a estar usando durante la cursada 2c2022 de la materia Organización de Datos de la cátedra Argerich.
+Este es el sitio que vamos a estar usando durante la cursada 1c2023 de la materia Organización de Datos de la cátedra Martinelli.
 
 ## Cuerpo docente
 
@@ -25,8 +25,7 @@ Este es el sitio que vamos a estar usando durante la cursada 2c2022 de la materi
 
 * [Diapositiva administrativa](https://docs.google.com/presentation/d/1prAyHAnFvvRAhCbUXxctB1uHa48u3uQkwsOwya3T71o/edit#slide=id.g71523c761a_2_309)
 * [Enunciado TP1](consigna_tp1_1c2023.md)
-* Enunciado TP2
-  * Pending
+* [Enunciado TP2](consigna_tp2_1c2023.md)
 * Enunciado TP3
   * Pending
 * [Calendario](calendario_2023_1c.md)
