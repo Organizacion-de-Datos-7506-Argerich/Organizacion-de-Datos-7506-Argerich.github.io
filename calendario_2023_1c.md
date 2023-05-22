@@ -22,8 +22,8 @@ El calendario se irá llenando a medida avance el cuatrimestre.
 | 4-5 | Consultas TP1 Spark                                                             |-|
 | 8-5 | Clase especial Spark - **Entrega TP1**                                      |-|
 |  11-5   |   Machine Learning. Teoría de Machine Learning. Clasificación y Regresión. Linear y Logistic Regression. KNN. **Enunciado TP2**  |    [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYesnp_BG0RejQCfHnlthj-5)     | [Grabacion](https://www.youtube.com/watch?v=SY61b-WKsmc)
-|  15-5   |   Machine Learning. Árboles  |    [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYeJQb-M1nE_cnj43uOKZtf2)     |
-|  18-5   |   Machine Learning. El problema de representación. Feature Engineering y casos de estudio  |    [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYf9JstrrlXBf_SSg66aEJQk)     |
+|  15-5   |   Machine Learning. Árboles  |    [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYeJQb-M1nE_cnj43uOKZtf2)     | [Grabacion](https://www.youtube.com/watch?v=METVNpLmtyQ)
+|  18-5   |   Machine Learning. El problema de representación. Feature Engineering y casos de estudio  |    [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYf9JstrrlXBf_SSg66aEJQk)     | [Grabacion](https://www.youtube.com/watch?v=2mU9vDWYHhc) 
 |  22-5   |   Machine Learning IV. Deep Learning  |    [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYeMhP2KGFWFHNDesRCyRB5j)    |
 | 25-5 | FERIADO   
 |  29-5   |   Consultas TP2  |    -    |
