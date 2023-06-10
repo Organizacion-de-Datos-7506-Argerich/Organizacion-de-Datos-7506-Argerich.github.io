@@ -27,8 +27,8 @@ El calendario se irá llenando a medida avance el cuatrimestre.
 |  22-5   |   Machine Learning IV. Deep Learning  |    [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYeMhP2KGFWFHNDesRCyRB5j)    | [Grabacion](https://www.youtube.com/watch?v=eIHBL6L1QOY)
 | 25-5 | FERIADO   
 |  29-5   |   Consultas TP2  |    -    | [Grabacion](https://www.youtube.com/watch?v=WnOQgYbZEtU)
-|  1-6   |   NLP II: RNNs, Convs 1D, Word embeddings, Fasttext, Char embeddings |   [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYc3ZKiKx5GJVHc1Qwsejgmx)    |
-|  5-6   |   Clustering. Clustering jerárquico. K-Means, K-Means online, K-Means++, Clustering espectral. DBScan y HDBScan|   [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYd6IYbQsMwPSIbDNGsuqByW)     |
+|  1-6   |   NLP II: RNNs, Convs 1D, Word embeddings, Fasttext, Char embeddings |   [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYc3ZKiKx5GJVHc1Qwsejgmx)    | [Grabacion](https://www.youtube.com/watch?v=x2nEgxgT5Ww)
+|  5-6   |   Clustering. Clustering jerárquico. K-Means, K-Means online, K-Means++, Clustering espectral. DBScan y HDBScan|   [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYd6IYbQsMwPSIbDNGsuqByW)     | [Grabacion](https://www.youtube.com/watch?v=pcvpzqKqPuU)
 |  8-6   |**Entrega TP2 y Reentrega TP1.** | - |
 |  12-6   |   Reducción de Dimensiones. PCA/SVD - LSI - Autoencoders - TSNE - UMAP. **Enunciado TP3.** |  [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYeTvoYdNOR9alvMUMfwq-1Z)    |
 |  15-6   |   Clase especial de ML  |   -    |
