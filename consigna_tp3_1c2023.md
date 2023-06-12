@@ -1,4 +1,4 @@
-# TP4 - Machine Learning II
+# TP3 - Machine Learning II
 
 ## Modalidad del TP
 
@@ -21,7 +21,7 @@ Se le preguntara si da permiso para compartir el video, de aceptar le pedimos lo
 
 ## Criterio de evaluación
 
-La nota es a criterio del equipo docente donde todos serán correctores de todo (promediando el puntaje de varios), sobre una base de 2 puntos como máximo que sumarán de forma directa al promedio que se tenga en la materia. Por ejemplo, si su promedio de cursada es 8.75 y saca 1.5 puntos en el TP4 su promedio de cursada es 10.25.
+La nota es a criterio del equipo docente donde todos serán correctores de todo (promediando el puntaje de varios), sobre una base de 2 puntos como máximo que sumarán de forma directa al promedio que se tenga en la materia. Por ejemplo, si su promedio de cursada es 8.75 y saca 1.5 puntos en el TP3 su promedio de cursada es 10.25.
 
 ## Correctores y consultas
 

@@ -26,8 +26,7 @@ Este es el sitio que vamos a estar usando durante la cursada 1c2023 de la materi
 * [Diapositiva administrativa](https://docs.google.com/presentation/d/1prAyHAnFvvRAhCbUXxctB1uHa48u3uQkwsOwya3T71o/edit#slide=id.g71523c761a_2_309)
 * [Enunciado TP1](consigna_tp1_1c2023.md)
 * [Enunciado TP2](consigna_tp2_1c2023.md)
-* Enunciado TP3
-  * Pending
+* [Enunciado TP3](consigna_tp3_1c2023.md)
 * [Calendario](calendario_2023_1c.md)
 * [Guías de ejercicios](/guias)
 * [Material y bibliografía](materiales.md)
