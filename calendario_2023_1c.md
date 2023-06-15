@@ -32,10 +32,10 @@ El calendario se irá llenando a medida avance el cuatrimestre.
 |  8-6   |**Entrega TP2 y Reentrega TP1.** | - |
 |  12-6   |   Reducción de Dimensiones. PCA/SVD - LSI - Autoencoders - TSNE - UMAP. **Enunciado TP3.** |  [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYeTvoYdNOR9alvMUMfwq-1Z)    | [Grabacion](https://youtu.be/4lnk83GWuC0)
 |  15-6   |   Clase especial de ML  |   -    |
-|  19-6 | FERIADO   
-|  22-6   |   Clase especial de ML. **Entrega TP3 y Reentrega TP2.**  |   -    |
+|  19-6 | FERIADO
+|  22-6   |   Clase especial de ML. **Entrega TP3.**  |   -    |
 |  26-6   |   Fairness (Presencial)  |   -    |
-|  29-6   |   Clase consultas de final  |   -    |
+|  29-6   |   Clase consultas de final. **Reentrega TP2.**  |   -    |
 
 ## Clases prácticas grabadas
 
