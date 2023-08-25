@@ -4,22 +4,22 @@ Este es el sitio que vamos a estar usando durante la cursada 1c2023 de la materi
 
 * Damián Martinelli
 * Natalia Golmar
-* Gianmarco Cafferata
 * Hige
 * Ignacio Argel
 * Julieta Ponti
-* Esteban Djeordjian
 * Matias Rotondo
 * Ignacio Brusati
-* Lucas Waisten
-* Lucas Bilo
-* Matias Fusco
-* Nahuel Spiguelman
 * Alejo Caliz Blanco
 * Gabriel Semorile
 * Juan Pablo Fresia
 * Carlos Martin Stefanelli
-* Antonella Pellegrini
+* Nicolas Vagó
+* Denise Dall'acqua
+* Pedro Grin
+* Joaquin Pandolfi
+* Diego Civini
+* Lucas Fiegl
+* Lucas Correa
 
 ## Links
 
