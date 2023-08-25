@@ -23,7 +23,7 @@ Este es el sitio que vamos a estar usando durante la cursada 1c2023 de la materi
 
 ## Links
 
-* [Diapositiva administrativa](https://docs.google.com/presentation/d/1prAyHAnFvvRAhCbUXxctB1uHa48u3uQkwsOwya3T71o/edit#slide=id.g71523c761a_2_309)
+* [Diapositiva administrativa](https://docs.google.com/presentation/d/13mD5yfniLVdNpt_S7MUvc611oBjy4kvmYUUvx_530qk/edit?usp=sharing)
 * Enunciado TP Visu
 * Enunciado TP1
 * Enunciado TP2
