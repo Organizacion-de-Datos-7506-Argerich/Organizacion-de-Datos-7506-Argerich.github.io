@@ -26,8 +26,8 @@ El calendario se irá llenando a medida avance el cuatrimestre.
 | 30-10   | **NLP II** RNNs, Convs 1D, Word embeddings, Fasttext, Char embeddings |   [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYc3ZKiKx5GJVHc1Qwsejgmx) |
 | 02-11   | Consultas TP2  |    -    |
 | 06-11   | **Gen-AI I**: Generacion de Texto (ML V) |   [Lectura](TBA)    |
-| 09-11   | **Gen-AI II**: Generacion de Imagenes (ML VI) **Enunciado TP3.** |   [Lectura](TBA)  |
-| 13-11   | **Clustering** Clustering jerárquico. K-Means, K-Means online, K-Means++, Clustering espectral. DBScan y HDBScan|   [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYd6IYbQsMwPSIbDNGsuqByW)      |
+| 09-11   | **Gen-AI II**: Generacion de Imagenes (ML VI) |   [Lectura](TBA)  |
+| 13-11   | **Clustering** Clustering jerárquico. K-Means, K-Means online, K-Means++, Clustering espectral. DBScan y HDBScan **Enunciado TP3.**|   [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYd6IYbQsMwPSIbDNGsuqByW)      |
 | 16-11   | **Entrega TP2 y Reentrega TP1.** | - |
 | 20-11   | FERIADO
 | 23-11   | **Reducción de Dimensiones** PCA/SVD - LSI - Autoencoders - TSNE - UMAP.  |  [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYeTvoYdNOR9alvMUMfwq-1Z) |
