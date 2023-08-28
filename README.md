@@ -18,6 +18,7 @@ Este es el sitio que vamos a estar usando durante la cursada 1c2023 de la materi
 * Pedro Grin
 * Joaquin Pandolfi
 * Diego Civini
+* Diego Ripetour
 * Lucas Fiegl
 * Lucas Correa
 
