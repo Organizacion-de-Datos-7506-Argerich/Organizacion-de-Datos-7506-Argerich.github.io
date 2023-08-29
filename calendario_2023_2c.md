@@ -5,7 +5,7 @@ El calendario se irá llenando a medida avance el cuatrimestre.
 | Día | Tema | Teórica | Practica |
 |-----|------|---------|----------|
 | 24-08   | **Administrativa** Introducción a Data Science, Introducción a Big Data, Tipos de Datos. |[Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYevnuxYBfrvQ32zJJE2--Y4)|
-| 28-08   | **DataFrames y Análisis Exploratorio de Datos** Introducción a Pandas.                             |[Playlist](https://youtube.com/playlist?list=PLeo_qKwGPZYcRxxR-GNmBcLbujTieWpQQ)|
+| 28-08   | **DataFrames y Análisis Exploratorio de Datos** Introducción a Pandas.                             |[Playlist](https://youtube.com/playlist?list=PLeo_qKwGPZYcRxxR-GNmBcLbujTieWpQQ)|[Video](https://www.youtube.com/watch?v=1ayPWm_j86U)
 | 31-08   | **DataFrames y Análisis Exploratorio de Datos** Pandas Avanzado. El paradigma split-apply-combine. **Enunciado TP1** |[Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYf9d23qU6_t6hl7ufyfclyW)|
 | 04-09   | **Visualización de datos** |[Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYf-OzcYqlPIJdU1AHQYb3Ga)|
 | 07-09   | **DataFrames y Análisis Exploratorio de Datos** Pandas muy avanzado.                               |[Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYeu0ToyqSvq4fmUBrmRTkCp)|
