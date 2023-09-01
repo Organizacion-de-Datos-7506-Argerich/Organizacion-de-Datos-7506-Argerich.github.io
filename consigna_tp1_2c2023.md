@@ -94,8 +94,7 @@ Realizar sus correspondientes consultas en Pandas
 1. Devolver las categorías que utilicen más caracteres distintos para sus apps, y las que menos caracteres distintos usan. ¿Cuáles son los caracteres que se comparten entre ambas? (⭐⭐)
 1. Para cada categoría, calcular cuál es el caracter predominante en la misma. El caracter predominante en una categoria esta dado por el caracter que es dominante en mayor número de apps, por ej para aaaaaaax, xxb, xxs el caracter dominante de ap1 es a, pero para las otras 2 x, por lo que x es el caracter dominante en la categoría. Si no hay caracter dominante, es el primer caracter. (⭐⭐)
 1. Calcule la correlación entre la cuota de mercado de una app y su sentimiento promedio. (⭐⭐)
-1. Queremos saber cuánto pesaría si quisiéramos bajar todas las apps de un género, para todos los géneros. Para eso se pide:
-1. Calcular separado por géneros, cuanto pesarian todas las apps que tienen ese género (Tener en cuenta que si una app tiene acción y arte, su peso cuenta para ambos géneros) (⭐⭐)
+1. Queremos saber cuánto pesaría si quisiéramos bajar todas las apps de un género, para todos los géneros. Para eso se pide: Calcular separado por géneros, cuanto pesarian todas las apps que tienen ese género (Tener en cuenta que si una app tiene acción y arte, su peso cuenta para ambos géneros) (⭐⭐)
 1. Calcular el sentimiento promedio de cada categoría en base al promedio ponderado del sentimiento de sus géneros. Si por ej una categoría tiene género A y B, A tiene asociado 1 y B asociado -1, si A tiene el 75% y B el 25%, la categoría tiene un sentimiento promedio de 0.5 (⭐⭐)
 
 ## Tercera parte: Spark (**8 ptos**)
