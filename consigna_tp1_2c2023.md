@@ -106,8 +106,7 @@ Realizar sus correspondientes consultas en Spark
 1. ¿Cuál es el género más común de las aplicaciones? Indique la cantidad de aplicaciones con dicho género (⭐)
 1. A Tomás le gustan los juegos de acción y nos pidió que le ofrezcamos el top 3 de juegos de acción, generando el ranking según la cantidad de reviews positivas que hayan recibido. Devolver algunas referencias (al azar) de cada uno de ellos, para ayudarlo a decidir qué juego bajarse.(⭐⭐)
 1. Para las aplicaciones cuya última fecha de actualización haya sido en 2017 o en 2018, hayan tenido más de 10M de descargas y su rating sea de, por lo menos, 4.5, ¿Cuál de ellas es la aplicación que tuvo la mayor cantidad de reviews positivas? ¿Y las negativas? ¿Y las neutras? (⭐⭐)
-1. Queremos saber cuánto pesaría si quisiéramos bajar todas las apps de un género, para todos los géneros. Para eso se pide:
-1. Calcular separado por géneros, cuanto pesarian todas las apps que tienen ese género (Tener en cuenta que si una app tiene acción y arte, su peso cuenta para ambos géneros) (⭐⭐)
+1. Queremos saber cuánto pesaría si quisiéramos bajar todas las apps de un género, para todos los géneros. Para eso se pide: Calcular separado por géneros, cuanto pesarian todas las apps que tienen ese género (Tener en cuenta que si una app tiene acción y arte, su peso cuenta para ambos géneros) (⭐⭐)
 1. De las apps que tienen el nombre “FREE” ¿Cuál es la menos puntuada? (Rating) Si hay más de una, mostrar cualquiera (⭐)
 1. Devolver la aplicación más polarizante. tener en cuenta el promedio de polarización de las reviews de cada aplicación. (⭐)
 1. Cual es la app más cara de cada categoría (⭐)
