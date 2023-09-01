@@ -25,8 +25,8 @@ Este es el sitio que vamos a estar usando durante la cursada 1c2023 de la materi
 ## Links
 
 * [Diapositiva administrativa](https://docs.google.com/presentation/d/13mD5yfniLVdNpt_S7MUvc611oBjy4kvmYUUvx_530qk/edit?usp=sharing)
-* [Enunciado TP Visu](https://docs.google.com/document/d/1TlzF0mF5xKpGyJzrJIOcJNj7jR4BBT81uPYkL8aWPmo/edit?usp=sharing)
-* [Enunciado TP1](https://docs.google.com/document/d/1TlzF0mF5xKpGyJzrJIOcJNj7jR4BBT81uPYkL8aWPmo/edit?usp=sharing)
+* [Enunciado TP Visu](https://docs.google.com/document/d/1i8pYkrYw-tRKBKtu4HKi40IV8azagQd3iijgN1sM16E/edit?usp=sharing)
+* [Enunciado TP1](https://docs.google.com/document/d/1i8pYkrYw-tRKBKtu4HKi40IV8azagQd3iijgN1sM16E/edit?usp=sharing)
 * Enunciado TP2
 * Enunciado TP3
 * [Calendario](calendario_2023_2c.md)
