@@ -47,7 +47,7 @@ Para esta primera parte, deberán realizar los siguientes plots:
 
 ## Segunda parte - Pandas (**8 ptos**)
 Realizar sus correspondientes consultas en Pandas 
-(__Cada alumno tendrá asignado **2 ejercicios** de ⭐ estrella  y tres de estrellas ⭐⭐, las asignaciones están disponibles en la [pagina](https://organizacion-de-datos-7506-argerich.github.io/Asignaciones%20TP1-2c2023.html)
+(_Cada alumno tendrá asignado **2 ejercicios** de ⭐ estrella  y tres de estrellas ⭐⭐, las asignaciones están disponibles en la [pagina](https://organizacion-de-datos-7506-argerich.github.io/Asignaciones%20TP1-2c2023.html)_)
 
 1. Indicar cuántas aplicaciones tienen al menos un review, y listarlas (⭐)
 1. Indicar cuántas aplicaciones no han recibido ningún review, y listarlas (⭐)
@@ -101,7 +101,7 @@ Realizar sus correspondientes consultas en Pandas
 ## Tercera parte: Spark (**8 ptos**)
 
 Realizar sus correspondientes consultas en Spark
-(__Cada alumno tendrá asignado **2 ejercicios** de ⭐ estrella  y tres de estrellas ⭐⭐, las asignaciones están disponibles en la [pagina](https://organizacion-de-datos-7506-argerich.github.io/Asignaciones%20TP1-2c2023.html))
+(_Cada alumno tendrá asignado **2 ejercicios** de ⭐ estrella  y tres de estrellas ⭐⭐, las asignaciones están disponibles en la [pagina](https://organizacion-de-datos-7506-argerich.github.io/Asignaciones%20TP1-2c2023.html)_)
 1. ¿Cuál es la categoría con mayor cantidad de reviews promedio en sus aplicaciones? ¿Por qué? (⭐)
 1. Teniendo en cuenta las reviews que reciben las aplicaciones, devolver una (al azar) de la aplicación que haya recibido la mayor cantidad de reviews positivas. (⭐)
 1. ¿Cuál es el género más común de las aplicaciones? Indique la cantidad de aplicaciones con dicho género (⭐)
