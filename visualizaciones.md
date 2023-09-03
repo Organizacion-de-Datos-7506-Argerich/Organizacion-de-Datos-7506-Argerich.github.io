@@ -2,6 +2,49 @@
 
 Como parte del desarrollo del TP1 pedimos una visualización original, aquí destacamos algunas de cuatrimestres pasados que nos gustaron.
 
+## 1er cuatrimestre 2023
+
+* Colores en banderas (Miguel Theo)
+<img src="visus/Screenshot from 2023-09-03 17-15-30.png" />
+
+* Escuderias F1 (Fernando Buono)
+<img src="visus/Screenshot from 2023-09-03 17-20-08.png" />
+
+* Libros (Lanzillotta Valentina)
+<img src="visus/Screenshot from 2023-09-03 17-20-31.png" />
+
+* Albunes de Taylor (Melina Callebaut)
+<img src="visus/Screenshot from 2023-09-03 17-21-04.png" />
+
+* Kimetsu no Yaiba (Ronchi Santiago Agustin)
+<img src="visus/Screenshot from 2023-09-03 17-21-28.png" />
+[Version Interactiva](https://view.genial.ly/64574d49c19e270018381bc8/interactive-content-visu-ventas-demon-slayer)
+
+* Lenguajes de programacion (Bianchi Fernandez Marcos)
+<img src="visus/Screenshot from 2023-09-03 17-21-49.png" />
+
+* NBA (Martinez Francisco Ezequiel)
+<img src="visus/Screenshot from 2023-09-03 17-22-16.png" />
+
+* One Piece (Valdevenito Alan Ezequiel)
+<img src="visus/Screenshot from 2023-09-03 17-22-45.png" />
+
+* Top videos YT (Denise Dall’Acqua)
+<img src="visus/Screenshot from 2023-09-03 17-23-13.png" />
+
+* Acceso a internet (Ledesma Martin)
+<img src="visus/Screenshot from 2023-09-03 17-23-31.png" />
+
+* Salarios NBA (Correa Lucas Valentin)
+<img src="visus/Screenshot from 2023-09-03 17-24-25.png" />
+
+* Ajedrez (Mateo Julián Rico)
+<img src="visus/Screenshot from 2023-09-03 17-24-48.png" />
+
+* Mucho Texto (Fernandez Julio Mateo)
+<img src="visus/Screenshot from 2023-09-03 17-25-10.png" />
+
+
 ## 1er cuatrimestre 2022
 
 * Wordle (Melina Lazzaro)
