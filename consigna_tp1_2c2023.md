@@ -67,7 +67,7 @@ Realizar sus correspondientes consultas en Pandas
 1. Para el rating promedio de cada categoría que no sea 1.9, ¿Cuáles son los 5 promedios más comunes? (⭐)
 1. Para las aplicaciones que no sean para niños (Teen), ¿En qué posición se encuentra el género Communication? (⭐) Hint: está entre uno de los géneros con más aplicaciones.
 1. De las apps que tienen en el nombre “FREE” ¿Cuál es la menos puntuada? (Rating) Si hay más de una, mostrar cualquiera (⭐)
-1. Calcular la antigüedad promedio de las app de categoría “Family”. (⭐⭐)
+1. Calcule la correlacion entre la antiguedad promedio (en dias) de una categoria con el promedio de la polaridad de sus reviews y con el promedio de la subjetividad de las mismas. (⭐⭐)
 1. Listar, para cada categoría, cuáles son las tres aplicaciones con mejor Rating (⭐⭐)
 1. Para cada categoría, indicar cuál es la aplicación que tiene mayor cantidad de reviews con sentimiento negativo (⭐⭐)
 1. Indicar cuáles son las 10 aplicaciones que generaron opiniones más polarizadas (mayor cantidad de opiniones positivas o negativas, pero muy pocas neutras). Por ej, si la app A tiene 50 reviews, 25 positivos y 25 negativos, y la app B tiene 100 reviews, 25 positivos, 25 negativos y 50 neutros, y la app C tiene 10 reviews positivos, 10 negativos, y ninguno neutro, deberíamos listar primero la app A, luego la C y por último la B (⭐⭐)
