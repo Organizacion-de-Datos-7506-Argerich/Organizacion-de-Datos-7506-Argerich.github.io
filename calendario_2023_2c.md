@@ -8,8 +8,8 @@ El calendario se irá llenando a medida avance el cuatrimestre.
 | 28-08   | **DataFrames y Análisis Exploratorio de Datos** Introducción a Pandas.                             |[Playlist](https://youtube.com/playlist?list=PLeo_qKwGPZYcRxxR-GNmBcLbujTieWpQQ)|[Video](https://www.youtube.com/watch?v=1ayPWm_j86U)
 | 31-08   | **DataFrames y Análisis Exploratorio de Datos** Pandas Avanzado. El paradigma split-apply-combine. **Enunciado TP1** |[Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYf9d23qU6_t6hl7ufyfclyW)|[Video](https://www.youtube.com/watch?v=qnC5_fWlmIo)
 | 04-09   | **Visualización de datos** |[Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYf-OzcYqlPIJdU1AHQYb3Ga)| [Video](https://youtu.be/C5avy9jJZ4o)
-| 07-09   | **DataFrames y Análisis Exploratorio de Datos** Pandas muy avanzado.                               |[Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYeu0ToyqSvq4fmUBrmRTkCp)|
-| 11-09   | **NLP I** Parsing, TF-IDF, Bag of Words, Pre-procesamiento, stop words, stemming, lematización. **Entrega TP Visu** |[Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYfkL8tu3Mg3_5xb1UYGvjWH)|
+| 07-09   | **DataFrames y Análisis Exploratorio de Datos** Pandas muy avanzado.                               |[Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYeu0ToyqSvq4fmUBrmRTkCp)| [Video](https://youtu.be/AJ83mFjzBxA)
+| 11-09   | **NLP I** Parsing, TF-IDF, Bag of Words, Pre-procesamiento, stop words, stemming, lematización. **Entrega TP Visu** |[Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYfkL8tu3Mg3_5xb1UYGvjWH)| 
 | 14-09   | Consulta TP1 Pandas                                                                                   | - |
 | 18-09   | **Compresión e IA** Compresión sin pérdida, Complejidad de Kolmogorov, Teoría de la información, Inducción de Solomonoff, Compresión con pérdida.                                                                                                |[Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYfKGWLlVG8J86OzRgJ8NLcJ)|
 | 21-09   | DIA DE LA PRIMAVERA                                                                   |-|
