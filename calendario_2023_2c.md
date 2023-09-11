@@ -11,9 +11,9 @@ El calendario se irá llenando a medida avance el cuatrimestre.
 | 07-09   | **DataFrames y Análisis Exploratorio de Datos** Pandas muy avanzado.                               |[Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYeu0ToyqSvq4fmUBrmRTkCp)| [Video](https://youtu.be/AJ83mFjzBxA)
 | 11-09   | **NLP I** Parsing, TF-IDF, Bag of Words, Pre-procesamiento, stop words, stemming, lematización. **Entrega TP Visu** |[Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYfkL8tu3Mg3_5xb1UYGvjWH)| 
 | 14-09   | Consulta TP1 Pandas                                                                                   | - |
-| 18-09   | **Compresión e IA** Compresión sin pérdida, Complejidad de Kolmogorov, Teoría de la información, Inducción de Solomonoff, Compresión con pérdida.                                                                                                |[Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYfKGWLlVG8J86OzRgJ8NLcJ)|
+| 18-09   | **Spark I**                                                                     |[Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYck1nRMGJFeWIN2W5IrxoLO)|
 | 21-09   | DIA DE LA PRIMAVERA                                                                   |-|
-| 25-09   | **Spark I**                                                                     |[Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYck1nRMGJFeWIN2W5IrxoLO)|
+| 25-09   | **Compresión e IA** Compresión sin pérdida, Complejidad de Kolmogorov, Teoría de la información, Inducción de Solomonoff, Compresión con pérdida.                                                                                                |[Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYfKGWLlVG8J86OzRgJ8NLcJ)|
 | 28-09   | **Spark II**                                                                   |[Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYeu_JRN8eQgzJUfaXUrhsk2)|
 | 02-10   | **Spark III**                                                                   |-|
 | 05-10   | Consultas TP1 Spark                                                             |-|
