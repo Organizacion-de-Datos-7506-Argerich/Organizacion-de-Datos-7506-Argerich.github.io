@@ -71,7 +71,7 @@ Realizar sus correspondientes consultas en Pandas
 1. Listar, para cada categoría, cuáles son las tres aplicaciones con mejor Rating (⭐⭐)
 1. Para cada categoría, indicar cuál es la aplicación que tiene mayor cantidad de reviews con sentimiento negativo (⭐⭐)
 1. Indicar cuáles son las 10 aplicaciones que generaron opiniones más polarizadas (mayor cantidad de opiniones positivas o negativas, pero muy pocas neutras). Por ej, si la app A tiene 50 reviews, 25 positivos y 25 negativos, y la app B tiene 100 reviews, 25 positivos, 25 negativos y 50 neutros, y la app C tiene 10 reviews positivos, 10 negativos, y ninguno neutro, deberíamos listar primero la app A, luego la C y por último la B (⭐⭐)
-1. Mostrar el promedio de ratings para las apps de cada categoría de tipo pagas o gratuitas. (⭐⭐)
+1. Mostrar el promedio de ratings para las apps de cada categoría de tipo pagas o gratuitas teniendo en cuenta solo a las apps que tengan al menos una review de mas de 20 palabras o alguna que incluya 'good'/'bad'. (⭐⭐)
 1. Indica las 10 apps de categoría Sport con sentimiento positivo y mayor rating.(⭐⭐)
 1. Calcular el promedio de rating por tipo de app (paid/free) para las aplicaciones que posean al menos una review donde el modulo de la polaridad
 (positiva o negativa) sea superior a dos veces la media del modulo de la polaridad de su tipo. **Aclaracion** _Una app con polaridad -0.5 tiene modulo 0.5,
