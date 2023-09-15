@@ -76,7 +76,7 @@ Realizar sus correspondientes consultas en Pandas
 1. Calcular el promedio de rating por tipo de app (paid/free) para las aplicaciones que posean al menos una review donde el modulo de la polaridad
 (positiva o negativa) sea superior a dos veces la media del modulo de la polaridad de su tipo. **Aclaracion** _Una app con polaridad -0.5 tiene modulo 0.5,
 asi que si todas las apps pagas tienen 0.5 o -0.5 en polaridad, el promedio del modulo de la polaridad es 0.5 (no 0)_ (⭐⭐)
-1. Indicar el top 3 de aplicaciones con mayor cantidad de reviews. (⭐⭐)
+1. Indicar el top 3 de generos con mayor cantidad de reviews. (⭐⭐)
 1. Utilizando los textos de las reviews, realizar una consulta mediante técnicas de NLP de modo que la query "love game" devuelva una app, especificando su nombre, rating y la review.(⭐⭐)
 1. Calcule el tamaño promedio de las aplicaciones por versión de Android, sin tener en cuenta las aplicaciones que varían en tamaño según dispositivo. (⭐⭐)
 1. Ordenar de forma descendente todas las categorías por cantidad de descargas. (⭐⭐)
