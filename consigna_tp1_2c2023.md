@@ -79,7 +79,7 @@ asi que si todas las apps pagas tienen 0.5 o -0.5 en polaridad, el promedio del 
 1. Indicar el top 3 de generos con mayor cantidad de reviews. (⭐⭐)
 1. Utilizando los textos de las reviews, realizar una consulta mediante técnicas de NLP de modo que la query "love game" devuelva una app, especificando su nombre, rating y la review.(⭐⭐)
 1. Calcule el tamaño promedio de las aplicaciones por versión de Android, sin tener en cuenta las aplicaciones que varían en tamaño según dispositivo. (⭐⭐)
-1. Ordenar de forma descendente todas las categorías por cantidad de descargas. (⭐⭐)
+1. Calcular a que cuantil de reviews pertenece cada app y ordenar de forma descendente todas las categorías segun las descargas de las apps separadas en cada cuantil. (⭐⭐)
 1. ¿Cuál es la aplicación gratis con mayor ratio de reviews positivas? (⭐⭐)
 1. Listar la cantidad de reviews neutras según el año de última actualización de la aplicación. Es decir, si una aplicación tiene 10 reviews neutras y fue actualizada por última vez en 2012, se cuentan 10 reviews para ese año. Además listar el nombre de las aplicaciones cuyo año de última actualización corresponde al año de menor cantidad de reviews neutras. (⭐⭐)
 1. ¿Cuáles son las 5 palabras más utilizadas para las reviews, sin tener en cuenta las stopwords? (⭐⭐)
