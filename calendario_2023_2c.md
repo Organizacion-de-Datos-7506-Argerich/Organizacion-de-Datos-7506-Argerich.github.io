@@ -15,7 +15,7 @@ El calendario se irá llenando a medida avance el cuatrimestre.
 | 21-09   | DIA DE LA PRIMAVERA                                                                   |-|
 | 25-09   | **Compresión e IA** Compresión sin pérdida, Complejidad de Kolmogorov, Teoría de la información, Inducción de Solomonoff, Compresión con pérdida.                                                                                                |[Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYfKGWLlVG8J86OzRgJ8NLcJ)|[Video](https://youtu.be/X_EuyDTYCeQ)|
 | 28-09   | **Spark II**                                                                   |[Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYeu_JRN8eQgzJUfaXUrhsk2)|[Video](https://www.youtube.com/watch?v=WhRgQZBA3qY)|
-| 02-10   | **Spark III**                                                                   |-|
+| 02-10   | **Spark III**                                                                   |-|[Video](https://youtu.be/2waXDVMUQP4)
 | 05-10   | Consultas TP1 Spark                                                             |-|
 | 09-10   | **Entrega TP1 y Reentrega TP Visu**                                      |-|
 | 12-10   | **Machine Learning I** Teoría de Machine Learning. Clasificación y Regresión. Linear y Logistic Regression. KNN. **Enunciado TP2**  |    [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYesnp_BG0RejQCfHnlthj-5)     |
