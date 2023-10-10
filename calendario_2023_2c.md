@@ -20,10 +20,10 @@ El calendario se irá llenando a medida avance el cuatrimestre.
 | 09-10   | **Entrega TP1 y Reentrega TP Visu**                                      |-|
 | 12-10   | **Machine Learning I** Teoría de Machine Learning. Clasificación y Regresión. Linear y Logistic Regression. KNN. **Enunciado TP2**  |    [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYesnp_BG0RejQCfHnlthj-5)     |
 | 16-10   | FERIADO                                                                   |-|
-| 19-10   | **Machine Learning II** Árboles  |    [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYeJQb-M1nE_cnj43uOKZtf2)     |
-| 23-10   | **Machine Learning III** El problema de representación. Feature Engineering y casos de estudio  |    [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYf9JstrrlXBf_SSg66aEJQk)     |
-| 26-10   | **Machine Learning IV** Deep Learning  |    [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYeMhP2KGFWFHNDesRCyRB5j)    |
-| 30-10   | **NLP II** RNNs, Convs 1D, Word embeddings, Fasttext, Char embeddings |   [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYc3ZKiKx5GJVHc1Qwsejgmx) |
+| 19-10   | **Machine Learning II**  El problema de representación. Feature Engineering y casos de estudio  |    [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYf9JstrrlXBf_SSg66aEJQk)     |
+| 23-10   | **Machine Learning III** Árboles  |    [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYeJQb-M1nE_cnj43uOKZtf2)     |
+| 26-10   | **ML IV + NLP II (A)**  CNN, Word embeddings |   [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYc3ZKiKx5GJVHc1Qwsejgmx) |
+| 30-10   | **ML IV + NLP II (B)**  RNNs, Deep Learning  |    [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYeMhP2KGFWFHNDesRCyRB5j)    |
 | 02-11   | Consultas TP2  |    -    |
 | 06-11   | **Gen-AI I**: Generacion de Texto (ML V) |   [Lectura](TBA)    |
 | 09-11   | **Gen-AI II**: Generacion de Imagenes (ML VI) |   [Lectura](TBA)  |
