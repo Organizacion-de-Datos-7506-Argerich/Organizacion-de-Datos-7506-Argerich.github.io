@@ -18,7 +18,7 @@ El calendario se irá llenando a medida avance el cuatrimestre.
 | 02-10   | **Spark III**                                                                   |-|[Video](https://youtu.be/2waXDVMUQP4)
 | 05-10   | Consultas TP1 Spark                                                             |-|
 | 09-10   | **Entrega TP1 y Reentrega TP Visu**                                      |-|
-| 12-10   | **Machine Learning I** Teoría de Machine Learning. Clasificación y Regresión. Linear y Logistic Regression. KNN. **Enunciado TP2**  |    [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYesnp_BG0RejQCfHnlthj-5)     |
+| 12-10   | **Machine Learning I** Teoría de Machine Learning. Clasificación y Regresión. Linear y Logistic Regression. KNN. **Enunciado TP2**  |    [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYesnp_BG0RejQCfHnlthj-5)     | [Video](https://youtu.be/i3D-Ooj-_9M)
 | 16-10   | FERIADO                                                                   |-|
 | 19-10   | **Machine Learning II**  El problema de representación. Feature Engineering y casos de estudio  |    [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYf9JstrrlXBf_SSg66aEJQk)     |
 | 23-10   | **Machine Learning III** Árboles  |    [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYeJQb-M1nE_cnj43uOKZtf2)     |
