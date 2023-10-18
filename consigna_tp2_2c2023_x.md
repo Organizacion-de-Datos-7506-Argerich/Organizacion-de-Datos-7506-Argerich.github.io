@@ -84,6 +84,15 @@ Adicionalmente:
 El alumnos que logren más podios en los Kahoot de ML (3 puntos por primer puesto, 2 puntos por segundo puesto, 1 punto por tercer puesto)
 suma 2 puntos extra en el TP; los siguientes 3 alumnos suman 1 punto extra.
 
+## Criterio de aprobación
+
+Se necesita un 60% (12/20) de los puntos para aprobar, con al menos 4 puntos en los modelos. 
+
+## Criterio de reentrega
+
+Se podrá reentregar el TP si el puntaje es >=8, están todos los puntos desarrollados y tienen por lo menos 4 puntos en el punto de los modelos. La reentrega consiste en corregir todos los puntos donde tuvieran menos de la mitad de los puntos.
+
+Se aprueba la reentrega si todos los puntos reentregados tienen al menos la mitad de los puntos. En caso de luego aprobar la instancia de reentrega, la nota es siempre 4.
 
 ## Criterio de corrección
 
