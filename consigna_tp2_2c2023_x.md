@@ -94,43 +94,57 @@ Se podrá reentregar el TP si el puntaje es >=8, están todos los puntos desarro
 
 Se aprueba la reentrega si todos los puntos reentregados tienen al menos la mitad de los puntos. En caso de luego aprobar la instancia de reentrega, la nota es siempre 4.
 
-## Criterio de corrección
+# Criterio de corrección
 
-- Cada visualización vale un punto y debe cumplir con las siguientes condiciones:
-  - Debe explicarse por si misma, sin necesidad de texto aclaratorio.
-  - Debe tener rótulos en los ejes que corresponda y en el título.
-  - Debe mostrar una relación o algo con la variable pedida que sea claro e interesante.
-  - El uso de color debe ser intencional, elegido por ustedes, no por la librería.
-  - La visualización debe ser legible (por ejemplo, un bar plot de 40 barras es ilegible)
-- Modelos (incluye baseline):
-  - Utiliza mal los datos de validación ya sea para obtener el resultado o para buscar hiper parámetros (-4 puntos), ejemplos:
-    - Calcular el score con otras labels,
-    - El set de validación se usa para elegir los parámetros pero también está dentro del entrenamiento de cada modelo,
-    - El set de validación se usa filtrando información a los encodings,
-    - Validación no está tomado de forma correcta.
-  - El modelo no está bien hecho (-5 puntos), ejemplo:
-    - Entrenan con las labels o datos cambiados para algunas filas
-  - No es capaz de predecir para test o no lo hace correctamente (-5 puntos)
-  - No es reproducible (-2 puntos)
-  - No obtiene bien los features más importantes (-2 puntos)
-  - La predicción en test da menos de 0.5 (-2 puntos)
-  - La predicción para test tiene errores (-1 punto)
-  - No cumple con las condiciones pedidas:
-    -  Baseline no utiliza todas las columnas del dataset (-1 punto)
-    -  No hay un modelo que use 5 features nuevas
-    -  No realiza las operaciones de feature engineering pedidas
-  -  Feature engineering inapropiado para el modelo elegido (-2 puntos) ejemplos:
-    - Features que no están normalizadas para una red neuronal
-    - Features sin ninguna consideración de escalas para un KNN
-  -  No buscan para todos los hiperparametros importantes
-**(a medida se acumulan estos pueden hacer que el modelo valga 0, pero nunca negativo)**
+## Parte I
+- Cada visualización vale un punto
+- Debe explicarse por sí misma, sin necesidad de texto aclaratorio.
+- Debe tener rótulos en los ejes que corresponda y en el título (incluyendo unidades si corresponde).
+- Debe mostrar una **relación con el target** que sea clara.
+- El uso del color debe ser intencional, elegido por ustedes, no por la librería.
+- La visualización debe ser legible (Un bar chart de 40 barras por ejemplo es ilegible)
+- Debe cumplir el objetivo propuesto
+
+## Parte II
+
+- Utiliza mal los datos de validación ya sea para obtener el resultado o para buscar hiper parámetros (-4 puntos). Ej:
+  - El set de validación se usa para elegir los parámetros pero también está dentro del entrenamiento de cada modelo
+  - El set de validación se usa filtrando información a los encodings
+- El modelo no está bien hecho (-4 puntos), Ej:
+  - Entrenan con las labels o datos cambiados para algunas filas
+- No es capaz de predecir para la competencia o no lo hace correctamente (-4 puntos)
+- No es reproducible (-2 puntos)
+- No obtiene bien los features más importantes (-2 puntos)
+- La predicción en la competencia da menos de 0.5 (-2 puntos)
+- La predicción para la competencia tiene errores (-1 punto)
+- No utiliza todos los features (-1 punto)
+
+
+## Parte III
+
+- Para cada modelo cada condición no cumplida (o mal hecha) resta 1 punto.
+- Feature engineering inapropiado para el modelo elegido (-2 puntos), Ej:
+  - Features que no están normalizadas para una red neuronal.
+  - Features sin ninguna consideración de escalas para un KNN.
+- No buscan para todos los hiperparametros importantes (-2 puntos).
+- Si un modelo diera un resultado menor a 0,6 en validación se invalida entero.
+  
+- Por sobre el puntaje total del ejercicio (ambos modelos) se restan 3 puntos si cualquiera de las siguientes cosas suceden (no acumulables):
+  - Eligen mal el mejor modelo entre los dos
+  - La predicción para la competencia no está bien hecha
+  - La predicción en la competencia da menos de 0.5.
+
+Si presentara más de 2 modelos, los puntos de los demás modelo se contarán como puntos extra (sobre la base de 2 puntos adicionales por modelo trabajado)
+
+
+**(A medida se acumulan estos pueden hacer que el item valga 0, pero nunca negativo)**
 
 ## Detalles y recomendaciones
 
 * Para consultas conceptuales sobre machine learning o preguntas de consigna pueden consultar en el canal de slack #consultas-tp2.
 * Para consultas de código con ayudante por privado. Recomendamos siempre consultar por disponibilidad en el canal publico.
-* No recomendamos usar de forma directa y sin modificaciones modelos entrenados por otros. Es posible que aplicando algunas de las tecnicas vistas en clase los puedan utilizar, pero siempre tengan en cuenta que por si solos es imposible que cumplan las condiciones pedidas. Es probable que esos modelos estén orientados a conseguir buenos resultados (cosa que encima no evaluamos) y que tengan algún error conceptual.
-* Recomendamos trabajar durante todo el TP en solo 4 notebooks: Uno de visualizaciones, otro para el perceptros y uno para cada modelo. Les recomendamos desarrollarlos de forma prolija y mostrar de forma ordenada cada uno de los resultados y pasos, con títulos y comentarios donde corresponda.
+* No deben buscar modelos entrenados por otros para usarlos, esto solo les puede jugar en contra porque es probable que no cumplan las condiciones pedidas, que no estén prolijos, que estén orientados a conseguir buenos resultados en la competencia y que tengan algún error conceptual.
+* Recomendamos trabajar durante todo el TP en solo 4 notebooks: Uno de visualizaciones, otro para el baseline y uno para cada modelo de la parte III. Les recomendamos desarrollarlos de forma prolija y mostrar de forma ordenada cada uno de los resultados y pasos, con títulos y comentarios donde corresponda.
 * El TP pide solo 6 visus y 3 modelos (baseline + 2 de competencia) con condiciones muy claras, tengan esa consideración a medida avanzan para chequear que cumplen todo.
 * El TP **no pide ni evalúa más que lo que dice**, si bien ser original y tener un buen score suma en términos de trabajo y aprendizaje para ustedes, sean inteligentes respecto a los modelos y features que eligen para trabajar para garantizar que pueden terminar. Ya van a tener tiempo de ser originales en el TP3…
 * Particularmente **este TP es muy difícil empezarlo al final**, en cuotas se vuelve mucho más sencillo. Sabemos que muchos de ustedes vienen haciendo algunos tps la última semana, y como les dijimos durante la presentacion, esperar que algo se entrene lleva inherentemente tiempo. La experiencia de cuatrimestres anteriores nos dice que **si no lo realizan de a poco no van a siquiera estar cerca de llegar**. Son demasiados conceptos a entender, muchas formas de hacerlo mal, y que sea una competencia le agrega un factor sorpresa respecto a problemas con solucion ya conocida. Esto no es solo una consigna a cumplir. El TP puede que sea más largo, pero se vuelve más corto mientras más temprano lo empiecen.
