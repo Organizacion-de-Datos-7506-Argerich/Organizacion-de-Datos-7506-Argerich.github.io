@@ -1,6 +1,7 @@
 # Trabajo Práctico 2 - Machine Learning
 
 Competencia: *Binary Classification of VPN Proxy IP Address*. 
+
 **(Tanto la participacion en la competencia como la resolucion del trabajo seran individuales)**.
 
 ### Objetivo del trabajo
