@@ -33,9 +33,8 @@ desequilibrado, ya que solo alrededor del 5% de las entradas se identifican como
 
 Se deben realizar al menos 6 visualizaciones interesantes que **ayuden a explicar el target**. Deben incluirse al menos **un plot de cada tipo**:
 * Bar plot
-* Violin plot
-* Box plot
 * Heatmap
+* Plot 2D con distribucion marginal
 
 ## Parte II - Baseline (4 Puntos)
 
