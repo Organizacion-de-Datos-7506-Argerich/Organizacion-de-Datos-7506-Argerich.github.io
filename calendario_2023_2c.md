@@ -21,7 +21,7 @@ El calendario se irá llenando a medida avance el cuatrimestre.
 | 12-10   | **Machine Learning I** Teoría de Machine Learning. Clasificación y Regresión. Linear y Logistic Regression. KNN. **Enunciado TP2**  |    [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYesnp_BG0RejQCfHnlthj-5)     | [Video](https://youtu.be/i3D-Ooj-_9M)
 | 16-10   | FERIADO                                                                   |-|
 | 19-10   | **Machine Learning II**  El problema de representación. Feature Engineering y casos de estudio  |    [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYf9JstrrlXBf_SSg66aEJQk)     | [Video](https://youtu.be/3HIk34IglV4)
-| 23-10   | **Machine Learning III** Árboles  |    [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYeJQb-M1nE_cnj43uOKZtf2)     |
+| 23-10   | **Machine Learning III** Árboles  |    [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYeJQb-M1nE_cnj43uOKZtf2)     |[Video](https://youtu.be/I4U_CvRgPHc)
 | 26-10   | **ML IV + NLP II (A)**  CNN, Word embeddings |   [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYc3ZKiKx5GJVHc1Qwsejgmx) |
 | 30-10   | **ML IV + NLP II (B)**  RNNs, Deep Learning  |    [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYeMhP2KGFWFHNDesRCyRB5j)    |
 | 02-11   | Consultas TP2  |    -    |
