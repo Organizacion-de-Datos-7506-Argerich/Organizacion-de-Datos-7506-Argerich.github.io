@@ -22,7 +22,7 @@ El calendario se irá llenando a medida avance el cuatrimestre.
 | 16-10   | FERIADO                                                                   |-|
 | 19-10   | **Machine Learning II**  El problema de representación. Feature Engineering y casos de estudio  |    [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYf9JstrrlXBf_SSg66aEJQk)     | [Video](https://youtu.be/3HIk34IglV4)
 | 23-10   | **Machine Learning III** Árboles  |    [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYeJQb-M1nE_cnj43uOKZtf2)     |[Video](https://youtu.be/I4U_CvRgPHc)
-| 26-10   | **ML IV + NLP II (A)**  CNN, Word embeddings |   [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYc3ZKiKx5GJVHc1Qwsejgmx) |
+| 26-10   | **ML IV + NLP II (A)**  CNN, Word embeddings |   [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYc3ZKiKx5GJVHc1Qwsejgmx) | [Video](https://www.youtube.com/watch?v=PXzdrtpgn7o)
 | 30-10   | **ML IV + NLP II (B)**  RNNs, Deep Learning  |    [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYeMhP2KGFWFHNDesRCyRB5j)    |
 | 02-11   | Consultas TP2  |    -    |
 | 06-11   | **Gen-AI I**: Generacion de Texto (ML V) |   [Lectura](TBA)    |
