@@ -115,9 +115,11 @@ Se aprueba la reentrega si todos los puntos reentregados tienen al menos la mita
 - No es capaz de predecir para la competencia o no lo hace correctamente (-4 puntos)
 - No es reproducible (-2 puntos)
 - No obtiene bien los features más importantes (-2 puntos)
-- La predicción en la competencia da menos de 0.5 (-2 puntos)
+- La predicción en la competencia da menos de (aplica solo 1):
+  - 0.15 (-1 puntos)
+  - 0.06 (-2 puntos)
 - La predicción para la competencia tiene errores (-1 punto)
-- No utiliza todos los features (-1 punto)
+- No utiliza todos los features exceptuando los que filtran el target (-1 punto)
 
 
 ## Parte III
