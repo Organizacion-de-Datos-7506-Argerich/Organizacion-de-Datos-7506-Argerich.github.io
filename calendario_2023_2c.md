@@ -32,7 +32,7 @@ El calendario se irá llenando a medida avance el cuatrimestre.
 | 20-11   | FERIADO
 | 23-11   | **Reducción de Dimensiones** PCA/SVD - LSI - Autoencoders - TSNE - UMAP.  |  [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYeTvoYdNOR9alvMUMfwq-1Z) |
 | 27-11   | **Entrega TP3.**  |   -    |
-| 30-11   | **Fairness** (Presencial)  |   -    |
+| 30-11   | **Fairness** |   [Playlist](https://www.youtube.com/watch?v=9VdieuHf3ik)    |
 | 04-12   | Repaso general. **Reentrega TP2.**  |   -    |
 | 07-12   | Consultas de final.  |   -    |
 | 11-12   | Final.  |   -    |
