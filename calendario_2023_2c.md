@@ -25,7 +25,7 @@ El calendario se irá llenando a medida avance el cuatrimestre.
 | 26-10   | **ML IV + NLP II (A)**  CNN, Word embeddings |   [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYc3ZKiKx5GJVHc1Qwsejgmx) | [Video](https://www.youtube.com/watch?v=PXzdrtpgn7o)
 | 30-10   | **ML IV + NLP II (B)**  RNNs, Deep Learning  |    [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYeMhP2KGFWFHNDesRCyRB5j)    |
 | 02-11   | Consultas TP2  |    -    |
-| 06-11   | **Gen-AI I**: Generacion de Texto (ML V) |   [Lectura](https://github.com/Xero-Hige/Notebooks/blob/master/Datos/2023-2c/Apunte_IA%20(LLMs).pdf)    |
+| 06-11   | **Gen-AI I**: Generacion de Texto (ML V) |   [Lectura](https://github.com/Xero-Hige/Notebooks/blob/master/Datos/2023-2c/Apunte_IA%20(LLMs).pdf)    | [Video](https://www.youtube.com/live/rQGYVEn77sY)
 | 09-11   | **Gen-AI II**: Generacion de Imagenes (ML VI) |   [Lectura](TBA)  |
 | 13-11   | **Clustering** Clustering jerárquico. K-Means, K-Means online, K-Means++, Clustering espectral. DBScan y HDBScan **Enunciado TP3.**|   [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYd6IYbQsMwPSIbDNGsuqByW)      |
 | 16-11   | **Entrega TP2 y Reentrega TP1.** | - |
