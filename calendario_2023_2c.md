@@ -26,7 +26,7 @@ El calendario se irá llenando a medida avance el cuatrimestre.
 | 30-10   | **ML IV + NLP II (B)**  RNNs, Deep Learning  |    [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYeMhP2KGFWFHNDesRCyRB5j)    |
 | 02-11   | Consultas TP2  |    -    |
 | 06-11   | **Gen-AI I**: Generacion de Texto (ML V) |   [Lectura](https://drive.google.com/file/d/1GEA-D-8802wsDNNPlYXE7IyeV8fwbuid/view?usp=sharing)    | [Video](https://www.youtube.com/live/rQGYVEn77sY)
-| 09-11   | **Gen-AI II**: Generacion de Imagenes (ML VI) |   [Lectura](https://drive.google.com/file/d/1GEA-D-8802wsDNNPlYXE7IyeV8fwbuid/view?usp=sharing)  |
+| 09-11   | **Gen-AI II**: Generacion de Imagenes (ML VI) |   [Lectura](https://drive.google.com/file/d/1GEA-D-8802wsDNNPlYXE7IyeV8fwbuid/view?usp=sharing)  | [Video](https://www.youtube.com/watch?v=i45ni8CAthk)
 | 13-11   | **Clustering** Clustering jerárquico. K-Means, K-Means online, K-Means++, Clustering espectral. DBScan y HDBScan **Enunciado TP3.**|   [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYd6IYbQsMwPSIbDNGsuqByW)      |
 | 16-11   | **Entrega TP2 y Reentrega TP1.** | - |
 | 20-11   | FERIADO
