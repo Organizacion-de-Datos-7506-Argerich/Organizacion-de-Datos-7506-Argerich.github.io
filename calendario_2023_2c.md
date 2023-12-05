@@ -32,7 +32,7 @@ El calendario se irá llenando a medida avance el cuatrimestre.
 | 20-11   | **Entrega TP2.** |
 | 23-11   | **Reducción de Dimensiones** PCA/SVD - LSI - Autoencoders - TSNE - UMAP.  |  [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYeTvoYdNOR9alvMUMfwq-1Z) | [Video](https://youtu.be/iVIyLbemvAw?feature=shared)
 | 27-11   | **Clustering** Clustering jerárquico. K-Means, K-Means online, K-Means++, Clustering espectral. DBScan y HDBSca  |   [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYd6IYbQsMwPSIbDNGsuqByW)   | [Video](https://youtu.be/6LPSGOv84CI?feature=shared)
-| 30-11   | **Fairness** |   [Playlist](https://www.youtube.com/watch?v=9VdieuHf3ik)    |
+| 30-11   | **Fairness** |   [Playlist](https://www.youtube.com/watch?v=9VdieuHf3ik)    | [Video](https://youtu.be/kMLizaVPCnc?feature=shared)
 | 04-12   | Repaso general. **Entrega TP3 y Reentrega TP2.**  |   -    |
 | 07-12   | Consultas de final.  |   -    |
 | 11-12   | Final.  |   -    |
