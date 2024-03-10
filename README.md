@@ -28,7 +28,7 @@ Este es el sitio que vamos a estar usando durante la cursada 2c2023 de la materi
 * [Enunciado TP1 (Incluye visu)](https://organizacion-de-datos-7506-argerich.github.io/consigna_tp1_2c2023.html)
 * [Enunciado TP2](https://organizacion-de-datos-7506-argerich.github.io/consigna_tp2_2c2023.html)
 * [Enunciado TP3](https://organizacion-de-datos-7506-argerich.github.io/consigna_tp3_2c2023.html)
-* [Calendario](calendario_2023_2c.md)
+* [Calendario](calendario_2024_1c.md)
 * [Guías de ejercicios](/guias)
 * [Material y bibliografía](materiales.md)
 * [Temario](temario.md)
