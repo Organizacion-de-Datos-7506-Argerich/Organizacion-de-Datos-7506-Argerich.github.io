@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
-title: Organización de Datos 7506
-description: Cátedra Argerich
+title: Organización/Ciencia de Datos 7506-9558-TA047
+description: Cátedra Martinelli
 
 keep_files: ["visus", "pdfs", "imgs"]
 include:
