@@ -3,7 +3,7 @@
 | Día | Tema | Teórica | Practica |
 |-----|------|---------|----------|
 | 11-3 	| **Administrativa**: Introducción a Data Science, Introducción a Big Data, Tipos de Datos.                                                          | [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYevnuxYBfrvQ32zJJE2--Y4)         | - |
-| 14-3 	| **Pandas I**: DataFrames. Análisis Exploratorio de Datos, Introducción a Pandas.                                                                   | [Playlist](https://youtube.com/playlist?list=PLeo_qKwGPZYcRxxR-GNmBcLbujTieWpQQ)             | - |
+| 14-3 	| **Pandas I**: DataFrames. Análisis Exploratorio de Datos, Introducción a Pandas. **Fecha límite armado grupos TP1**                                                                   | [Playlist](https://youtube.com/playlist?list=PLeo_qKwGPZYcRxxR-GNmBcLbujTieWpQQ)             | - |
 | 18-3 	| **Pandas II**: DataFrames. Análisis Exploratorio de Datos, Pandas Avanzado. El paradigma split-apply-combine. **Enunciado TP1**                    | [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYf9d23qU6_t6hl7ufyfclyW)         | - |
 | 21-3 	| **Visualización de datos**                                                                                                                         | [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYf-OzcYqlPIJdU1AHQYb3Ga)         | - |
 | 25-3 	| **Pandas III**: DataFrames. Análisis Exploratorio de Datos, Pandas muy avanzado.                                                                   | [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYeu0ToyqSvq4fmUBrmRTkCp)         | - |
