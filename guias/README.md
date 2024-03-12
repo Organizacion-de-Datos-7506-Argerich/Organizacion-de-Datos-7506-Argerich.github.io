@@ -17,3 +17,4 @@ Esta sección esta en constante construcción y mejora. Las guías son una forma
 * [Clustering](clustering.md)
 * [Fairness](fairness.md)
 * [Integradora](integradora.md)
+* [Guía 2024](guia-2024.md)
