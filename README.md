@@ -20,7 +20,7 @@ Este es el sitio que vamos a estar usando durante la cursada 1c2024 de la materi
 ## Links
 
 * [Diapositiva administrativa](https://docs.google.com/presentation/d/1ND34lzBx323nYV4ytuyOGvyu5_lCFJZye6zbQHDsbEY/edit?usp=sharing)
-* Enunciado TP1
+* [Enunciado TP1](https://docs.google.com/document/d/10DscWjkC5K1nLXgpnUOjQnxAsUWOT9B34IRF9GeLJmk/edit?usp=sharing)
 * Enunciado TP2
 * [Calendario](calendario_2024_1c.md)
 * [Guías de ejercicios](/guias)
