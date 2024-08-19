@@ -27,7 +27,6 @@
 | TBA | **Clustering**. Clustering jerárquico. K-Means, K-Means online, K-Means++, Clustering espectral. DBScan y HDBScan.                                 | [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYd6IYbQsMwPSIbDNGsuqByW)         | - |
 | TBA | **Fairness**                                                                                                                                       | [Clase Vieja](https://www.youtube.com/watch?v=9VdieuHf3ik)                                   | - |
 | TBA | Repaso general / consultas final                                                                                                                   |                                                                                              | - |
-| TBA	| **2do Recuperatorio**. Final (presencial)                                                                                                          | [Modalidad](https://youtu.be/k5Gt156nwA4)                                                    | - |
 
 ## Clases prácticas grabadas
 
