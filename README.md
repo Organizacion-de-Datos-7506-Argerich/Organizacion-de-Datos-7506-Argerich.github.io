@@ -22,7 +22,7 @@ Este es el sitio que vamos a estar usando durante la cursada 1c2024 de la materi
 * [Diapositiva administrativa](https://docs.google.com/presentation/d/1ND34lzBx323nYV4ytuyOGvyu5_lCFJZye6zbQHDsbEY/edit?usp=sharing)
 * [Enunciado TP1](https://docs.google.com/document/d/10DscWjkC5K1nLXgpnUOjQnxAsUWOT9B34IRF9GeLJmk/edit?usp=sharing)
 * [Enunciado TP2](https://docs.google.com/document/d/1h0yN42Eu3YydSku0t7EnKR0nLmytG3ZsSyPREym0ZtQ/edit?usp=sharing)
-* [Calendario](calendario_2024_1c.md)
+* [Calendario](calendario_2024_2c.md)
 * [Guías de ejercicios](/guias)
 * [Material y bibliografía](materiales.md)
 * [Temario](temario.md)
