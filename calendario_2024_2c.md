@@ -1,4 +1,4 @@
-# Calendario 2024 1er cuatrimestre
+# Calendario 2024 2do Cuatrimestre
 
 | Día | Tema | Teórica | Practica |
 |-----|------|---------|----------|
