@@ -2,7 +2,7 @@
 
 | Día | Tema | Teórica | Practica |
 |-----|------|---------|----------|
-| 19-08 | **Administrativa**: Introducción a Data Science, Introducción a Big Data, Tipos de Datos.                                                          | [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYevnuxYBfrvQ32zJJE2--Y4)         | - |
+| 19-08 | **Administrativa**: Introducción a Data Science, Introducción a Big Data, Tipos de Datos.                                                          | [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYevnuxYBfrvQ32zJJE2--Y4)         | [Clase](https://www.youtube.com/watch?v=l51mg3bqrvU) |
 | 22-08	| **Pandas I**: DataFrames. Análisis Exploratorio de Datos, Introducción a Pandas. **Enunciado TP**                                                  | [Playlist](https://youtube.com/playlist?list=PLeo_qKwGPZYcRxxR-GNmBcLbujTieWpQQ)             | - |
 | 26-08	| **Pandas II**: DataFrames. Análisis Exploratorio de Datos, Pandas Avanzado. El paradigma split-apply-combine.                                      | [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYf9d23qU6_t6hl7ufyfclyW)         | - |
 | 19-08	| **Consultas TP**  _Analisis exploratorio_                                                                                                          | - | - |
