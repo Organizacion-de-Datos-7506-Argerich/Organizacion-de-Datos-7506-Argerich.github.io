@@ -20,7 +20,7 @@ Este es el sitio que vamos a estar usando durante la cursada 2c2024 de la materi
 ## Links
 
 * [Diapositiva administrativa](TBA)
-* [Enunciado]()
+* [Enunciado](consigna_tp_2c2024.md)
 * [Calendario](calendario_2024_2c.md)
 * [Guías de ejercicios](/guias)
 * [Material y bibliografía](materiales.md)
