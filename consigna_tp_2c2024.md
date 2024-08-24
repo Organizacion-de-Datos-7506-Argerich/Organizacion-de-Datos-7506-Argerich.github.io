@@ -1,5 +1,5 @@
 # Trabajo Práctico 
-## Primera Entrega (Analisis exploratorio)
+## Consigna General
 
 El trabajo práctico de este cuatrimestre consta de cuatro entregas: 
 * Pandas
@@ -17,7 +17,7 @@ Esto podemos encontrarlo en el archivo transaction, indicado en la columna **tar
 
 _En un futuro trabajaremos para entrenar un modelo que nos permita predecir el valor de esa columna, pero por ahora vamos a dedicarle tiempo a analizar esos datos._
 
-### Primera Entrega
+### Primera Entrega (Analisis exploratorio)
 
 Trabajaremos entonces en el análisis exploratorio de los datos presentados. Para esto, vamos a presentarles algunas consultas a resolver en Pandas. 
 Si bien deben estar resueltas, **no son la totalidad de la entrega**. La idea es que sirvan de base para comenzar a entender los datos, investigarlos y sacar conclusiones.
