@@ -47,8 +47,7 @@ Cada alumno trabajará con un ayudante o grupo de ayudantes asignado y pueden se
 | 104078 | Delgado          | Nahuel           | Martín y Joaquín |
 | 104545 | Cano             | Ezequiel Martin  | Nacho B          |
 | 104607 | Mendoza          | Elias            | Nacho B          |
-| 104906 | Salerno          | Luciano          | Matías           |
-| 105079 | Brizuela Lopez   | Mariano Jesus    | Damián           |
+| 105079 | Brizuela Lopez   | Mariano Jesus    | Matías           |
 | 106194 | Galarza          | Adrian           | Natalia          |
 | 106267 | Lozano           | Martina Victoria | Lucas            |
 | 106828 | Peña             | Alejandro Daniel | Damián           |
@@ -56,7 +55,6 @@ Cada alumno trabajará con un ayudante o grupo de ayudantes asignado y pueden se
 | 108090 | Fontana          | María Agustina   | Julieta          |
 | 108932 | Zysman Bayetto   | Nicolás          | Matías           |
 | 109065 | Moscoloni        | Maria Florencia  | Nacho A          |
-| 109304 | Boccazzi         | Gianni           | Matías           |
 | 109425 | Ruiz             | Karen Belén      | Natalia          |
 | 109441 | Calvert de Bohun | Lucia            | Natalia          |
 | 109669 | Fatala           | Siro             | Julieta          |
