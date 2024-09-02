@@ -48,7 +48,7 @@ Tabajaremos en construir visualizaciones que nos permitan entender mejor los dat
 
 * **Visualización a elección** Debe que permitir mostrar al menos 4 variables del set de datos. **Importante**: no puede repetirse el tipo de plot con ninguno de los puntos anteriores.
 
-* (**OPCIONAL**) Elaborar una **visualización original** que muestre algún aspecto _interesante_ del set de datos. **Importante**: diferenciar una visualización original de un plot. En una visualización debe haber elementos gráficos que acompañen y refuercen el mensaje; debe ser atractiva para la vista, debe contar una historia, y permitir a quien la ve sacar sus conclusiones. Ante cualquier consulta pueden verlo con sus respectivos ayudantes. _Como referencia, pueden ver algunas [visualizaciónes de cuatrimestres anteriores](https://organizacion-de-datos-7506-argerich.github.io/visualizaciones.html)_ Visu Galería.
+* (**OPCIONAL**) Elaborar una **visualización original** que muestre algún aspecto _interesante_ del set de datos. **Importante**: diferenciar una visualización original de un plot. En una visualización debe haber elementos gráficos que acompañen y refuercen el mensaje; debe ser atractiva para la vista, debe contar una historia, y permitir a quien la ve sacar sus conclusiones. Ante cualquier consulta pueden verlo con sus respectivos ayudantes. _Como referencia, pueden ver algunas [visualizaciónes de cuatrimestres anteriores](https://organizacion-de-datos-7506-argerich.github.io/visualizaciones.html)_.
 
 #### Criterio de evaluacion
 
