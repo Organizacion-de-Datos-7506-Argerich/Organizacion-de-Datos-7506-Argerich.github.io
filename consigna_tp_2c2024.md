@@ -19,7 +19,7 @@ _En un futuro trabajaremos para entrenar un modelo que nos permita predecir el v
 
 ### Primera Entrega (Analisis exploratorio)
 
-Trabajaremos entonces en el análisis exploratorio de los datos presentados. Para esto, vamos a presentarles algunas consultas a resolver en Pandas. 
+Trabajaremos en el análisis exploratorio de los datos presentados. Para esto, vamos a presentarles algunas consultas a resolver en Pandas. 
 Si bien deben estar resueltas, **no son la totalidad de la entrega**. La idea es que sirvan de base para comenzar a entender los datos, investigarlos y sacar conclusiones.
 
 * ¿Cuál es la proporción de transacciones fraudulentas?
@@ -33,6 +33,35 @@ Si bien deben estar resueltas, **no son la totalidad de la entrega**. La idea es
 * En los datos vemos gran cantidad de valores nulos, ¿cómo los manejarías?
 
 Estas preguntas deben usarse como puntapié para desarrollar el análisis, intentando descubrir la relación que existe entre los distintos atributos y el target. 
+
+### Segunda Entrega (Visualizaciones)
+
+Tabajaremos en construir visualizaciones que nos permitan entender mejor los datos presentados y complementar nuestro análisis exploratorio. Para esto, vamos a proponerles algunos plots a realizar.
+
+* **Stacked Barplot** Debe que permitir ver la relación que existe entre el **tipo de producto** y **las transacciones fraudulentas**.
+
+* **Scatterplot** Debe que permitir ver la relación que existe entre el **monto de la transacción** y el **_target_**. Para elaborar este plot **necesitaran otra variable continua** (Podrían por ej tomar el tiempo).
+
+* **Heatmap** Debe que permitir ver la cantidad de **transacciones fraudulentas** para los distintos **tipos de tarjeta y montos**. _**Sugerencia:** en este punto trabajar con rangos de montos de transacción_
+
+* **Plot a elección** Debe que permitir ver como impacta el tipo de producto el target. **Importante**: no puede repetirse el tipo de plot con ninguno de los puntos anteriores.
+
+* **Visualización a elección** Debe que permitir mostrar al menos 4 variables del set de datos. **Importante**: no puede repetirse el tipo de plot con ninguno de los puntos anteriores.
+
+* (**OPCIONAL**) Elaborar una **visualización original** que muestre algún aspecto _interesante_ del set de datos. **Importante**: diferenciar una visualización original de un plot. En una visualización debe haber elementos gráficos que acompañen y refuercen el mensaje; debe ser atractiva para la vista, debe contar una historia, y permitir a quien la ve sacar sus conclusiones. Ante cualquier consulta pueden verlo con sus respectivos ayudantes. _Como referencia, pueden ver algunas [visualizaciónes de cuatrimestres anteriores](https://organizacion-de-datos-7506-argerich.github.io/visualizaciones.html)_ Visu Galería.
+
+#### Criterio de evaluacion
+
+En todos los casos, evaluaremos la calidad de las visualizaciones presentadas. Algunos puntos a tener en cuenta son:
+* ¿Tienen todos los ejes su rótulo?
+* ¿Tiene cada visualización un título?
+* ¿Es entendible la visualización sin tener que leer la explicación?
+* ¿El tipo de plot elegido es adecuado para lo que se quiere visualizar?
+* ¿Es una visualización interesante?
+* ¿El uso del color es adecuado?
+* ¿Hay un exceso o falta de elementos visuales en la visualización elegida?
+* ¿La visualización es consistente con los datos?
+
 
 ### Asignaciones de ayudantes
  
