@@ -21,6 +21,9 @@ Este es el sitio que vamos a estar usando durante la cursada 2c2024 de la materi
 
 * [Diapositiva administrativa](TBA)
 * [Enunciado](consigna_tp_2c2024.md)
+  * [Primer Parte](consigna_tp_2c2024.md#primera-entrega-analisis-exploratorio)
+  * [Segunda Parte](consigna_tp_2c2024.md#segunda-entrega-visualizaciones)
+  * [Asignacion de Ayudantes](consigna_tp_2c2024.md#asignaciones-de-ayudantes)  
 * [Calendario](calendario_2024_2c.md)
 * [Guías de ejercicios](/guias)
 * [Material y bibliografía](materiales.md)
