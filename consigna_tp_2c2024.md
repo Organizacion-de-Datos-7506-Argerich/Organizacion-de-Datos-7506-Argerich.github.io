@@ -72,8 +72,8 @@ Cada alumno trabajará con un ayudante o grupo de ayudantes asignado y pueden se
 | 81061  | Sanchez Negrette | Juan Pablo       | Lucas            |
 | 96970  | Brandan          | Ricardo Ezequiel | Martín y Joaquín |
 | 97529  | Batallan         | David Leonardo   | Nacho B          |
-| 101284 | Jadur            | Luciano          | Julieta          |
-| 104078 | Delgado          | Nahuel           | Martín y Joaquín |
+| ~~101284~~ | ~~Jadur~~            | ~~Luciano~~          | ~~Julieta~~          |
+| ~~104078~~ | ~~Delgado~~          | ~~Nahuel~~           | ~~Martín y Joaquín~~ |
 | 104545 | Cano             | Ezequiel Martin  | Nacho B          |
 | 104607 | Mendoza          | Elias            | Nacho B          |
 | 105079 | Brizuela Lopez   | Mariano Jesus    | Matías           |
@@ -90,5 +90,5 @@ Cada alumno trabajará con un ayudante o grupo de ayudantes asignado y pueden se
 | 109883 | Manuel           | Herrera          | Damián           |
 | 110147 | Barroero         | Ignacio          | JuanMa y Alejo   |
 | 110198 | Perez Mendoza    | Salvador         | JuanMa y Alejo   |
-| 110402 | Caserio Longoni  | Felipe           | Nacho A          |
+| ~~110402~~ | ~~Caserio Longoni~~  | ~~Felipe~~           | ~~Nacho A~~          |
 | 111028 | Paniccia         | Delfina          | Lucas            |
