@@ -62,6 +62,23 @@ En todos los casos, evaluaremos la calidad de las visualizaciones presentadas. A
 * ¿Hay un exceso o falta de elementos visuales en la visualización elegida?
 * ¿La visualización es consistente con los datos?
 
+### Tercera Entrega (Spark)
+
+Trabajaremos resolviendo las consultas de la [primera entrega](https://github.com/Organizacion-de-Datos-7506-Argerich/Organizacion-de-Datos-7506-Argerich.github.io/blob/main/consigna_tp_2c2024.md#primera-entrega-analisis-exploratorio), pero esta vez utilizando **Spark**.
+
+Estas consultas deben estar resueltas, pero _**no son la totalidad de la entrega. Debe tomar lo aprendido sobre los datos en el TP de Pandas e intentar descubrir más información sobre el set de datos.**_
+
+* ¿Cuál es la proporción de transacciones fraudulentas?
+* ¿Qué relación existe entre el tipo de producto y el monto de la transacción y la columna target? Calcular qué proporción de transacciones son fraudulentas para cada tipo de producto, y verificar si existe impacto.
+* ¿Cuál es el impacto del tiempo en la probabilidad de fraude?¿Cómo se distribuyen los casos fraudulentos a lo largo del tiempo?
+* ¿Hay alguna plataforma más utilizada que otras para cometer fraude?
+* ¿Hay alguna tarjeta preferida por los fraudulentos?
+* En los datos vemos gran cantidad de valores nulos, ¿cómo los manejarías?
+
+#### Importante
+
+**Estas preguntas deben usarse como puntapié para desarrollar el análisis, intentando descubrir la relación que existe entre los distintos atributos y el target.**
+
 
 ### Asignaciones de ayudantes
  
