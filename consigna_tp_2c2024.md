@@ -64,7 +64,7 @@ En todos los casos, evaluaremos la calidad de las visualizaciones presentadas. A
 
 ### Tercera Entrega (Spark)
 
-Trabajaremos resolviendo las consultas de la [primera entrega](https://github.com/Organizacion-de-Datos-7506-Argerich/Organizacion-de-Datos-7506-Argerich.github.io/blob/main/consigna_tp_2c2024.md#primera-entrega-analisis-exploratorio), pero esta vez utilizando **Spark**.
+Trabajaremos resolviendo las consultas de la [primera entrega](https://github.com/Organizacion-de-Datos-7506-Argerich/Organizacion-de-Datos-7506-Argerich.github.io/blob/main/consigna_tp_2c2024.md#primera-entrega-analisis-exploratorio), pero esta vez utilizando **Spark**. Se debe utilizar la api de RDD (la vista en clase) y **NO** otra, ya sea la de SQL, Dataframe, etc.
 
 Estas consultas deben estar resueltas, pero _**no son la totalidad de la entrega. Debe tomar lo aprendido sobre los datos en el TP de Pandas e intentar descubrir más información sobre el set de datos.**_
 
