@@ -13,8 +13,8 @@
 | 16-09	| **Entrega TP** _Defensa_                                                                                                                           | - | - |
 | 19-09	| **Spark I**.                                                                                                                                       | [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYck1nRMGJFeWIN2W5IrxoLO)         | [Video](https://youtu.be/PVrIAUX2eq0) |
 | 23-09	| **Spark II**.                                                                                                                                      | [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYeu_JRN8eQgzJUfaXUrhsk2)         | - |
-| 26-09 | **Consultas TP** _Spark_.                                                                                                                          | - | - |
-| 30-09 | **Spark III**.                                                                                                                                     | - | - |
+| 26-09 | **Spark III**                                                                                                                          | - | - |
+| 30-09 | **Consultas TP** _Spark_                                                                                                                                     | - | - |
 | 07-10	| **Compresión e IA**: Compresión sin pérdida, Complejidad de Kolmogorov, Teoría de la información, Inducción de Solomonoff, Compresión con pérdida. | [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYfKGWLlVG8J86OzRgJ8NLcJ)         | - |
 | 10-09	| **Entrega TP1**                                                                                                                                    |                                                                                              | - |
 | TBA	| **Machine Learning I**. Teoría de Machine Learning. Clasificación y Regresión. Linear y Logistic Regression. KNN.                                  | [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYesnp_BG0RejQCfHnlthj-5)         | - |
