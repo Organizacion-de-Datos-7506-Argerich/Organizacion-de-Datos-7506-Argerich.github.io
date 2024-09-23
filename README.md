@@ -23,6 +23,7 @@ Este es el sitio que vamos a estar usando durante la cursada 2c2024 de la materi
 * [Enunciado](consigna_tp_2c2024.md)
   * [Primer Parte](consigna_tp_2c2024.md#primera-entrega-analisis-exploratorio)
   * [Segunda Parte](consigna_tp_2c2024.md#segunda-entrega-visualizaciones)
+  * [Tercera Parte](consigna_tp_2c2024.md#tercera-entrega-spark)
   * [Asignacion de Ayudantes](consigna_tp_2c2024.md#asignaciones-de-ayudantes)  
 * [Calendario](calendario_2024_2c.md)
 * [Guías de ejercicios](/guias)
