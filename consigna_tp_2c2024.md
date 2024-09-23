@@ -75,9 +75,7 @@ Estas consultas deben estar resueltas, pero _**no son la totalidad de la entrega
 * ¿Hay alguna tarjeta preferida por los fraudulentos?
 * En los datos vemos gran cantidad de valores nulos, ¿cómo los manejarías?
 
-:heavy_exclamation_mark::heavy_exclamation_mark: 
 Importante: **Estas preguntas deben usarse como puntapié para desarrollar el análisis, intentando descubrir la relación que existe entre los distintos atributos y el target.**
-:heavy_exclamation_mark::heavy_exclamation_mark:
 
 ### Asignaciones de ayudantes
  
