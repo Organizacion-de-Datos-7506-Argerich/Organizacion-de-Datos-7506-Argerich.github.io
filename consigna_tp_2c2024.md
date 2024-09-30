@@ -88,10 +88,10 @@ Cada alumno trabajará con un ayudante o grupo de ayudantes asignado y pueden se
 | 97529  | Batallan         | David Leonardo   | Nacho B          |
 | ~~101284~~ | ~~Jadur~~            | ~~Luciano~~          | ~~Julieta~~          |
 | ~~104078~~ | ~~Delgado~~          | ~~Nahuel~~           | ~~Martín y Joaquín~~ |
-| 104545 | Cano             | Ezequiel Martin  | Nacho B          |
+| ~~104545~~ | ~~Cano~~             | ~~Ezequiel Martin~~  | ~~Nacho B~~          |
 | 104607 | Mendoza          | Elias            | Nacho B          |
 | 105079 | Brizuela Lopez   | Mariano Jesus    | Matías           |
-| 106194 | Galarza          | Adrian           | Natalia          |
+| ~~106194~~ | ~~Galarza~~          | ~~Adrian~~           | ~~Natalia~~          |
 | 106267 | Lozano           | Martina Victoria | Lucas            |
 | 106828 | Peña             | Alejandro Daniel | Damián           |
 | 106863 | Losada           | Tomas Facundo    | Nacho A          |
@@ -101,7 +101,7 @@ Cada alumno trabajará con un ayudante o grupo de ayudantes asignado y pueden se
 | 109425 | Ruiz             | Karen Belén      | Natalia          |
 | 109441 | Calvert de Bohun | Lucia            | Natalia          |
 | 109669 | Fatala           | Siro             | Julieta          |
-| 109883 | Manuel           | Herrera          | Damián           |
+| ~~109883~~ | ~~Manuel~~           | ~~Herrera~~          | ~~Damián~~           |
 | 110147 | Barroero         | Ignacio          | JuanMa y Alejo   |
 | 110198 | Perez Mendoza    | Salvador         | JuanMa y Alejo   |
 | ~~110402~~ | ~~Caserio Longoni~~  | ~~Felipe~~           | ~~Nacho A~~          |
