@@ -103,6 +103,6 @@ Cada alumno trabajará con un ayudante o grupo de ayudantes asignado y pueden se
 | 109669 | Fatala           | Siro             | Julieta          |
 | ~~109883~~ | ~~Manuel~~           | ~~Herrera~~          | ~~Damián~~           |
 | 110147 | Barroero         | Ignacio          | JuanMa y Alejo   |
-| 110198 | Perez Mendoza    | Salvador         | JuanMa y Alejo   |
+| ~~110198~~ | ~~Perez Mendoza~~    | ~~Salvador~~         | ~~JuanMa y Alejo~~   |
 | ~~110402~~ | ~~Caserio Longoni~~  | ~~Felipe~~           | ~~Nacho A~~          |
 | 111028 | Paniccia         | Delfina          | Lucas            |
