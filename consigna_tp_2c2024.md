@@ -77,6 +77,54 @@ Estas consultas deben estar resueltas, pero _**no son la totalidad de la entrega
 
 Importante: **Estas preguntas deben usarse como puntapié para desarrollar el análisis, intentando descubrir la relación que existe entre los distintos atributos y el target.**
 
+### Cuarta Entrega (Machine Learning)
+
+_El futuro es hoy_ y como cuarta entrega finalmente deberan desarrollar modelos de machine learning que nos permitan predecir el target de nuestro conjunto de datos dados.
+
+#### Baseline
+
+Deberan construir un modelo **muy sencillo** para saber qué es lo peor que podemos hacer. En general, esta es una tarea muy importante que queremos que repitan en sus proyectos de machine learning. ¿Por qué?
+* Navaja de Ockam[ * ](https://es.wikipedia.org/wiki/Navaja_de_Ockham): “Cuando se ofrecen dos o más explicaciones de un fenómeno, es preferible la explicación completa más simple; es decir, no deben multiplicarse las entidades sin necesidad.” ¿Para qué desarrollar un modelo super complejo si capaz es peor o casi igual que uno muy sencillo?
+* Nos sirve para saber si estamos usando bien los modelos más complejos, si su score nos da peor al baseline probablemente se deba a un error de código.
+* Nos sirve para rápidamente saber que tan complejo es un problema.
+* Los modelos simples son fáciles de entender.
+
+##### Tareas a realizar
+Utilizando **todos las columnas del dataset** (exceptuando ids únicos) con algún encoding donde sea necesario, entrenar una [regresión logística](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html), haciendo búsqueda de hiperparametros y garantizando su reproducibilidad (los resultados del notebook no deberan variar segun la corrida).
+
+##### Responder
+- ¿Cómo conviene obtener el dataset para validar?
+- ¿Cuál es el mejor score de validación obtenido?
+- ¿Qué features son los más importantes para predecir con el mejor modelo?
+- Graficar el feature importance
+
+#### Modelos para prediccion
+
+##### Tareas a realizar
+Para este punto debe diseñar y entrenar 2 modelos distintos a eleccion. Cada uno debe incluir su respectiva búsqueda de hiperparametros y feature engineering. 
+
+
+##### Requerimientos
+
+- Los modelos entre si deben ser de distintos tipos **excluyendo regresiones logísticas**. 
+- Utilizar AUC-ROC como métrica de validación.
+- Deben medirse en validación.
+- Deben ser reproducibles (el resultado del notebook **siempre** debe ser el mismo).
+- Tener un score en validación superior a 0,8.
+- Para el feature engineering debe utilizarse al menos una vez:
+  - Imputación de nulos
+  - Mean encoding
+  - One hot encoding
+- Utilizar al menos 80 features (contando cómo features columnas con números, pueden venir varios de la misma variable).
+- Utilizar las columnas: **id_31, id_33, DeviceType, DeviceInfo**.
+- Utilizar _CountVectorizer_ o _TfIdfVectorizer_ para algún feature.
+- **Ambos modelos deben cumplir TODOS los requerimientos**
+
+##### Responder
+- ¿Cómo conviene elegir los datos de validación respecto de los de train?.
+- ¿Cuál de los dos modelos arroja mejores resultados?
+- ¿Por que cree que se dio ese resultado?
+
 ### Asignaciones de ayudantes
  
 Cada alumno trabajará con un ayudante o grupo de ayudantes asignado y pueden ser consultadas en la siguiente tabla
