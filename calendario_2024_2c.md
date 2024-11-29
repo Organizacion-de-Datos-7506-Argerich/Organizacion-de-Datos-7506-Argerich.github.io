@@ -31,7 +31,7 @@
 | 18-11 | **FERIADO**                                                                                                                                        | - | - |
 | 21-11 | **Clustering**. Clustering jerárquico. K-Means, K-Means online, K-Means++, Clustering espectral. DBScan y HDBScan.                                 | [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYd6IYbQsMwPSIbDNGsuqByW)         | - |
 | 25-11 | **Consultas TP** _TP Final_                                                                                                                        | - | - |
-| 28-11 | **Gen-AI II**: Modelos de difusion, CLIP, Modelos multimodal                                                                                       | [Lectura](https://drive.google.com/file/d/1GEA-D-8802wsDNNPlYXE7IyeV8fwbuid/view?usp=sharing) (Segunda Parte)                                   | - |
+| 28-11 | **Gen-AI II**: Modelos de difusion, CLIP, Modelos multimodal                                                                                       | [Lectura](https://drive.google.com/file/d/1GEA-D-8802wsDNNPlYXE7IyeV8fwbuid/view?usp=sharing) (Segunda Parte)                                   | [Video](https://www.youtube.com/watch?v=fNqcc3gZUyE) |
 | 02-12 | **Entrega y Defensa final del TP**
 | 05-12 | Repaso general / consultas final                                                                                                                   | - | - |
 | 09-12 | Final (Presencial) - Recuperatorio Defensa TP                                                                                                      | - | - |
