@@ -26,7 +26,7 @@ Este es el sitio que vamos a estar usando durante la cursada 2c2024 de la materi
   * [Tercera Parte](consigna_tp_2c2024.md#tercera-entrega-spark)
   * [Cuarta Parte](consigna_tp_2c2024.md#cuarta-entrega-machine-learning)
   * [Asignacion de Ayudantes](consigna_tp_2c2024.md#asignaciones-de-ayudantes)  
-* [Calendario](calendario_2024_2c.md)
+* [Calendario](calendario_2025_1c.md)
 * [Guías de ejercicios](/guias)
 * [Material y bibliografía](materiales.md)
 * [Temario](temario.md)
