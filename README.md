@@ -19,7 +19,7 @@ Este es el sitio que vamos a estar usando durante la cursada 2c2024 de la materi
 
 ## Links
 
-* [Diapositiva administrativa](TBA)
+* [Diapositiva administrativa](https://docs.google.com/presentation/d/1nDd3bnu_YrViRGqyInx__iT78UD0DW_ycdj84nVSiQo/edit?usp=sharing)
 * [Enunciado](consigna_tp_2c2024.md)
   * [Primer Parte](consigna_tp_2c2024.md#primera-entrega-analisis-exploratorio)
   * [Segunda Parte](consigna_tp_2c2024.md#segunda-entrega-visualizaciones)
