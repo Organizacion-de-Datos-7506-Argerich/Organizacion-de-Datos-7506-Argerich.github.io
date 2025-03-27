@@ -20,12 +20,9 @@ Este es el sitio que vamos a estar usando durante la cursada 2c2024 de la materi
 ## Links
 
 * [Diapositiva administrativa](https://docs.google.com/presentation/d/1nDd3bnu_YrViRGqyInx__iT78UD0DW_ycdj84nVSiQo/edit?usp=sharing)
-* [Enunciado](consigna_tp_2c2024.md)
-  * [Primer Parte](consigna_tp_2c2024.md#primera-entrega-analisis-exploratorio)
-  * [Segunda Parte](consigna_tp_2c2024.md#segunda-entrega-visualizaciones)
-  * [Tercera Parte](consigna_tp_2c2024.md#tercera-entrega-spark)
-  * [Cuarta Parte](consigna_tp_2c2024.md#cuarta-entrega-machine-learning)
-  * [Asignacion de Ayudantes](consigna_tp_2c2024.md#asignaciones-de-ayudantes)  
+* TP
+  * [Primera Parte](https://docs.google.com/document/d/1pVGBDDmvJOh6RCQa5UOBxK-dY7O_BdBJAMr6uDDCc08/edit?usp=sharing)
+  * [Asignacion de Ayudantes](https://docs.google.com/spreadsheets/d/1y6ns3ZfOYN_f7DhP9AsBIhedBfWN21cbY9LjD0Y_OYo/edit?usp=sharing)  
 * [Calendario](calendario_2025_1c.md)
 * [Guías de ejercicios](/guias)
 * [Material y bibliografía](materiales.md)
