@@ -39,14 +39,19 @@ Se busca que el alumno se lleve un entendimiento profundo del dataset, para eso,
 
 Realizar visualizaciones que contengan la comparacion de los siguientes tipos de variables:
 1) Una continua con una línea de tiempo.
+
 2) Una discreta con una continua.
+
 3) Una discreta con una discreta.
+
 4) Una continua con otra continua.
 
 Además, sin repetir tipo de visualización con el punto anterior(ej si usaron barplot, no usar barplot otra vez), hacer:
 
 5) Un heatmap.
+
 6) Dos visualizaciones a elección.
+
 7) Una visualización que use una de las siguientes:
 - Treemap
 - Sankey
