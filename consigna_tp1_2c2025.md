@@ -15,9 +15,9 @@ Los trabajos prácticos de este cuatrimestre estarán organizados en **tres etap
 
 ---
 
-El conjunto de datos para la **primera parte** puede descargarse en el siguiente enlace:
+El conjunto de datos para la **primera parte** puede descargarse en el drive de alumnos:
 
-- [Descargar datos](example.com)
+- [Descargar datos](https://drive.google.com/drive/folders/1pIOWWxSCI7lA3v8djEGbQbBcXXB0g51w?usp=drive_link)
 
 ---
 
@@ -58,6 +58,7 @@ Además, sin repetir tipo de visualización con el punto anterior(ej si usaron b
 ## Metodología
 
 - Cada alumno contará con un **ayudante asignado** al que podrá hacer consultas específicas sobre su trabajo.
+- Para cualquier duda de la solución que estan pensando, pueden pedir ayuda por Slack (sin publicar su idea), y el primer ayudante disponible intentará responderles.
 - Existirá un **canal de consultas general en Slack** para dudas que puedan ser respondidas por cualquier miembro del equipo docente o incluso por otros alumnos.
 
 ---
@@ -105,7 +106,7 @@ Cada uno de los siguientes errores restará puntos:
 - ❌ No se presentan más consultas que las dadas → **Desaprueba**  
 - ❌ No se entrega informe escrito más allá del código → **Desaprueba**  
 - ⚠️ Resolución ineficiente de las consultas → **-2 pts**  
+- ⚠️ No se realiza una limpieza de los datos. → **-2 pts**
+- ⚠️ Análisis de datos incompleto. → **-2 pts**
 - ⚠️ Falta de trabajo para que las visualizaciones sean eficientes → **-2 pts**  
 - ⚠️ No se realizan visualizaciones extra → **-3 pts**  
-- ⚠️ No se realiza limpieza de los datos → **-2 pts**  
-- *(...)*  
