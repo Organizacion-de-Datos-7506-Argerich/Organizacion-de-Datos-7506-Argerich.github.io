@@ -38,6 +38,7 @@ Se busca que el alumno se lleve un entendimiento profundo del dataset, para eso,
 ## Visualizaciones
 
 Realizar visualizaciones que contengan la comparacion de los siguientes tipos de variables:
+
 1) Una continua con una línea de tiempo.
 
 2) Una discreta con una continua.
