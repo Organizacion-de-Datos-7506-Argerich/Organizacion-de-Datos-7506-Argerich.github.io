@@ -21,19 +21,36 @@ El conjunto de datos para la **primera parte** puede descargarse en el siguiente
 
 ---
 
-## Pandas (wip)
+## Pandas
 
-> **Ejemplos de consultas**  
-> Se brindarán ejemplos de consultas iniciales.  
-> Los alumnos deberán realizar **consultas adicionales** por su cuenta, más allá de las provistas.
+Se busca que el alumno se lleve un entendimiento profundo del dataset, para eso, además de **realizar sus propias consultas**, se brindarán ejemplos de consultas iniciales que los alumnos deberán resolver:
+
+> Cuál es el estado que más descuentos tiene en total? y en promedio? Supongan que de una direccion del estilo: `3123 Alan Extension Port Andrea, MA 26926`, "MA" es el estado.
+
+> ¿Cuáles son los 5 códigos postales más comunes para las órdenes con estado 'Refunded'? ¿Y cuál es el nombre más frecuente entre los clientes de esas direcciones?
+
+> Para cada tipo de pago y segmento de cliente, devolver la suma y el promedio expresado como porcentaje, de clientes activos y de consentimiento de marketing. Se valora que el output de la consulta tenga nombres claros y en español.
+
+> Para los productos que contienen en su descripción la palabra "stuff" (sin importar mayúsculas o minúsculas), calcular el peso total de su inventario agrupado por marca, mostrar sólo la marca y el peso total de las 5 más pesadas.
 
 ---
 
-## Visualizaciones (wip)
+## Visualizaciones
 
-> **Ejemplos de visualizaciones**  
-> **Mínimo obligatorio** de visus.  
-> Lineamientos para visus extra.
+Realizar visualizaciones que contengan la comparacion de los siguientes tipos de variables:
+- Una continua con una línea de tiempo.
+- Una discreta con una continua.
+- Una discreta con una discreta.
+- Una continua con otra continua.
+
+Además, sin repetir tipo de visualización con el punto anterior(ej si usaron barplot, no usar barplot otra vez), hacer:
+- Un heatmap.
+- Dos visualizaciones a elección.
+- Una visualización que use una de las siguientes:
+- - Treemap
+- - Sankey
+- - Una visu "joint" (ej JointGrid)
+- - Una visu hecha a mano con gráficas personalizadas.
 
 ---
 
