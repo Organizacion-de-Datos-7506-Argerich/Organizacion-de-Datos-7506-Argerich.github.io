@@ -89,7 +89,7 @@ La evaluación del trabajo práctico se basará en los siguientes puntos:
    - Respuesta a consultas sobre el conjunto de datos.  
    - Preguntas conceptuales sobre el procesamiento realizado.
 
-La entrega se realizará a través de la plataforma [Gradescope](https://www.gradescope.com).
+La entrega se realizará a través de la plataforma [Gradescope](https://www.gradescope.com). Donde se deberá entregar el notebook exportado a PDF (con el output de las celdas), el link al drive donde tengan el notebook, y también el informe escrito.
 
 ---
 
@@ -97,9 +97,9 @@ La entrega se realizará a través de la plataforma [Gradescope](https://www.gra
 
 Cada consulta debe incluir:
 
-1. **Título de la consulta**  
-2. **Hipótesis tomadas**  
-3. **Código que resuelve la consulta**  
+1. **Título de la consulta**
+2. **Hipótesis tomadas**
+3. **Código que resuelve la consulta**
 4. **Conclusión sobre los resultados**
 
 ---
