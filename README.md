@@ -19,7 +19,8 @@ Este es el sitio que vamos a estar usando durante la cursada 2c2024 de la materi
 
 ## Links
 
-* [Diapositiva administrativa](https://docs.google.com/presentation/d/1nDd3bnu_YrViRGqyInx__iT78UD0DW_ycdj84nVSiQo/edit?usp=sharing)
+* [Diapositiva administrativa](https://docs.google.com/presentation/d/1MzS-Gm0qWCgOM2xOjB8ManvV5tE-mghkfQ0GGxChLOk/edit?usp=sharing)
+* [Calendario](calendario_2025_2c.md)
 * [Guías de ejercicios](/guias)
 * [Material y bibliografía](materiales.md)
 * [Temario](temario.md)
