@@ -9,7 +9,7 @@
 | 104545   | Cano               | Ezequiel Martin       | Joaco P    |
 | 105011   | Bustamante         | Gonzalo Manuel        | Dami       |
 | 105692   | Guerrero           | Andres                | Martin S   |
-| 106300   | Morono             | martin nicolas        | JuanMa     |
+| 106300   | Morono             | Martin Nicolas        | JuanMa     |
 | 106860   | Bruno              | Renata                | Dami       |
 | 106933   | Cuba Diaz          | Elias Josue           | Nacho B    |
 | 107754   | Bat Mentzel        | Marcos                | Alejo      |
