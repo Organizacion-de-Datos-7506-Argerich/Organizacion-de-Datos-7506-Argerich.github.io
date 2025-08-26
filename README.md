@@ -23,6 +23,9 @@ Este es el sitio que vamos a estar usando durante la cursada 2c2024 de la materi
 * [Calendario](calendario_2025_2c.md)
 * [Guías de ejercicios](/guias)
 * [Material y bibliografía](materiales.md)
+* TP
+  * [Primera Parte](consigna_tp1_2c2025.md)
+* [Asignación Ayudantes]()
 * [Temario](temario.md)
 * Algunos trabajos anteriores
   * [Visualizaciones destacadas](visualizaciones.md)
