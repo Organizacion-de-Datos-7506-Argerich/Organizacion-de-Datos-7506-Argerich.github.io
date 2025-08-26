@@ -25,7 +25,7 @@ Este es el sitio que vamos a estar usando durante la cursada 2c2024 de la materi
 * [Material y bibliografía](materiales.md)
 * TP
   * [Primera Parte](consigna_tp1_2c2025.md)
-* [Asignación Ayudantes]()
+* [Asignación Ayudantes](asignaciones_2025_2c)
 * [Temario](temario.md)
 * Algunos trabajos anteriores
   * [Visualizaciones destacadas](visualizaciones.md)
