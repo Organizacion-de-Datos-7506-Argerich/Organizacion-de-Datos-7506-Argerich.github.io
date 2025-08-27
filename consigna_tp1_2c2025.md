@@ -17,7 +17,7 @@ Los trabajos prácticos de este cuatrimestre estarán organizados en **tres etap
 
 El conjunto de datos para la **primera parte** puede descargarse en el drive de alumnos:
 
-- [Descargar datos](https://drive.google.com/drive/folders/1pIOWWxSCI7lA3v8djEGbQbBcXXB0g51w?usp=drive_link)
+- [Descargar datos](https://drive.google.com/file/d/17MwEwXP8ICDWLbcJnC1o7dwHV6OT9gVt/view?usp=drive_link)
 
 ---
 
