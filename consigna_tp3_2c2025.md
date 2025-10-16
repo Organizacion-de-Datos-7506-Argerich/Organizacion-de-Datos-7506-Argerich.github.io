@@ -1,6 +1,5 @@
 # Ciencia de Datos — Trabajo Práctico N.º 3  
-## Resolución de Consultas con Spark
-
+## Machine Learning
 
 El tercer TP es una competencia de Machine Learning en donde cada alumno debe intentar determinar, para cada tweet brindado, si el mismo está basado en un hecho real o no.
 
