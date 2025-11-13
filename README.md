@@ -27,6 +27,7 @@ Este es el sitio que vamos a estar usando durante la cursada 2c2024 de la materi
   * [Primera Parte](consigna_tp1_2c2025.md)
   * [Segunda Parte](consigna_tp2_2c2025.md)
   * [Tercera Parte](consigna_tp3_2c2025.md)
+* [Propuestas TP Final (Opcional)](https://docs.google.com/document/d/1VIPtuhpjeMJ395F9cW0Eo7h1fJcA_whMJl_9OP4JWAE/edit?usp=sharing)
 * [Asignación Ayudantes](asignaciones_2025_2c)
 * [Temario](temario.md)
 * Algunos trabajos anteriores
