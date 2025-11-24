@@ -28,10 +28,11 @@
 | 6-11  | **Consultas TP 3**                                                                                                                                | -                                                                                             | -        |
 | 10-11 | **Trabajo TP3** - Clase libre                                                                                                                     | -                                                                                             | -        |
 | 13-11 | **Gen-AI** - Texto e Imagenes                                                                                                                     | [Lectura](https://drive.google.com/file/d/1GEA-D-8802wsDNNPlYXE7IyeV8fwbuid/view?usp=sharing) | -        |
-| 17-11 | **Gen-AI** 2                                                                                                                                      | [Lectura](https://drive.google.com/file/d/1GEA-D-8802wsDNNPlYXE7IyeV8fwbuid/view?usp=sharing) | -        |
+| 17-11 | Libre (TP3)                                                                                                                                      | -  | -        |
 | 20-11 | **Entrega Final TP3**: ML - Defensa y live coding                                                                                                 | -                                                                                             | -        |
 | 24-11 | Feriado                                                                                                                                            | -                                                                                             | -        |
-| 8-12  | Reentrega de TP Final / Recuperación Kahoots / Primer Fecha Final (presencial).                                                                   | -                                                                                             | -        |
+| 27-11 | **Gen-AI** 2                                                                                                                                      | [Lectura](https://drive.google.com/file/d/1GEA-D-8802wsDNNPlYXE7IyeV8fwbuid/view?usp=sharing) | -        |
+| 11-12  | Reentrega de TP Final / Recuperación Kahoots / Primer Fecha Final (presencial).                                                                   | -                                                                                             | -        |
 
 ## Clases prácticas grabadas
 
