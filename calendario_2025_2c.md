@@ -32,7 +32,8 @@
 | 20-11 | **Entrega Final TP3**: ML - Defensa y live coding                                                                                                 | -                                                                                             | -        |
 | 24-11 | Feriado                                                                                                                                            | -                                                                                             | -        |
 | 27-11 | **Gen-AI** 2                                                                                                                                      | [Lectura](https://drive.google.com/file/d/1GEA-D-8802wsDNNPlYXE7IyeV8fwbuid/view?usp=sharing) | -        |
-| 11-12  | Reentrega de TP Final / Recuperación Kahoots / Primer Fecha Final (presencial).                                                                   | -                                                                                             | -        |
+| 1-12 | Consultas TP4 y Consultas Final                                                                                                                                            | -                                                                                             | -        |
+| 11-12  | Reentrega de TP3 / Recuperación Kahoots / Primer Fecha Final (presencial).                                                                   | -                                                                                             | -        |
 
 ## Clases prácticas grabadas
 
