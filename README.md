@@ -1,5 +1,3 @@
-Este es el sitio que vamos a estar usando durante la cursada 2c2024 de la materia **Organización/Ciencia de Datos** de la cátedra **Martinelli**.
-
 ## Cuerpo docente
 
 * Damián Martinelli
