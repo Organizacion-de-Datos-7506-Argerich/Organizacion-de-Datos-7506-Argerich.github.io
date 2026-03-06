@@ -4,18 +4,16 @@ Este es el sitio que vamos a estar usando durante la cursada 2c2024 de la materi
 
 * Damián Martinelli
 * Natalia Golmar
-* Ignacio Argel
-* Julieta Ponti
 * Ignacio Brusati
 * Alejo Caliz Blanco
 * Matias Rotondo
-* Juan Pablo Fresia
 * Carlos Martin Stefanelli
-* Nicolas Vagó
 * Joaquin Pandolfi
 * Lucas Fiegl
-* Lucas Correa
 * Juan Manuel Osorio
+* Martin Quilis
+* Tomas Amundarain
+* Franco Bragantini
 
 ## Links
 
@@ -23,12 +21,7 @@ Este es el sitio que vamos a estar usando durante la cursada 2c2024 de la materi
 * [Calendario](calendario_2026_1c.md)
 * [Guías de ejercicios](/guias)
 * [Material y bibliografía](materiales.md)
-* TP
-  * [Primera Parte](consigna_tp1_2c2025.md)
-  * [Segunda Parte](consigna_tp2_2c2025.md)
-  * [Tercera Parte](consigna_tp3_2c2025.md)
-* [Propuestas TP Final (Opcional)](https://docs.google.com/document/d/1VIPtuhpjeMJ395F9cW0Eo7h1fJcA_whMJl_9OP4JWAE/edit?usp=sharing)
-* [Asignación Ayudantes](asignaciones_2025_2c)
+* TP (pending)
 * [Temario](temario.md)
 * Algunos trabajos anteriores
   * [Visualizaciones destacadas](visualizaciones.md)
