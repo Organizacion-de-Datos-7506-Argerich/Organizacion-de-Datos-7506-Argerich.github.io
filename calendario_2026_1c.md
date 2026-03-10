@@ -2,7 +2,7 @@
 
 | Día   | Tema                                                                                                                                                | Teórica                                                                                       | Practica |
 |-------|----------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|----------|
-| 9-3   | **Administrativa**: Introducción a Data Science, Introducción a Big Data, Tipos de Datos.                                                          | [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYevnuxYBfrvQ32zJJE2--Y4)          | -        |
+| 9-3   | **Administrativa**: Introducción a Data Science, Introducción a Big Data, Tipos de Datos.                                                          | [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYevnuxYBfrvQ32zJJE2--Y4)          | [Video](https://youtu.be/fV70oEXqkC0)        |
 | 12-3  | **Pandas I**: DataFrames. Análisis Exploratorio de Datos, Introducción a Pandas. **Enunciado de TP**                                               | [Playlist](https://youtube.com/playlist?list=PLeo_qKwGPZYcRxxR-GNmBcLbujTieWpQQ)              | -        |
 | 16-3  | **Pandas II**: DataFrames. Análisis Exploratorio de Datos, Pandas Avanzado. El paradigma split-apply-combine.                                       | [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYf9d23qU6_t6hl7ufyfclyW)          | -        |
 | 19-3  | **Visualización de datos**.                                                                                                                         | [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYf-OzcYqlPIJdU1AHQYb3Ga)          | -        |
@@ -40,3 +40,4 @@
 
 Las clases practicas grabadas se iran subiendo a este mismo calendario. En la descripción de cada video hay un link a
 los notebooks.
+
