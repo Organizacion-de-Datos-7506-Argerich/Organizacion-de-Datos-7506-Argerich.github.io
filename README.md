@@ -21,7 +21,7 @@ Sitio de la materia **Organización/Ciencia de Datos** de la cátedra **Martinel
 * [Calendario](calendario_2026_1c.md)
 * [Guías de ejercicios](/guias)
 * [Material y bibliografía](materiales.md)
-* TP (pending)
+* [TP](https://docs.google.com/document/d/14TuLXph8WZhZgn-XHzPY8XcrEX5N1UPXttUqkrQJid4/edit?usp=sharing)
 * [Temario](temario.md)
 * Algunos trabajos anteriores
   * [Visualizaciones destacadas](visualizaciones.md)
