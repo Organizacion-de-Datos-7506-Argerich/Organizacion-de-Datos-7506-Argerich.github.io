@@ -15,7 +15,7 @@
 | 13-4  | **Consultas TP**.                                                                                                                                   | -                                                                                             | -        |
 | 16-4  | **NLP I**: Parsing, TF-IDF, Bag of Words, Pre-procesamiento, stop words, stemming, lematización.                                                   | [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYfkL8tu3Mg3_5xb1UYGvjWH)          | -        |
 | 20-4  | **Compresión e IA**: Compresión sin pérdida, Complejidad de Kolmogorov, Teoría de la información, Inducción de Solomonoff, Compresión con pérdida. | [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYfKGWLlVG8J86OzRgJ8NLcJ)          | -        |
-| 23-4  | **Entrega TP**. Ejercicios de parcial listos.                                                                                                       | -                                                                                             | -        |
+| 23-4  | **Entrega TP**                                                                                                   | -                                                                                             | -        |
 | 27-4  | **Consultas Parcial**.                                                                                                                              | -                                                                                             | -        |
 | 30-4  | **Parcial**.                                                                                                                                        | -                                                                                             | -        |
 | 4-5   | **Machine Learning I**. Teoría de Machine Learning. Clasificación y Regresión. Linear y Logistic Regression. KNN.                                   | [Playlist](https://www.youtube.com/playlist?list=PLeo_qKwGPZYesnp_BG0RejQCfHnlthj-5)          | -        |
@@ -40,4 +40,5 @@
 
 Las clases practicas grabadas se iran subiendo a este mismo calendario. En la descripción de cada video hay un link a
 los notebooks.
+
 
