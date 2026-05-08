@@ -10,7 +10,7 @@ Sitio de la materia **Organización/Ciencia de Datos** de la cátedra **Martinel
 * Carlos Martin Stefanelli
 * Joaquin Pandolfi
 * Lucas Fiegl
-* Juan Manuel Osorio
+* Juan Manuel Pascual Osorio
 * Martin Quilis
 * Tomas Amundarain
 * Franco Bragantini
