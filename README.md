@@ -6,14 +6,15 @@ Sitio de la materia **Organización/Ciencia de Datos** de la cátedra **Martinel
 * Natalia Golmar
 * Ignacio Brusati
 * Alejo Caliz Blanco
-* Matias Rotondo
-* Carlos Martin Stefanelli
 * Joaquin Pandolfi
 * Lucas Fiegl
 * Juan Manuel Pascual Osorio
 * Martin Quilis
 * Tomas Amundarain
 * Franco Bragantini
+* Melanie Garcia Lapegna
+* Pedro Gillen
+* Lucas Conde
 
 ## Links
 
